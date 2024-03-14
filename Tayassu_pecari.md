@@ -2,9 +2,9 @@
 
 **Autores(as)**: Tatianne P. F. Abreu-Jardim, Monira Bruno Bicalho, Karlo Guidoni, Ana Carolina Srbek-Araujo e Marcelo Magioli
 
-![Fonte: Bernard DUPONT - Wikimedia](media/rId20.jpg){width="6.486111111111111in" height="4.864583333333333in"}
+![Fonte: Bernard DUPONT - Wikimedia Commons](media/rId20.jpg){width="6.486111111111111in" height="4.864583333333333in"}
 
-Fonte: *Bernard DUPONT - Wikimedia*
+Fonte: *Bernard DUPONT - Wikimedia Commons*
 
 **Nomes populares**: queixada, porcão, porco-do-mato
 
@@ -44,13 +44,11 @@ A espécie está presente nas seguintes unidades de conservação: PE do Rio Doc
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
--   Global: VU (IUCN 2023) -   Nacional: VU (Brasil 2022) -   Minas Gerais: CR (Conselho Estadual de Política Ambiental - COPAM
-    2010)
--   Espírito Santo: EN (Espírito Santo 2022)
+-   Global: VU (IUCN 2023) -   Nacional: VU (Brasil 2022) -   Minas Gerais: CR (COPAM 2010) -   Espírito Santo: EN (Espírito Santo 2022)
 
-**PATs/PANs**: Listada no PAN Ungulados (ICMBio 2019) e considerada espécie beneficiada nos PATs Cerrado Tocantins (Instituto Natureza do Tocantins - NATURATINS 2020) e Veredas Goyaz-Geraes (Secretaria de Meio Ambiente e Desenvolvimento Sustentável de Goiás - SEMAD-GO & Instituto Estadual de Florestas - IEF-MG 2021).
+**PATs/PANs**: Listada no PAN Ungulados (ICMBio 2019) e considerada espécie beneficiada nos PATs Cerrado Tocantins (NATURATINS 2020) e Veredas Goyaz-Geraes (SEMAD-GO & IEF-MG 2021).
 
 **CITES**: Apêndice II
 
@@ -65,32 +63,32 @@ Pesquisas relacionadas ao monitoramento de tamanho e tendência populacional sã
 
 ## REFERÊNCIAS
 
-Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
+Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) Em: *Diário Oficial da União, Edição 108, Seção 1*. p. 74--103.
 
-Conselho Estadual de Política Ambiental - COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
+COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
 
 Espírito Santo. (2022). [Decreto Nº 5237-R, de 25 de novembro de 2022.  Declara as espécies de fauna ameaçadas de extinção no Estado do Espírito Santo e dá outras providências](https://iema.es.gov.br/Media/iema/FAUNA/Decreto%205237-R_2022_25-Nov%20-%20Fauna%20(s-peixes)%20-%20Lista%20de%20Esp%C3%A9cies%20Amea%C3%A7adas%20de%20Extin%C3%A7%C3%A3o.pdf).
 
-Galetti, M., Camargo, H., Siqueira, T., Keuroghlian, A., Donatti, C.I., Jorge, M.L.S., *et al.* (2015). Diet overlap and foraging activity between feral pigs and native peccaries in the Pantanal. *PloS one*, 10, e0141459.
+Galetti, M., Camargo, H., Siqueira, T., Keuroghlian, A., Donatti, C.I., Jorge, M.L.S., *et al.* (2015). [Diet overlap and foraging activity between feral pigs and native peccaries in the Pantanal](https://doi.org/10.1371/journal.pone.0141459). *PloS one*, 10, e0141459.
 
-Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
-ICMBio. (2019). Sumário Executivo do Plano de Ação Nacional para a Conservação ddos Ungulados, 1 ciclo.
+ICMBio. (2019). Plano de Ação Nacional para a Conservação dos Ungulados, 1 ciclo. {Sumário Executivo}. MMA.
 
-Instituto Natureza do Tocantins - NATURATINS. (2020). *Plano de Ação Territorial para Conservação de Espécies Ameaçadas de Extinção do Território Cerrado Tocantins (PAT Cerrado Tocantins)- Sumário Executivo*. Palmas/TO.
+IUCN. (2023). *The IUCN Red List of Threatened Species. Version 2023-1.* Disponível em: <https://www.iucnredlist.org.> Acesso em 11 de abril de 2023.
 
-IUCN. (2023). [The IUCN Red List of Threatened Species. Version 2023-1.](https://www.iucnredlist.org.)
+Keuroghlian, A., Beisiegel, B.M., Antunes, A., Gatti, A., Pontes, A.R.M., Beisiegel, B.M., *et al.* (2023). *Tayassu pecari (Link, 1795)*.  *SALVE*. Disponível em: [https://doi.org/10.37002/salve.ficha.9813.2.](https://doi.org/10.37002/salve.ficha.9813.2) Acesso em 11 de abril de 2023.
 
-Keuroghlian, A., Beisiegel, B.M., Antunes, A., Gatti, A., Pontes, A.R.M., Beisiegel, B.M., *et al.* (2023). [Tayassu pecari](https://doi.org/10.37002/salve.ficha.9813.2). *Sistema de Avaliação do Risco de Extinção da Biodiversidade - SALVE.*
+Keuroghlian, A., Desbiez, A.L.J., Beisiegel, B.M., Medici, E.P. & Gatti, A. et al. (2018). Tayassu pecari (Link, 1795). Em: *Livro Vermelho da Fauna Brasileira Ameaçada de Extinção: Volume II - Mamíferos.* (org.  Instituto Chico Mendes de Conservação da Biodiversidade). ICMBio, Brasília, p. 88--98.
 
-Keuroghlian, A., Desbiez, A.L.J., Beisiegel, B.M., Medici, E.P. & Gatti, A. et al. (2018). *Tayassu pecari (Link, 1795).* ICMBio & MMA.
+Keuroghlian, A., Desbiez, A., Reyna-Hurtado, R., Altrichter, M., Beck, H., Taber, A., *et al.* (2013). *Tayassu pecari*. *The IUCN Red List of Threatened Species 2013: e.T41778A44051115*. Disponível em: [https://dx.doi.org/10.2305/IUCN.UK.2013-1.RLTS.T41778A44051115.en.](https://dx.doi.org/10.2305/IUCN.UK.2013-1.RLTS.T41778A44051115.en) Acesso em 11 de abril de 2023.
 
-Keuroghlian, A., Desbiez, A., Reyna-Hurtado, R., Altrichter, M., Beck, H., Taber, A., *et al.* (2013). [Tayassu pecari](https://dx.doi.org/10.2305/IUCN.UK.2013-1.RLTS.T41778A44051115.en).  *The IUCN Red List of Threatened Species*.
+Magioli, M. & Ferraz, K.M.P.M.B. (2021). Deforestation leads to prey shrinkage for an apex predator in a biodiversity hotspot. *Mammal Research*, 66, 245--255.
 
-Magioli, M. & Ferraz, K.M.P.M. de B. (2021). Deforestation leads to prey shrinkage for an apex predator in a biodiversity hotspot. *Mammal Research*, 66, 245--255.
+NATURATINS. (2020). *Plano de Ação Territorial para Conservação de Espécies Ameaçadas de Extinção do Território Cerrado Tocantins (PAT Cerrado Tocantins)- Sumário Executivo*. Palmas/TO.
 
-Secretaria de Meio Ambiente e Desenvolvimento Sustentável de Goiás - SEMAD-GO & Instituto Estadual de Florestas - IEF-MG. (2021). *Plano de Ação Territorial de Conservação de Espécies Ameaçadas de Extinção do Território Veredas Goyaz-Geraes (PAT Veredas Goyaz-Geraes) - Sumário Executivo*.
+SEMAD-GO & IEF-MG. (2021). *Plano de Ação Territorial de Conservação de Espécies Ameaçadas de Extinção do Território Veredas Goyaz-Geraes (PAT Veredas Goyaz-Geraes) - Sumário Executivo*.
 
-Tiepolo, L.M. & Tomas, W.M. (2006). *Ordem Artiodactyla.*
+Tiepolo, L.M. & Tomas, W.M. (2006). Ordem Artiodactyla. Em: *Mamíferos do Brasil.* (orgs. Reis, N.R., Peracchi, A.L., Pedro, W.A. & Lima, I.P.).
 
 Villar, N., Siqueira, T., Zipparro, V., Farah, F., Schmaedecke, G., Hortenci, L., *et al.* (2020). The cryptic regulation of diversity by functionally complementary large tropical forest herbivores. *Journal of Ecology*, 108, 279--290.

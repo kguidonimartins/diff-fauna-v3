@@ -37,7 +37,7 @@ Por muitos anos, a espécie sofreu pressão severa de caça para atender à dema
 
 ## DISTRIBUIÇÃO GEOGRÁFICA
 
-*Lontra longicaudis* possui a distribuição mais ampla entre as lontras neotropicais, abrangendo desde o noroeste do México até o Uruguai e norte da Argentina (Rheingantz *et al.* 2018). No Brasil, *L.  longicaudis* está presente em praticamente todo território nacional, com exceção de partes áridas dos estados do Ceará, Rio Grande do Norte, Paraíba e Piauí. No entanto, há escassez de dados sobre a presença da espécie na Amazônia brasileira, no Pantanal e no Paraguai (Rheingantz *et al.* 2021). Especialmente para o Espírito Santo, estudo sobre distribuição potencial da lontra (baseado em dados de presença coletados entre maio e dezembro de 2014) indicou que a maior parte da bacia do Rio Doce possui atualmente média adequabilidade de habitat para lontra, incluindo locais com adequabilidade baixa ou muito baixa, ressaltando a importância dos locais com adequabilidade mais alta para manutenção da espécie (Costa-Braga 2016).
+*Lontra longicaudis* possui a distribuição mais ampla entre as lontras neotropicais, abrangendo desde o noroeste do México até o Uruguai e norte da Argentina (Rheingantz *et al.* 2018). No Brasil, *L.  longicaudis* está presente em praticamente todo território nacional, com exceção de partes áridas dos estados do Ceará, Rio Grande do Norte, Paraíba e Piauí. No entanto, há escassez de dados sobre a presença da espécie na Amazônia brasileira, no Pantanal e no Paraguai (Rheingantz *et al.* 2021). Especialmente para o Espírito Santo, estudo sobre distribuição potencial da lontra (baseado em dados de presença coletados entre maio e dezembro de 2014) indicou que a maior parte da bacia do Rio Doce possui atualmente média adequabilidade de habitat para lontra, incluindo locais com adequabilidade baixa ou muito baixa, ressaltando a importância dos locais com adequabilidade mais alta para manutenção da espécie (Braga 2016).
 
 A espécie possui ocorrência nos seguintes estados do Brasil: PR, PA, PB, SC, SE, BA, AL, MS, MG, RO, RR, MT, PI, AC, ES, RS, PE, RJ, MA, AP, TO, SP, DF, AM, RN e GO.
 
@@ -47,13 +47,11 @@ A espécie está presente nas seguintes unidades de conservação: PE do Rio Doc
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
--   Global: NT (IUCN 2023) -   Nacional: LC (Brasil 2022) -   Minas Gerais: VU (Conselho Estadual de Política Ambiental - COPAM
-    2010)
--   Espírito Santo: VU (Espírito Santo 2022)
+-   Global: NT (IUCN 2023) -   Nacional: LC (Brasil 2022) -   Minas Gerais: VU (COPAM 2010) -   Espírito Santo: VU (Espírito Santo 2022)
 
-**PATs/PANs**: Listada nos PANs Ariranha (CENAP 2016), Baixo Iguaçu (CEPTA 2018) e Mamíferos Aquáticos Amazônicos (CMA 2019). É uma espécie beneficiada no PAT Chapada Diamantina-Serra da Jiboia (Instituto do Meio Ambiente e Recursos Hídricos - INEMA & Secretaria do Meio Ambiente - SEMA 2021)
+**PATs/PANs**: Listada nos PANs Ariranha (Brasil 2016), Baixo Iguaçu (ICMBio 2018) e Mamíferos Aquáticos Amazônicos (ICMBio 2019). É uma espécie beneficiada no PAT Chapada Diamantina-Serra da Jiboia (INEMA & SEMA 2021)
 
 **CITES**: Apêndice I
 
@@ -68,36 +66,36 @@ perda de habitat tanto terrestre quanto aquático, mortalidade direta de espéci
 
 ## REFERÊNCIAS
 
-Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
+Braga, D.C. (2016). [*Dieta e áreas de distribuição potencial de Lontra longicaudis (Carnivora: Mustelidae) na porção sul do corredor central da Mata Atlântica, sudeste do Brasil*](https://repositorio.uvv.br//handle/123456789/479). Tese (Doutorado de Ecologia de Ecossistemas) - Universidade Vila Velha.
 
-CENAP. (2016). [Plano de Ação Nacional para a Conservação da Ariranha](https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/pan/pan-ariranha/2-ciclo/pan-ariranha-portaria-aprovacao.pdf).  *PORTARIA Nº 85, DE 24 DE AGOSTO DE 2016*.
+Brasil. (2016). [Portaria ICMBio Nº 85, de 24 de agosto de 2016.Aprova o Plano de Ação Nacional para a Conservação da Ariranha, estabelecendo seu objetivo, metas, prazo, abrangência e formas de implementação e supervisão - 2º. Ciclo (Processo Administrativo nº 02070.004196/2010-93).  ICMBio](https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/pan/pan-ariranha/2-ciclo/pan-ariranha-portaria-aprovacao.pdf).  Em: *Diário Oficial da União, Edição 170, Seção 1*. ICMBio, p. 47.
 
-CEPTA. (2018). *Plano de Ação Nacional para a Conservação da Fauna Aquática e Semiaquática da Bacia do Baixo Iguaçu - PAN Baixo Iguaçu*.  ICMBio, Brasília.
+Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) Em: *Diário Oficial da União, Edição 108, Seção 1*. p. 74--103.
 
-CMA. (2019). *Plano de Ação Nacional para Conservação de Mamíferos Aquáticos Amazônicos Ameaçados de Extinção (PAN Mamíferos Aquáticos Amazônicos)*. ICMBio, Brasília.
-
-Conselho Estadual de Política Ambiental - COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
-
-Costa-Braga, D. (2016). Dieta e áreas de distribuição potencial de Lontra longicaudis (Carnivora: Mustelidae) na porção sul do corredor central da Mata Atlântica, sudeste do Brasil. tese de doutorado.  Universidade Vila Velha.
+COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
 
 Costa-Braga, D., Rossi, J.L. & Srbek-Araujo, A.C. (2019). Exotic species as the main prey items of the Neotropical otter in the Atlantic Forest, southeastern Brazil. *Tropical Ecology*, 60, 30--40.
 
 Espírito Santo. (2022). [Decreto Nº 5237-R, de 25 de novembro de 2022.  Declara as espécies de fauna ameaçadas de extinção no Estado do Espírito Santo e dá outras providências](https://iema.es.gov.br/Media/iema/FAUNA/Decreto%205237-R_2022_25-Nov%20-%20Fauna%20(s-peixes)%20-%20Lista%20de%20Esp%C3%A9cies%20Amea%C3%A7adas%20de%20Extin%C3%A7%C3%A3o.pdf).
 
-Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
-Instituto do Meio Ambiente e Recursos Hídricos - INEMA & Secretaria do Meio Ambiente - SEMA. (2021). *Plano de Ação Territorial de Conservação de Espécies Ameaçadas de Extinção do Território Chapada Diamantina-Serra da Jiboia (PAT Chapada Diamantina-Serra da Jiboia) - Sumário Executivo*.  Salvador/BA.
+ICMBio. (2018). Plano de Ação Nacional para a Conservação da Fauna Aquática e Semiaquática da Bacia do Baixo Iguaçu - PAN Baixo Iguaçu.  Sumário Executivo. ICMBio, Brasília, p. 1--8.
 
-IUCN. (2023). [The IUCN Red List of Threatened Species. Version 2023-1.](https://www.iucnredlist.org.)
+ICMBio. (2019). Plano de Ação Nacional para Conservação de Mamíferos Aquáticos Amazônicos Ameaçados de Extinção. Sumário Executivo. ICMBio, Brasília, p. 8.
 
-Larivière, S. (1999). Lontra longicaudis. *Mammalian Species*, 1--5.
+INEMA & SEMA. (2021). *Plano de Ação Territorial de Conservação de Espécies Ameaçadas de Extinção do Território Chapada Diamantina-Serra da Jiboia (PAT Chapada Diamantina-Serra da Jiboia) - Sumário Executivo*.  Salvador.
 
-Leuchtenberger, C., Dias, D.M., Abra, F.D., Rodrigues, L.A., Ribeiro, P.F.R. & Rheingantz, M.L. (2023). [Lontra longicaudis (Olfers, 1818)](https://salve.icmbio.gov.br). *Sistema de Avaliação do Risco de Extinção da Biodiversidade -SALVE*.
+IUCN. (2023). *The IUCN Red List of Threatened Species. Version 2023-1.* Disponível em: <https://www.iucnredlist.org.> Acesso em 11 de abril de 2023.
 
-Rheingantz, M.L., Rosas-Ribeiro, P., Gallo-Reynoso, J., Fonseca da Silva, V.C., Wallace, R., Utreras, V., *et al.* (2021). [Lontra longicaudis](https://doi.org/10.2305/iucn.uk.2021-3.rlts.t12304a164577708.en).  *IUCN Red List of Threatened Species*.
+Larivière, S. (1999). Lontra longicaudis. *Mammalian Species*, 609, 1--5.
+
+Leuchtenberger, C., Dias, D.M., Abra, F.D., Rodrigues, L.A., Ribeiro, P.F.R. & Rheingantz, M.L. (2023). *Lontra longicaudis (Olfers, 1818)*.  *SALVE*. Disponível em: [https://doi.org/10.37002/salve.ficha.14010.2.](https://doi.org/10.37002/salve.ficha.14010.2) Acesso em 11 de abril de 2023.
+
+Rheingantz, M.L., Rosas-Ribeiro, P., Gallo-Reynoso, J., Fonseca Silva, V.C., Wallace, R., Utreras, V., *et al.* (2021). *Lontra longicaudis*.  *The IUCN Red List of Threatened Species 2021: e.T12304A164577708*.  Disponível em: [https://dx.doi.org/10.2305/IUCN.UK.2021-3.RLTS.T12304A164577708.en.](https://dx.doi.org/10.2305/IUCN.UK.2021-3.RLTS.T12304A164577708.en) Acesso em 11 de abril de 2023.
 
 Rheingantz, M.L., Santiago-Plata, V.M. & Trinca, C.S. (2017). The Neotropical otter Lontra longicaudis: a comprehensive update on the current knowledge and conservation status of this semiaquatic carnivore.  *Mammal Review*, 47, 291--305.
 
-Rheingantz, M., Valenzuela, A.E.J., Botero Botero, A., Thoisy, B. de, Trujillo, F., González, I., *et al.* (2018). Neotropical Otter Lontra longicaudis.
+Rheingantz, M., Valenzuela, A.E.J., Botero Botero, A., Thoisy, B., Trujillo, F., González, I., *et al.* (2018). *Neotropical Otter Lontra longicaudis*. International Union for Conservation of Nature; Natural Resources.
 
-Rosas-Ribeiro, P.F., Ranulpho, R. & Venticinque, E. (2017). New records and update on the geographic distribution of Lontra longicaudis (Olfers, 1818)(Carnivora: Mustelidae) in Seasonally Dry Tropical Forests of northeastern Brazil. *Check List*, 13, 2108--2108.
+Rosas-Ribeiro, P.F., Ranulpho, R. & Venticinque, E. (2017). [New records and update on the geographic distribution of Lontra longicaudis (Olfers, 1818)(Carnivora: Mustelidae) in Seasonally Dry Tropical Forests of northeastern Brazil](https://doi.org/10.15560/13.3.2108). *Check List*, 13, 2108--2108.

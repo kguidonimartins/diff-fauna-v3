@@ -2,6 +2,10 @@
 
 **Autores(as)**: Monira Bruno Bicalho, Bruno R. Ribeiro, Karlo Guidoni e Flávia Chaves
 
+![Fonte: Filipe J Ribeiro - BioDiversity4All. Imagem da espécie T.  furmigatus](media/rId20.jpg){width="4.166666666666667in" height="2.7777777777777777in"}
+
+Fonte: *Filipe J Ribeiro - BioDiversity4All. Imagem da espécie T.  furmigatus*
+
 **Nomes populares**: sabiá-da-mata
 
 **Filo**: Chordata
@@ -35,7 +39,7 @@ A espécie está presente nas seguintes unidades de conservação: FLONA de Goyt
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Espírito Santo: EN (Espírito Santo 2022)
 
@@ -53,10 +57,10 @@ Pesquisas relacionadas à distribuição, ameaças, tamanho e tendência populac
 
 ## REFERÊNCIAS
 
-BirdLife International. (2023). [Species factsheet: Cocoa Thrush (Turdus fumigatus)](http://datazone.birdlife.org/species/factsheet/cocoa-thrush-turdus-fumigatus).
+BirdLife International. (2023). *Species factsheet: Turdus fumigatus*.  *BirdLife International*. Disponível em: [http://datazone.birdlife.org/species/factsheet/cocoa-thrush-turdus-fumigatus.](http://datazone.birdlife.org/species/factsheet/cocoa-thrush-turdus-fumigatus) Acesso em 11 de abril de 2023.
 
 Espírito Santo. (2022). [Decreto Nº 5237-R, de 25 de novembro de 2022.  Declara as espécies de fauna ameaçadas de extinção no Estado do Espírito Santo e dá outras providências](https://iema.es.gov.br/Media/iema/FAUNA/Decreto%205237-R_2022_25-Nov%20-%20Fauna%20(s-peixes)%20-%20Lista%20de%20Esp%C3%A9cies%20Amea%C3%A7adas%20de%20Extin%C3%A7%C3%A3o.pdf).
 
-Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
 O'Neill, J.P., Lane, D.F. & Naka, L.N. (2011). [A Cryptic New Species of Thrush (Turdidae: *Turdus* ) from Western Amazonia](https://doi.org/10.1525/cond.2011.100244). *The Condor*, 113, 869--880.

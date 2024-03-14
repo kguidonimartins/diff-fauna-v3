@@ -2,9 +2,9 @@
 
 **Autores(as)**: Tatianne P. F. Abreu-Jardim, Monira Bruno Bicalho, Karlo Guidoni e Jessica Naiara Reis
 
-![Fonte: Allison Dias - wikimedia](media/image4.jpg){width="6.486111111111111in" height="4.2209437882764655in"}
+![Fonte: Allison Dias - Wikimedia Commons](media/rId20.jpg){width="6.486111111111111in" height="4.2209437882764655in"}
 
-Fonte: *Allison Dias - wikimedia*
+Fonte: *Allison Dias - Wikimedia Commons*
 
 **Nomes populares**: mãe-da-lua-gigante, urutau-grande
 
@@ -59,14 +59,14 @@ Pesquisas relacionadas à taxonomia, distribuição, tamanho e tendência popula
 
 ## REFERÊNCIAS
 
-Adams, K. (2011). Great Potoo (Nyctibius grandis). Em: *Birds of the World*. Cornell Lab of Ornithology, Ithaca, NY, USA.
+Adams, K. (2011). Great Potoo (Nyctibius grandis). Em: *Birds of the World* (org. Schulenberg, T.S.). Cornell Lab of Ornithology, Ithaca, NY, USA.
 
-Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
-Marini, M.A., Lima, D.M., Carvalho, C.B., Ubaid, F.K., Silva, G.B.M., Abreu, T.L.S., *et al.* (2023). [**Nyctibius grandis**](https://doi.org/10.37002/salve.ficha.18964). *Sistema de Avaliação do Risco de Extinção da Biodiversidade - SALVE.*
+Marini, M.A., Lima, D.M., Carvalho, C.B., Ubaid, F.K., Silva, G.B.M., Abreu, T.L.S., *et al.* (2023). *Nyctibius grandis Gmelin, 1789*.  *SALVE*. Disponível em: [https://doi.org/10.37002/salve.ficha.18964.](https://doi.org/10.37002/salve.ficha.18964) Acesso em 11 de abril de 2023.
 
-Sick, H. (1997). *Ornitologia Brasileira*. Nova Fronteira, Rio de Janeiro, Brasil.
+Sick, H. (1997). *Ornitologia Brasileira*. Nova Fronteira, Rio de Janeiro.
 
 Sigrist, T. (2006). *Aves do Brasil: Uma visão artística*. Avis Brasilis Editora.
 
-[**WikiAves. (2023).** ***WikiAves, a Enciclopédia das Aves do Brasil*.**](https://www.wikiaves.com.br/index.php)
+WikiAves. (2023). *WikiAves, a Enciclopédia das Aves do Brasil*.  Disponível em: [https://www.wikiaves.com.br/index.php.](https://www.wikiaves.com.br/index.php) Acesso em 11 de abril de 2023.

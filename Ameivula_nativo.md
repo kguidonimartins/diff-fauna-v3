@@ -1,6 +1,6 @@
 # *Ameivula nativo* (Rocha, Bergallo & Peccinini-Seale, 1997)
 
-**Autores(as)**: Luciana Signorelli, Monira Bruno Bicalho, Karlo Guidoni, Andre Yves e Henrique C. Costa
+**Autores(as)**: Luciana Signorelli, Monira Bruno Bicalho, Karlo Guidoni, André Yves e Henrique C. Costa
 
 **Nomes populares**: lagartinho-de-linhares, lagartinho-nativo
 
@@ -23,8 +23,8 @@ ameaças. Como resultado, a espécie foi avaliada como "Em Perigo (EN)" na bacia
 
 ## INFORMAÇÕES GERAIS
 
-*Ameivula nativo* é uma espécie de lagarto terrestre, diurno, com comprimento rostro cloacal entre 48,8 e 70 mm (Rocha 1997; Menezes *et al.* 2004). Considerado especialista de habitat, *A. nativo* ocorre em florestas de restinga e campo nativo na Mata Atlântica (Rocha 1997; Rocha *et al.* 2005; Peloso *et al.* 2008; Castro & Silva-Soares 2016; Instituto Chico Mendes de Conservação da Biodiversidade 2018), onde forrageia em borda de moitas ou sob vegetação herbácea/arbustiva (Castro & Silva-Soares 2016; Cäsar *et al.* 2019). Sua dieta consiste em larvas e cupins (Rocha *et al.* 2005; Castro & Silva-Soares 2016). A reprodução pode ser unissexual, por partenogênese, inclusive com o registro de populações formadas unicamente por fêmeas (Rocha 1997; Menezes *et al.* 2004; Rocha *et al.* 2005). A ninhada é normalmente composta por até 4 ovos e o período reprodutivo é contínuo ao longo do ano (Menezes *et al.* 2004; Castro & Silva-Soares 2016). Apesar de possuir um
-hábito especialista com relação ao seu habitat, *A. nativo* é bastante abundante onde ocorre (Pereira-Ribeiro *et al.* 2020). A densidade populacional varia de 0,5 a 20,16 ind/ha (Menezes & Rocha 2013; Pereira-Ribeiro *et al.* 2020), sendo as menores densidades registradas nos locais mais degradados (Menezes & Rocha 2013). O tempo geracional é de 3 anos (Silveira *et al.* 2021). Não há registro de informação de uso/comércio para esta espécie.
+*Ameivula nativo* é uma espécie de lagarto terrestre, diurno, com comprimento rostro cloacal entre 48,8 e 70 mm (Rocha 1997; Menezes *et al.* 2004). Considerado especialista de habitat, *A. nativo* ocorre em florestas de restinga e campo nativo na Mata Atlântica (Rocha 1997; Rocha *et al.* 2005; Peloso *et al.* 2008; Castro & Silva-Soares 2016; Colli *et al.* 2018), onde forrageia em borda de moitas ou sob vegetação herbácea/arbustiva (Castro & Silva-Soares 2016; Cäsar *et al.* 2019).  Sua dieta consiste em larvas e cupins (Rocha *et al.* 2005; Castro & Silva-Soares 2016). A reprodução pode ser unissexual, por partenogênese, inclusive com o registro de populações formadas unicamente por fêmeas (Rocha 1997; Menezes *et al.* 2004; Rocha *et al.* 2005). A ninhada é normalmente composta por até 4 ovos e o período reprodutivo é contínuo ao longo do ano (Menezes *et al.* 2004; Castro & Silva-Soares 2016).  Apesar de possuir um hábito especialista com relação ao seu
+habitat, *A.  nativo* é bastante abundante onde ocorre (Pereira-Ribeiro *et al.* 2020). A densidade populacional varia de 0,5 a 20,16 ind/ha (Menezes & Rocha 2013; Pereira-Ribeiro *et al.* 2020), sendo as menores densidades registradas nos locais mais degradados (Menezes & Rocha 2013). O tempo geracional é de 3 anos (Silveira *et al.* 2021). Não há registro de informação de uso/comércio para esta espécie.
 
 ## DISTRIBUIÇÃO GEOGRÁFICA
 
@@ -36,11 +36,11 @@ Não há registros da espécie em unidades de conservação.
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Global: EN (IUCN 2023) -   Nacional: EN (Brasil 2022) -   Espírito Santo: EN (Espírito Santo 2022)
 
-**PATs/PANs**: Espécie listada nos PANs Herpetofauna do Sudeste (Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio) 2015) Herpetofauna do Nordeste (Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio) 2019).
+**PATs/PANs**: Espécie listada nos PANs Herpetofauna do Sudeste (Brasil 2015) Herpetofauna do Nordeste (ICMBio 2022).
 
 **CITES**: Não consta
 
@@ -54,27 +54,25 @@ Recomenda-se o monitoramento a longo prazo de suas populações, para de fato co
 
 ## REFERÊNCIAS
 
-Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
+Brasil. (2015). [Portaria ICMBio Nº 48, de 6 de outubro de 2015. Aprova o Plano de Ação Nacional para Conservação da Herpetofauna Ameaçada da Mata Atlântica da Região Sudeste do Brasil](https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/pan/pan-herpetofauna-do-sudeste).  Em: *Diário Oficial da União, Edição 192, Seção 1*. ICMBio, Brasília, p.  49.
 
-Cäsar, C., Oliveira, L. de C.O. & Câmara, T. (2019). *Plano de Ação para Conservação da Biodiversidade Terrestre do Rio Doce*. Fundação Renova/Bicho do Mato Instituto de Pesquisa.
+Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) Em: *Diário Oficial da União, Edição 108, Seção 1*. p. 74--103.
 
-Castro, T.M. de & Silva-Soares, T. (2016). *Répteis da restinga do Parque Estadual Paulo César Vinha: Guarapari, Espírito Santo, Sudeste do Brasil*. 1a edição. Departamento de Publicações Acadêmicas e Científicas, Centro Universitário São Camilo, Cachoeiro de Itapemirim, Espírito Santo.
+Cäsar, C., Oliveira, L.C. & Câmara, T. (2019). Plano de Ação para Conservação da Biodiversidade Terrestre do Rio Doce. Instituto de Pesquisa Bicho do Mato/ Fundação RENOVA, p. 1--282.
 
-Colli, G.R., Fenker, J., Tedeschi, L., Lucena Bataus, Y.S. de, Uhlig, V.M., Silveira, A.L., *et al.* (2018). Ameivula nativo (Rocha, Bergallo & Peccinini-Seale, 1997). Em: *Livro Vermelho da Fauna Brasileira Ameaçada de Extinção Volume IV -- Répteis*. ICMBio/MMA.
+Castro, T.M. & Silva-Soares, T. (2016). *Répteis da restinga do Parque Estadual Paulo César Vinha: Guarapari, Espírito Santo, Sudeste do Brasil*. 1ª edição. Centro Universitário São Camilo, São Camilo.
+
+Colli, G.R., Fenker, J., Tedeschi, L., Bataus, Y.S.L., Uhlig, V.M., Silveira, A.L., *et al.* (2018). Ameivula nativo (Rocha, Bergallo & Peccinini-Seale, 1997). Em: *Livro Vermelho da Fauna Brasileira Ameaçada de Extinção: Volume IV -- Répteis* (org. Instituto Chico Mendes de Conservação da Biodiversidade). ICMBio, Brasília.
 
 Espírito Santo. (2022). [Decreto Nº 5237-R, de 25 de novembro de 2022.  Declara as espécies de fauna ameaçadas de extinção no Estado do Espírito Santo e dá outras providências](https://iema.es.gov.br/Media/iema/FAUNA/Decreto%205237-R_2022_25-Nov%20-%20Fauna%20(s-peixes)%20-%20Lista%20de%20Esp%C3%A9cies%20Amea%C3%A7adas%20de%20Extin%C3%A7%C3%A3o.pdf).
 
-Golder Associates. (2016). Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
 Guedes, T.B., Entiauspe-Neto, O.M. & Costa, H.C. (2023). [Lista de répteis do Brasil: atualização de 2022](https://doi.org/10.5281/zenodo.7829013). *Herpetologia Brasileira*, 12, 56--161.
 
-Instituto Chico Mendes de Conservação da Biodiversidade. (2018). Livro Vermelho da Fauna Brasileira Ameaçada de Extinção: Volume VII - Invertebrados. Em: *In: Instituto Chico Mendes de Conservação da Biodiversidade. (Org.). Livro Vermelho da Fauna Brasileira Ameaçada de Extinção*. ICMBio, Brasília, p. 727.
+ICMBio. (2022). [Plano de Ação Nacional para Conservação da Herpetofauna do Nordeste](https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/pan/pan-herpetofauna-do-nordeste).  Sumário Executivo. ICMBio; MMA, Brasília, p. 1--8.
 
-Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio).  (2015). [*Portaria No 48, de 6 de outubro de 2015. Aprova o Plano de Ação Nacional para Conservação da Herpetofauna Ameaçada da Mata Atlântica da Região Sudeste do Brasil - PAN Herpetofauna do Sudeste*](https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/pan/pan-herpetofauna-do-sudeste).  ICMBio, Brasília.
-
-Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio).  (2019). [*Portaria n°. 354, de 25 de julho de 2019, que aprova do 2° ciclo do Plano de Ação Nacional para a Conservação da Herpetofauna Ameaçada do Nordeste - PAN Herpetofauna do Nordeste*](https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/pan/pan-herpetofauna-do-nordeste).  Diário Oficial da Unição, Edição 145, Seção:1.
-
-IUCN. (2023). [The IUCN Red List of Threatened Species. Version 2023-1.](https://www.iucnredlist.org.)
+IUCN. (2023). *The IUCN Red List of Threatened Species. Version 2023-1.* Disponível em: <https://www.iucnredlist.org.> Acesso em 11 de abril de 2023.
 
 Menezes, V.A. & Rocha, C.F.D. (2013). [Geographic distribution, population densities, and issues on conservation of whiptail lizards in restinga habitats along the eastern coast of Brazil](http://biozoojournals.3x.ro/nwjz/index.html). *North-Western Journal of Zoology*, 9, 337--344.
 
@@ -90,4 +88,4 @@ Rocha, C.F.D., Menezes, V.A., Bergallo, H.G. & Dutra, G.F. (1999).  Cnemidophoru
 
 Rocha, C.F.D., Van Sluys, M., Bergallo, H.G. & Alves, M.A.S. (2005).  [Endemic and threatened tetrapods in the restingas of the biodiversity corridors of Serra do Mar and of the central da Mata Atlântica in Eastern Brazil](https://doi.org/10.1590/S1519-69842005000100019).  *Brazilian Journal of Biology*, 65, 159--168.
 
-Silveira, A.L., C Nogueira, C. de, Borges-Nojosa, D.M., Costa, G.C., Moura, G.J.B. de, Winck, G., *et al.* (2021). [Ameivula nativo](https://dx.doi.org/10.2305/IUCN.UK.2021-3.RLTS.T50010587A154323361.en).  *The IUCN Red List of Threatened Species 2021: e.T50010587A154323361*.
+Silveira, A.L., Nogueira, C.C., Borges-Nojosa, D.M., Costa, G.C., Moura, G.J.B., Winck, G., *et al.* (2021). *Ameivula nativo*. *The IUCN Red List of Threatened Species 2021: e.T50010587A154323361*. Disponível em: [https://dx.doi.org/10.2305/IUCN.UK.2021-3.RLTS.T50010587A154323361.en.](https://dx.doi.org/10.2305/IUCN.UK.2021-3.RLTS.T50010587A154323361.en) Acesso em 11 de abril de 2023.

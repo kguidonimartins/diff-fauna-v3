@@ -2,6 +2,8 @@
 
 **Autores(as)**: Renata de T. Capellão, Monira Bruno Bicalho, Karlo Guidoni e Natália L. Boroni
 
+![Fonte: Pablo Gonçalves](media/rId20.jpg){width="6.486111111111111in" height="4.126860236220472in"}![Fonte: Pablo Gonçalves](media/rId23.tiff){width="6.486111111111111in" height="4.126970691163605in"}
+
 **Nomes populares**: rato-do-brejo, rato-bubo, rato-narigudo, rato-porco, trioréu
 
 **Filo**: Chordata
@@ -36,10 +38,9 @@ A espécie está presente nas seguintes unidades de conservação: PE do Rio Doc
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
--   Global: LC (IUCN 2023) -   Nacional: LC (Brasil 2022) -   Minas Gerais: LC (Conselho Estadual de Política Ambiental - COPAM
-    2010)
+-   Global: LC (IUCN 2023) -   Nacional: LC (Brasil 2022) -   Minas Gerais: LC (COPAM 2010)
 
 **PATs/PANs**: Não disponível
 
@@ -55,20 +56,20 @@ Estudos sobre requisitos ecológicos, tendência populacional e ameaças sobre a
 
 ## REFERÊNCIAS
 
-Bonvicino, C.R. (2016). [Oxymycterus dasytrichus](https://doi.org/10.2305/IUCN.UK.2016- 2.RLTS.T136813A22378179.en).  *IUCN Red List of Threatened Species*.
+Bonvicino, C.R. (2016). *Oxymycterus dasytrichus*. *The IUCN Red List of Threatened Species 2016: e.T136813A22378179*. Disponível em: [https://dx.doi.org/10.2305/IUCN.UK.2016-2.RLTS.T136813A22378179.en.](https://dx.doi.org/10.2305/IUCN.UK.2016-2.RLTS.T136813A22378179.en) Acesso em 11 de abril de 2023.
 
-Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
+Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) Em: *Diário Oficial da União, Edição 108, Seção 1*. p. 74--103.
 
-Conselho Estadual de Política Ambiental - COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
+COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
 
-Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
-IUCN. (2023). [The IUCN Red List of Threatened Species. Version 2023-1.](https://www.iucnredlist.org.)
+IUCN. (2023). *The IUCN Red List of Threatened Species. Version 2023-1.* Disponível em: <https://www.iucnredlist.org.> Acesso em 11 de abril de 2023.
 
-Oliveira, J.A., Gonçalves, P.R., Patton, J.L., Pardiñas, U.F.G. & D'El, G. (2015). Genus Oxymycterus Waterhouse, 1837. *Mammals of South America*, 2, 247--268.
+Oliveira, J.A., Gonçalves, P.R., Patton, J.L., Pardiñas, U.F.G. & D'Elía, G. (2015). Genus Oxymycterus Waterhouse, 1837. *Mammals of South America*, 2, 247--268.
 
 Pardiñas, U., Myers, P., León-Paniagua, L., Ordóñez Garza, N., Cook, J., Kryštufek, B., *et al.* (2017). Family Cricetidae. Em: *Handbook of Mammals of the World, Volume 7, Rodents 2*. Lynx Edicions.
 
-Rossi, N.F. (2011). Pequenos mamíferos não-voadores do Planalto Atlântico de São Paulo: identificação, história natural e ameaças. tese de doutorado. Dissertação (Mestrado em Ciências - Zoologia): Instituto de Biociências, Departamento de Zoologia, Universidade de São Paulo.
+Rossi, N.F. (2011). *Pequenos mamíferos não-voadores do Planalto Atlântico de São Paulo: identificação, história natural e ameaças*.  Dissertação (Mestrado em Ciências - Zoologia) - Instituto de Biociências, Departamento de Zoologia, Universidade de São Paulo, São Paulo.
 
 Vieira, M.V., Olifiers, N., Delciellos, A.C., Antunes, V.Z., Bernardo, L.R., Grelle, C.E.V., *et al.* (2009). [Land use vs. fragment size and isolation as determinants of small mammal composition and richness in Atlantic Forest remnants](https://doi.org/10.1016/j.biocon.2009.02.006).  *Biological Conservation*, 142, 1191--1200.

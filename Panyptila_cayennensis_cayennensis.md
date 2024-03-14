@@ -58,16 +58,16 @@ Pesquisas relacionadas à distribuição, tamanho e tendência populacional, hab
 
 ## REFERÊNCIAS
 
-BirdLife International. (2020). [Panyptila cayennensis](https://dx.doi.org/10.2305/IUCN.UK.2020-3.RLTS.T22686759A168014391.en).  *The IUCN Red List of Threatened Species 2020: e.T22686759A168014391.*
+BirdLife International. (2020). *Panyptila cayennensis*. *The IUCN Red List of Threatened Species 2020: e.T22686759A168014391.* Disponível em: [https://dx.doi.org/10.2305/IUCN.UK.2020-3.RLTS.T22686759A168014391.en.](https://dx.doi.org/10.2305/IUCN.UK.2020-3.RLTS.T22686759A168014391.en) Acesso em 11 de abril de 2023.
 
-BirdLife International. (2023). [Lesser Swallow-tailed Swift (Panyptila cayennensis)](http://datazone.birdlife.org/species/factsheet/22686759).  *BirdLife species factsheet*.
+BirdLife International. (2023). *Species factsheet: Panyptila cayennensis*. *BirdLife species factsheet*. Disponível em: [http://datazone.birdlife.org/species/factsheet/22686759.](http://datazone.birdlife.org/species/factsheet/22686759) Acesso em 11 de abril de 2023.
 
-Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
 Partners in Flight. (2019). [Avian Conservation Assessment Database -- Partners in Flight Databases, version 2019](https://pif.birdconservancy.org/avian-conservation-assessment-database/).
 
-Sick, H. (1997). *Ornitologia brasileira*. Ed. rev. e ampliada por José Fernando Pacheco. Editora Nova Fronteira, Rio de Janeiro.
+Sick, H. (1997). *Ornitologia Brasileira*. Nova Fronteira, Rio de Janeiro.
 
-Vasconcelos, M.F. de. (2019). Panyptila cayennensis (Gmelin, 1789). Em: *In: Cäsar, C., Oliveira, L. de C.O. & Câmara, T. (orgs). Plano de Ação para Conservação da Biodiversidade Terrestre do Rio Doce.* Fundação Renova/Bicho do Mato Instituto de Pesquisa, p. 173--173.
+Vasconcelos, M.F. (2019). Panyptila cayennensis (Gmelin, 1789). Em: *Plano de Ação para Conservação da Biodiversidade Terrestre do Rio Doce* (orgs. Cäsar, C., Oliveira, L.C.O. & Câmara, T.). Fundação Renova/Bicho do Mato Instituto de Pesquisa, p. 173--173.
 
-WikiAves. (2023). [andorinhão-estofador (Panyptila cayennensis)](https://www.wikiaves.com.br/wiki/andorinhao-estofador).
+WikiAves. (2023). *WikiAves, a Enciclopédia das Aves do Brasil*.  Disponível em: [https://www.wikiaves.com.br/index.php.](https://www.wikiaves.com.br/index.php) Acesso em 11 de abril de 2023.

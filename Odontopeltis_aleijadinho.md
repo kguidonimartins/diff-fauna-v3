@@ -37,7 +37,7 @@ A espécie está presente nas seguintes unidades de conservação: PE do Rio Doc
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Nacional: LC (Brasil 2022)
 
@@ -55,10 +55,10 @@ Pesquisas relacionadas à taxonomia, distribuição, tamanho e tendência popula
 
 ## REFERÊNCIAS
 
-Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
+Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) Em: *Diário Oficial da União, Edição 108, Seção 1*. p. 74--103.
 
-Golder Associates. (2016). Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
 Iniesta, L.F.M., Ratton, P. & Guerra, T.J. (2017). [Avian predators avoid attacking artificial aposematic millipedes in Brazilian Atlantic Forest](https://doi.org/10.1017/S0266467416000523). *Journal of Tropical Ecology*, 33, 89--93.
 
-Pena-Barbosa, J.P.P., Sierwald, P. & Brescovit, A.D. (2013). [On the largest chelodesmid millipedes: taxonomic review and cladistic analysis of the genus Odontopeltis  Pocock, 1894 (Diplopoda; Polydesmida; Chelodesmidae)](https://doi.org/10.1111/zoj.12086). *Zoological Journal of the Linnean Society*, 169, 737--764.
+Pena-Barbosa, J.P.P., Sierwald, P. & Brescovit, A.D. (2013). [On the largest chelodesmid millipedes: taxonomic review and cladistic analysis of the genus *Odontopeltis* Pocock, 1894 (Diplopoda; Polydesmida; Chelodesmidae): Phylogeny and review of *Odontopeltis*](https://doi.org/10.1111/zoj.12086). *Zoological Journal of the Linnean Society*, 169, 737--764.

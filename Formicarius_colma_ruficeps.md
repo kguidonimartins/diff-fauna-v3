@@ -2,6 +2,8 @@
 
 **Autores(as)**: Monira Bruno Bicalho, Eline Martins, Karlo Guidoni e Flávia Chaves
 
+![Fonte: Marco Cruz - Wikiaves](media/rId20.jpg){width="6.486111111111111in" height="4.6862150043744535in"}![Fonte: Marco Cruz - Wikiaves](media/rId23.jpg){width="6.486111111111111in" height="4.323580489938758in"}
+
 **Nomes populares**: galinha-do-mato, pinto-do-mato-coroado (WikiAves 2023)
 
 **Filo**: Chordata
@@ -35,11 +37,9 @@ A espécie está presente nas seguintes unidades de conservação: REBIO de Soor
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
--   Minas Gerais: VU (Conselho Estadual de Política Ambiental - COPAM
-    2010)
--   Espírito Santo: CR (Espírito Santo 2022)
+-   Minas Gerais: VU (COPAM 2010) -   Espírito Santo: CR (Espírito Santo 2022)
 
 **PATs/PANs**: Não disponível
 
@@ -57,12 +57,12 @@ Pesquisas relacionadas aos hábitos alimentares, reprodução e habitat devem vi
 
 ## REFERÊNCIAS
 
-BirdLife International. (2024). [Species factsheet: Formicarius colma](http://datazone.birdlife.org/species/factsheet/rufous-capped-antthrush-formicarius-colma).
+BirdLife International. (2024). *Species factsheet: Formicarius colma*.  *BirdLife International*. Disponível em: [http://datazone.birdlife.org/species/factsheet/rufous-capped-antthrush-formicarius-colma.](http://datazone.birdlife.org/species/factsheet/rufous-capped-antthrush-formicarius-colma) Acesso em 11 de abril de 2023.
 
-Conselho Estadual de Política Ambiental - COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
+COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
 
 Espírito Santo. (2022). [Decreto Nº 5237-R, de 25 de novembro de 2022.  Declara as espécies de fauna ameaçadas de extinção no Estado do Espírito Santo e dá outras providências](https://iema.es.gov.br/Media/iema/FAUNA/Decreto%205237-R_2022_25-Nov%20-%20Fauna%20(s-peixes)%20-%20Lista%20de%20Esp%C3%A9cies%20Amea%C3%A7adas%20de%20Extin%C3%A7%C3%A3o.pdf).
 
-Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
-WikiAves. (2023). [galinha-do-mato (Formicarius colma)](https://www.wikiaves.com.br/wiki/galinha-do-mato).
+WikiAves. (2023). *WikiAves, a Enciclopédia das Aves do Brasil*.  Disponível em: [https://www.wikiaves.com.br/index.php.](https://www.wikiaves.com.br/index.php) Acesso em 11 de abril de 2023.

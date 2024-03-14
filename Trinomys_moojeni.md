@@ -2,6 +2,10 @@
 
 **Autores(as)**: Monira Bruno Bicalho, Eline Martins, Karlo Guidoni e Natália L. Boroni
 
+![Fonte: Guilherme Garbino. Imagem de Trinomys sp.](media/rId20.jpg){width="6.486111111111111in" height="5.617276902887139in"}
+
+Fonte: *Guilherme Garbino. Imagem de Trinomys sp.*
+
 **Nomes populares**: rato-de-espinho
 
 **Filo**: Chordata
@@ -31,16 +35,15 @@ de fora para a bacia do Rio Doce, portanto, a categoria aplicada é mantida.
 
 ## PRESENÇA EM UNIDADES DE CONSERVAÇÃO NA BACIA DO RIO DOCE
 
-A espécie está presente nas seguintes unidades de conservação: APA Sul-RMBH; PN da Serra do Cipó; RPPN Santuário da Serra do Caraça
+A espécie está presente nas seguintes unidades de conservação: APA Sul-RMBH; PARNA da Serra do Cipó; RPPN Santuário da Serra do Caraça
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
--   Global: EN (IUCN 2023) -   Nacional: EN (Brasil 2022) -   Minas Gerais: VU (Conselho Estadual de Política Ambiental - COPAM
-    2010)
+-   Global: EN (IUCN 2023) -   Nacional: EN (Brasil 2022) -   Minas Gerais: VU (COPAM 2010)
 
-**PATs/PANs**: Listada nos PANs Mamíferos da Mata Atlântica Central (Escarlate-Tavares *et al.* 2016) e Pequenos Mamíferos de Áreas Florestais. É considerada espécie beneficiada no PAT Espinhaço Mineiro (Instituto Estadual de Florestas 2021).
+**PATs/PANs**: Listada nos PANs Mamíferos da Mata Atlântica Central (Escarlate-Tavares *et al.* 2016) e Pequenos Mamíferos de Áreas Florestais. É considerada espécie beneficiada no PAT Espinhaço Mineiro (IEF 2021).
 
 **CITES**: Não consta
 
@@ -54,16 +57,16 @@ Pesquisas relacionadas à distribuição, ecologia e história natural, tamanho 
 
 ## REFERÊNCIAS
 
-Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
+Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) Em: *Diário Oficial da União, Edição 108, Seção 1*. p. 74--103.
 
-Conselho Estadual de Política Ambiental - COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
+COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
 
-Escarlate-Tavares, F., Valença-Montenegro, M.M. & Jerusalinsky, L.  (2016). *Plano de Ação Nacional para Conservação dos Mamíferos da Mata Atlântica Central*. Série Espécies Ameaçada. Instituto Chico Mendes de Conservação da Biodiversidade, ICMBio, Brasília.
+Escarlate-Tavares, F., Valença-Montenegro, M.M. & Jerusalinsky, L.  (Orgs.). (2016). *Plano de Ação Nacional para Conservação dos Mamíferos da Mata Atlântica Central*. Série Espécies Ameaçadas Nº 23. ICMBio, Brasília.
 
-Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
-Instituto Estadual de Florestas. (2021). *Plano de Ação Territorial para Conservação de Espécies Ameaçadas de Extinção do Território Espinhaço Mineiro: sumário executivo*. IEF, Belo Horizonte.
+IEF. (2021). Plano de Ação Territorial para Conservação de Espécies Ameaçadas de Extinção do Território Espinhaço Mineiro. Sumário Executivo. IEF, Belo Horizonte, p. 27.
 
-IUCN. (2023). [The IUCN Red List of Threatened Species. Version 2023-1.](https://www.iucnredlist.org.)
+IUCN. (2023). *The IUCN Red List of Threatened Species. Version 2023-1.* Disponível em: <https://www.iucnredlist.org.> Acesso em 11 de abril de 2023.
 
-Roach, N. & Naylor, L. (2016). [Trinomys moojeni](https://dx.doi.org/10.2305/IUCN.UK.2016-2.RLTS.T136543A22211597.en).  *The IUCN Red List of Threatened Species 2016: e.T136543A22211597.*
+Roach, N. & Naylor, L. (2016). *Trinomys moojeni*. *The IUCN Red List of Threatened Species 2016: e.T136543A22211597.* Disponível em: [https://dx.doi.org/10.2305/IUCN.UK.2016-2.RLTS.T136543A22211597.en.](https://dx.doi.org/10.2305/IUCN.UK.2016-2.RLTS.T136543A22211597.en) Acesso em 11 de abril de 2023.

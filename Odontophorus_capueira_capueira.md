@@ -2,9 +2,9 @@
 
 **Autores(as)**: Tatianne P. F. Abreu-Jardim, Monira Bruno Bicalho, Bruno R. Ribeiro, Karlo Guidoni e Jessica Naiara Reis
 
-![Fonte: Vanessa Trally Bard - biodiversity4all](media/rId20.jpg){width="6.486111111111111in" height="4.864583333333333in"}
+![Fonte: Vanessa Trally Bard - BioDiversity4All](media/rId20.jpg){width="6.486111111111111in" height="4.864583333333333in"}
 
-Fonte: *Vanessa Trally Bard - biodiversity4all*
+Fonte: *Vanessa Trally Bard - BioDiversity4All*
 
 **Nomes populares**: uru-do-sudeste, uru, capoeira
 
@@ -42,10 +42,9 @@ A espécie está presente nas seguintes unidades de conservação: APA PNM da Es
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
--   Minas Gerais: EN (Conselho Estadual de Política Ambiental - COPAM
-    2010)
+-   Minas Gerais: EN (COPAM 2010)
 
 **PATs/PANs**: Não disponível
 
@@ -61,16 +60,16 @@ Pesquisas relacionadas a tamanho e tendência populacional.
 
 ## REFERÊNCIAS
 
-Araújo, H.F.P., Sousa, A.E.B.A., Santos, C.G.M., Lima, D.M., Nunes, F.P., Aguilar, J.M.R., *et al.* (2023). [Odontophorus capueira](https://doi.org/10.37002/salve.ficha.20021 ). *Sistema de Avaliação do Risco de Extinção da Biodiversidade - SALVE.*
+Araújo, H.F.P., Sousa, A.E.B.A., Santos, C.G.M., Lima, D.M., Nunes, F.P., Aguilar, J.M.R., *et al.* (2023). *Odontophorus capueira Spix, 1825*. *SALVE*. Disponível em: [https://doi.org/10.37002/salve.ficha.20021.](https://doi.org/10.37002/salve.ficha.20021 ) Acesso em 11 de abril de 2023.
 
-Conselho Estadual de Política Ambiental - COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
+COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
 
-del Hoyo, J., Elliott, A., Sargatal, J. & Cabot, J. (1994). *Handbook of the birds of the world*. Lynx Edicions, Barcelona.
+del Hoyo, J., Elliott, A., Sargatal, J. & Cabot, J. (1994). *Handbook of the birds of the world*. Lynx Editions, Barcelona.
 
-Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
-Roda, S.A., Machado, A.B.M., Drummond, G.M. & Paglia, A. (2008).  Odontophorus capueira plumbeicollis Cory, 1915. *Machado, ABM; Drummond, GM & Paglia, A. Livro Vermelho da Fauna Brasileira Ameaçada de Extinção.  Brası́lia, Ministério do Meio Ambiente e Fundação Biodiversitas*, 440--441.
+Roda, S.A., Machado, A.B.M., Drummond, G.M. & Paglia, A. (2008).  Odontophorus capueira plumbeicollis Cory, 1915. Em: *Livro Vermelho da Fauna Brasileira Ameaçada de Extinção* (orgs. Machado, A.B.M., Drummond, G.M. & Paglia, A.). MMA; Fundação Biodiversitas, Brasília, p. 440--441.
 
-Sick, H. (1997). *Ornitologia Brasileira*. Nova Fronteira, Rio de Janeiro, Brasil.
+Sick, H. (1997). *Ornitologia Brasileira*. Nova Fronteira, Rio de Janeiro.
 
-[WikiAves. (2023). *WikiAves, a Enciclopédia das Aves do Brasil*.](https://www.wikiaves.com.br/index.php)
+WikiAves. (2023). *WikiAves, a Enciclopédia das Aves do Brasil*.  Disponível em: [https://www.wikiaves.com.br/index.php.](https://www.wikiaves.com.br/index.php) Acesso em 11 de abril de 2023.

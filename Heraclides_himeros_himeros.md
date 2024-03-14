@@ -16,7 +16,7 @@ Fonte: *Augusto Rosa*
 
 **Família**: Papilionidae
 
-**Notas taxonômicas**: Táxon, que pode ser confundido com *Heraclides astyalus* (Freitas & Almeida 2018)
+**Notas taxonômicas**: Táxon, que pode ser confundido com *Heraclides astyalus* (Instituto Chico Mendes de Conservação da Biodiversidade 2018)
 
 ## AVALIAÇÃO DE RISCO DE EXTINÇÃO
 
@@ -29,7 +29,7 @@ ameaças. Como resultado, a subespécie foi avaliada como "Criticamente em Perig
 
 ## INFORMAÇÕES GERAIS
 
-*Heraclides himeros himeros* tem como habitat áreas extensas de mata (Freitas & Marini-Filho 2011). As populações são pequenas, tendo as menores estimativas de tamanho dentre todas as espécies de Papilionidae com tamanho populacional avaliado (Brown Jr. 2008). A população mais densa está no estado do Rio de Janeiro. A espécie possui interesse econômico devido a venda de espécimes para colecionadores.
+*Heraclides himeros himeros* tem como habitat áreas extensas de mata (Freitas & Marini-Filho 2011). As populações são pequenas, tendo as menores estimativas de tamanho dentre todas as espécies de Papilionidae com tamanho populacional avaliado (Brown Jr. & Freitas 2008). A população mais densa está no estado do Rio de Janeiro. A espécie possui interesse econômico devido a venda de espécimes para colecionadores.
 
 ## DISTRIBUIÇÃO GEOGRÁFICA
 
@@ -41,11 +41,11 @@ A espécie está presente nas seguintes unidades de conservação: FLONA de Goyt
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
--   Nacional: EN (Brasil 2022) -   Espírito Santo: CR (Espírito Santo 2022)
+-   Nacional: EN (Brasil 2022b) -   Espírito Santo: CR (Espírito Santo 2022)
 
-**PATs/PANs**: Espécie listada nos PANs Lepidópteros (Freitas & Marini-Filho 2011) e Insetos Polinizadores (ICMBio 2022).
+**PATs/PANs**: Espécie listada nos PANs Lepidópteros (Freitas & Marini-Filho 2011) e Insetos Polinizadores (Brasil 2022a).
 
 **CITES**: Não consta
 
@@ -59,16 +59,16 @@ Pesquisas sobre distribuição, habitat e história de vida, tamanho e tendênci
 
 ## REFERÊNCIAS
 
-Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
+Brasil. (2022a). [Portaria ICMBio Nº 1.145, de 5 de dezembro de 2022.  Aprova o Plano de Ação Nacional para a Conservação dos Insetos Polinizadores Ameaçados de Extinção - PAN Insetos Polinizadores, contemplando 56 táxons nacionalmente ameaçados de extinção, estabelecendo seu objetivo geral, objetivos específicos, prazo de execução, formas de implementação, supervisão e revisão. Processo SEI nº 02176.000061/2019-17](https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/pan/pan-insetos-polinizadores).  Em: *Diário Oficial da União, Edição 230, Seção 1*. ICMBio; MMA, p. 241.
 
-Brown Jr., A.V.L., K. S. & Freitas. (2008). Heliconius nattereri C.  Felder & R. Felder, 1865. Em: *Livro Vermelho da Fauna Brasileira Ameaçada de Extinção* (org. Machado, A.B.M.; Drummond, G.M. & Paglia, A.P.). Ministério do Meio Ambiente e Fundação Biodiversitas.
+Brasil. (2022b). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) Em: *Diário Oficial da União, Edição 108, Seção 1*. p. 74--103.
+
+Brown Jr., K.S. & Freitas, A.V.L. (2008). Heliconius nattereri C. Felder & R. Felder, 1865. Em: *Livro Vermelho da Fauna Brasileira Ameaçada de Extinção* (orgs. Machado, A.B.M., Drummond, G.M. & Paglia, A.P.). MMA; Fundação Biodiversitas, Brasília, DF; Belo Horizonte, MG.
 
 Espírito Santo. (2022). [Decreto Nº 5237-R, de 25 de novembro de 2022.  Declara as espécies de fauna ameaçadas de extinção no Estado do Espírito Santo e dá outras providências](https://iema.es.gov.br/Media/iema/FAUNA/Decreto%205237-R_2022_25-Nov%20-%20Fauna%20(s-peixes)%20-%20Lista%20de%20Esp%C3%A9cies%20Amea%C3%A7adas%20de%20Extin%C3%A7%C3%A3o.pdf).
 
-Freitas, A.V.L. & Marini-Filho, O.J. (2011). Plano de ação nacional para conservação dos lepidópteros ameaçados de extinção.
+Freitas, A.V.L. & Marini-Filho, O.J. (Orgs.). (2011). Plano de Ação Nacional para Conservação dos Lepidópteros Ameaçados de Extinção. Em:, Série Espécies Ameaçadas Nº13. ICMBio, Brasília, p. 1--64.
 
-Freitas, O.J.;.M., A. V. L.; Marini-Filho & Almeida, G. (2018). *Livro vermelho da fauna brasileira ameaçada de extinção: Volume VII - Invertebrados*. Instituto Chico Mendes de Conservação da Biodiversidade, Brasília, Brasil.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
-Golder Associates. (2016). Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção.
-
-ICMBio. (2022). [Plano de Ação Nacional para a Conservação dos Insetos Polinizadores](https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/pan/pan-insetos-polinizadores).
+Instituto Chico Mendes de Conservação da Biodiversidade. (2018). Livro Vermelho da Fauna Brasileira Ameaçada de Extinção: Volume VII - Invertebrados. Em: *Livro Vermelho da Fauna Brasileira Ameaçada de Extinção* (org. Instituto Chico Mendes de Conservação da Biodiversidade). ICMBio, Brasília, p. 727.

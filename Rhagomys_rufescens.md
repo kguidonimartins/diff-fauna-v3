@@ -34,13 +34,11 @@ A espécie está presente nas seguintes unidades de conservação: PE Serra do B
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
--   Global: VU (IUCN 2023) -   Nacional: LC (Brasil 2022) -   Minas Gerais: LC (Conselho Estadual de Política Ambiental - COPAM
-    2010)
--   Espírito Santo: CR (Espírito Santo 2022)
+-   Global: VU (IUCN 2023) -   Nacional: LC (Brasil 2022) -   Minas Gerais: LC (COPAM 2010) -   Espírito Santo: CR (Espírito Santo 2022)
 
-**PATs/PANs**: Listada no PAN Mamíferos da Mata Atlântica Central (Escarlate-Tavares *et al.* 2016) e considerada espécie beneficiada no PAT Capixaba-Gerais (Instituto Estadual de Florestas 2023).
+**PATs/PANs**: Listada no PAN Mamíferos da Mata Atlântica Central (Escarlate-Tavares *et al.* 2016) e considerada espécie beneficiada no PAT Capixaba-Gerais (IEF 2023).
 
 **CITES**: Não consta
 
@@ -54,21 +52,21 @@ Pesquisas para aprofundar o conhecimento sobre a espécie, abordando aspectos co
 
 ## REFERÊNCIAS
 
-Bergallo, H. & Percequillo, A. (2019). [Rhagomys rufescens](https://dx.doi.org/10.2305/IUCN.UK.2019-1.RLTS.T19454A22353755.en).  *The IUCN Red List of Threatened Species 2019: e.T19454A22353755*.
+Bergallo, H. & Percequillo, A. (2019). *Rhagomys rufescens*. *The IUCN Red List of Threatened Species 2019: e.T19454A22353755*. Disponível em: [https://dx.doi.org/10.2305/IUCN.UK.2019-1.RLTS.T19454A22353755.en.](https://dx.doi.org/10.2305/IUCN.UK.2019-1.RLTS.T19454A22353755.en) Acesso em 11 de abril de 2023.
 
 Braga, C.A.D.C. & Pires, M.R.S. (2012). [New distribution reports of Rhagomys rufescens (Rodentia: Sigmodontinae) Thomas, 1886](https://doi.org/10.15560/8.3.557). *Check List*, 8, 557.
 
-Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
+Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) Em: *Diário Oficial da União, Edição 108, Seção 1*. p. 74--103.
 
-Conselho Estadual de Política Ambiental - COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
+COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
 
-Escarlate-Tavares, F., Valença-Montenegro, M.M. & Jerusalinsky, L.  (2016). *Plano de Ação Nacional para Conservação dos Mamíferos da Mata Atlântica Central*. Série Espécies Ameaçada. Instituto Chico Mendes de Conservação da Biodiversidade, ICMBio, Brasília.
+Escarlate-Tavares, F., Valença-Montenegro, M.M. & Jerusalinsky, L.  (Orgs.). (2016). *Plano de Ação Nacional para Conservação dos Mamíferos da Mata Atlântica Central*. Série Espécies Ameaçadas Nº 23. ICMBio, Brasília.
 
 Espírito Santo. (2022). [Decreto Nº 5237-R, de 25 de novembro de 2022.  Declara as espécies de fauna ameaçadas de extinção no Estado do Espírito Santo e dá outras providências](https://iema.es.gov.br/Media/iema/FAUNA/Decreto%205237-R_2022_25-Nov%20-%20Fauna%20(s-peixes)%20-%20Lista%20de%20Esp%C3%A9cies%20Amea%C3%A7adas%20de%20Extin%C3%A7%C3%A3o.pdf).
 
-Instituto Estadual de Florestas. (2023). [Plano de Ação Territorial Capixaba-Gerais](http://www.ief.mg.gov.br/biodiversidade/-planodeacaoterritorialcapixabagerais).
+IEF. (2023). [*Plano de Ação Territorial Capixaba-Gerais*](http://www.ief.mg.gov.br/biodiversidade/-planodeacaoterritorialcapixabagerais).  IEMA; IEF; PróEspécies.
 
-IUCN. (2023). [The IUCN Red List of Threatened Species. Version 2023-1.](https://www.iucnredlist.org.)
+IUCN. (2023). *The IUCN Red List of Threatened Species. Version 2023-1.* Disponível em: <https://www.iucnredlist.org.> Acesso em 11 de abril de 2023.
 
 Luna, L., Patton, J.L., Pardiñas, U.F.J. & D'Elía, G. (2015). Genus Rhagomys Thomas, 1886. Em: *Mammals of South America*. University of Chicago Press, p. 580--583.
 

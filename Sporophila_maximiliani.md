@@ -2,6 +2,10 @@
 
 **Autores(as)**: Tatianne P. F. Abreu-Jardim, Monira Bruno Bicalho, Karlo Guidoni e Flávia Chaves
 
+![Fonte: Ruben D. Layme - BioDiversity4All](media/rId20.jpg){width="4.166666666666667in" height="2.7777777777777777in"}
+
+Fonte: *Ruben D. Layme - BioDiversity4All*
+
 **Nomes populares**: bicudo
 
 **Filo**: Chordata
@@ -41,12 +45,11 @@ A espécie está presente nas seguintes unidades de conservação: PE do Rio Doc
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
--   Global: EN (IUCN 2023) -   Nacional: CR (Brasil 2022) -   Minas Gerais: CR (Conselho Estadual de Política Ambiental - COPAM
-    2010)
+-   Global: EN (IUCN 2023) -   Nacional: CR (Brasil 2022) -   Minas Gerais: CR (COPAM 2010)
 
-**PATs/PANs**: Espécie listada nos PANs Aves da Mata Atlântica (ICMBio 2017), Aves da Amazônia (ICMBio 2016a) e Aves do Cerrado e Pantanal (ICMBio & MMA 2015). É considerada espécie beneficiada do PAT Cerrado Tocantins (Instituto Natureza do Tocantins - NATURATINS 2020).
+**PATs/PANs**: Espécie listada nos PANs Aves da Mata Atlântica (ICMBio 2017), Aves da Amazônia (ICMBio 2016) e Aves do Cerrado e Pantanal (ICMBio 2015). É considerada espécie beneficiada do PAT Cerrado Tocantins (NATURATINS 2020).
 
 **CITES**: Não consta
 
@@ -56,29 +59,29 @@ O rompimento da barragem de Função resultou no acúmulo de água e sedimentos.
 
 ## PESQUISAS RECOMENDADAS
 
-Pesquisas relacionadas à distribuição, tamanho e tendência populacional e monitoramento populacional são necessárias para espécie, bem como estudos de planos de estratégia de conservação (Machado *et al.* 2020), reintrodução \[@ (Golder Associates 2016), além de estudos de genética, história de vida e distribuição potencial da espécie.
+Pesquisas relacionadas à distribuição, tamanho e tendência populacional e monitoramento populacional são necessárias para espécie, bem como estudos de planos de estratégia de conservação (Machado *et al.* 2020), reintrodução (Golder Associates 2016), além de estudos de genética, história de vida e distribuição potencial da espécie.
 
 ## REFERÊNCIAS
 
-BirdLife International. (2023). [Species factsheet: Sporophila maximiliani](http://datazone.birdlife.org/species/factsheet/great-billed-seed-finch-sporophila-maximiliani).  *BirdLife International*.
+BirdLife International. (2023). *Species factsheet: Sporophila maximiliani*. *BirdLife International*. Disponível em: [http://datazone.birdlife.org/species/factsheet/great-billed-seed-finch-sporophila-maximiliani.](http://datazone.birdlife.org/species/factsheet/great-billed-seed-finch-sporophila-maximiliani) Acesso em 11 de abril de 2023.
 
-Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
+Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) Em: *Diário Oficial da União, Edição 108, Seção 1*. p. 74--103.
 
-Conselho Estadual de Política Ambiental - COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
+COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
 
-Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
-ICMBio. (2016a). Plano de Ação Nacional para a Conservação das Aves da Amazônia.
+ICMBio. (2015). [Plano de Ação Nacional para a Conservação das Aves do Cerrado e Pantanal](http://www.icmbio.gov.br/portal/biodiversidade/fauna-brasileira/planos-de-acao/3618-plano-de-acao-nacional-para-a-conservacao-das-aves-do-cerrado-e-pantanal.html).  Sumário Executivo. ICMBio; MMA, p. 8.
+
+ICMBio. (2016). Plano de Ação Nacional para a Conservação das Aves da Amazônia. {Sumário Executivo}. ICMBio; MMA.
 
 ICMBio. (2017). [Sumário Executivo do Plano de Ação Nacional para a Conservação das Aves da Mata Atlântica, 1 ciclo](https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/pan/pan-aves-da-mata-atlantica).
 
-ICMBio & MMA. (2015). [*Plano de Ação Nacional para a Conservação das Aves do Cerrado e Pantanal*](http://www.icmbio.gov.br/portal/biodiversidade/fauna-brasileira/planos-de-acao/3618-plano-de-acao-nacional-para-a-conservacao-das-aves-do-cerrado-e-pantanal.html) (Sumário {Executivo}).
-
-Instituto Natureza do Tocantins - NATURATINS. (2020). *Plano de Ação Territorial para Conservação de Espécies Ameaçadas de Extinção do Território Cerrado Tocantins (PAT Cerrado Tocantins)- Sumário Executivo*. Palmas/TO.
-
-IUCN. (2023). [The IUCN Red List of Threatened Species. Version 2023-1.](https://www.iucnredlist.org.)
+IUCN. (2023). *The IUCN Red List of Threatened Species. Version 2023-1.* Disponível em: <https://www.iucnredlist.org.> Acesso em 11 de abril de 2023.
 
 Machado, R.B., Silveira, L.F., Silva, M.I.S.G., Ubaid, F.K., Medolago, C.A., Francisco, M.R., *et al.* (2020). [Reintroduction of songbirds from captivity: the case of the Great-billed Seed-finch (Sporophila maximiliani) in Brazil](https://doi.org/10.1007/s10531-019-01830-8).  *Biodiversity and Conservation*, 29, 1613--1636.
+
+NATURATINS. (2020). *Plano de Ação Territorial para Conservação de Espécies Ameaçadas de Extinção do Território Cerrado Tocantins (PAT Cerrado Tocantins)- Sumário Executivo*. Palmas/TO.
 
 Silva, S., Braga, B., Brasil, L., Baía-Júnior, P. & Guimarães, D.  (2022). [The use of Passeriformes in the eastern Amazonia of Brazil: culture encourages hunting and profit encourages trade](https://doi.org/10.1017/S0030605320000551). *Oryx*, 56, 218--227.
 

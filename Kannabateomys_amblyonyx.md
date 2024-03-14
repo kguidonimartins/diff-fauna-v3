@@ -39,13 +39,11 @@ Não há registros da espécie em unidades de conservação.
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
--   Global: LC (IUCN 2023) -   Nacional: LC (Brasil 2022) -   Minas Gerais: LC (Conselho Estadual de Política Ambiental - COPAM
-    2010)
--   Espírito Santo: EN (Espírito Santo 2022)
+-   Global: LC (IUCN 2023) -   Nacional: LC (Brasil 2022) -   Minas Gerais: LC (COPAM 2010) -   Espírito Santo: EN (Espírito Santo 2022)
 
-**PATs/PANs**: Espécie beneficiada no PAT Espinhaço Mineiro (Instituto Estadual de Florestas 2021).
+**PATs/PANs**: Espécie beneficiada no PAT Espinhaço Mineiro (IEF 2021).
 
 **CITES**: não consta
 
@@ -59,29 +57,29 @@ Pesquisas para identificar o efeito das principais ameaças à espécie, além d
 
 ## REFERÊNCIAS
 
-Bonvicino, C.R., Oliveira, J.A. & D'Andrea, P.S. (2008). *Guia dos Roedores do Brasil, com chaves para gêneros baseadas em caracteres externos*. Centro Pan-Americano de Febre Aftosa - OPAS/OMS.
+Bonvicino, C.R., Oliveira, J.A. & D'Andrea, P.S. (2008). *Guia dos Roedores do Brasil, com chaves para gêneros baseadas em caracteres externos*. Centro Pan-Americano de Febre Aftosa - OPAS/OMS, Rio de Janeiro.
 
-Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
+Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) Em: *Diário Oficial da União, Edição 108, Seção 1*. p. 74--103.
 
-Catzeflis, F., Patton, J., Percequillo, A. & Weksler, M. (2016).  [Euryzygomatomys spinosus](http://dx.doi.org/10.2305/IUCN.UK.2016-2.RLTS.T8418A22205855.en).  *The IUCN Red List of Threatened Species 2016: e.T8418A22205855*.
+Catzeflis, F., Patton, J., Percequillo, A. & Weksler, M. (2016).  *Kannabateomys amblyonyx*. *The IUCN Red List of Threatened Species 2016: e.T8418A22205855*. Disponível em: [https://dx.doi.org/10.2305/IUCN.UK.2016-2.RLTS.T10957A22205666.en.](https://dx.doi.org/10.2305/IUCN.UK.2016-2.RLTS.T10957A22205666.en) Acesso em 11 de abril de 2023.
 
-Conselho Estadual de Política Ambiental - COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
+COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
 
 Espírito Santo. (2022). [Decreto Nº 5237-R, de 25 de novembro de 2022.  Declara as espécies de fauna ameaçadas de extinção no Estado do Espírito Santo e dá outras providências](https://iema.es.gov.br/Media/iema/FAUNA/Decreto%205237-R_2022_25-Nov%20-%20Fauna%20(s-peixes)%20-%20Lista%20de%20Esp%C3%A9cies%20Amea%C3%A7adas%20de%20Extin%C3%A7%C3%A3o.pdf).
 
-Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
-Instituto Estadual de Florestas. (2021). *Plano de Ação Territorial para Conservação de Espécies Ameaçadas de Extinção do Território Espinhaço Mineiro: sumário executivo*. IEF, Belo Horizonte.
+IEF. (2021). Plano de Ação Territorial para Conservação de Espécies Ameaçadas de Extinção do Território Espinhaço Mineiro. Sumário Executivo. IEF, Belo Horizonte, p. 27.
 
-IUCN. (2023). [The IUCN Red List of Threatened Species. Version 2023-1.](https://www.iucnredlist.org.)
+IUCN. (2023). *The IUCN Red List of Threatened Species. Version 2023-1.* Disponível em: <https://www.iucnredlist.org.> Acesso em 11 de abril de 2023.
 
-Paglia, A.P., Fonseca, G.A.B., Rylands, A.B., Herrmann, G., Aguiar, L.M.S., Chiarello, A.G., *et al.* (2012). *Lista Anotada dos Mamíferos do Brasil / Annotated Checklist of Brazilian Mammals*. *Occasional papers in conservation biology*. 2ª Edição. Occasional Papers in Conservation Biology. Conservation International.
+Paglia, A.P., Fonseca, G.A.B., Rylands, A.B., Herrmann, G., Aguiar, L.M.S., Chiarello, A.G., *et al.* (2012). Lista Anotada dos Mamíferos do Brasil / Annotated Checklist of Brazilian Mammals. Occasional Papers in Conservation Biology, Nº6. Conservation International, Arlington, p.  1--76.
 
-Patton, J.L., Pardiñas, U.F.J. & D'Elía, G. (2015). [*Mammals of South America, Volume 2 - Rodents*](https://doi.org/10.7208/chicago/9780226169606.001.0001).  University of Chicago Press.
+Patton, J.L., Pardiñas, U.F.J. & D'Elía, G. (2015). [*Mammals of South America, Volume 2 - Rodents*](https://doi.org/10.7208/chicago/9780226169606.001.0001).  University of Chicago Press, Chicago; London.
 
-Silva, F.A. da, Assis, C.L. de, Silva, R.A. da, Antunes, V.C., Lessa, G.  & Quintela, F.M. (2012). [Distribuição e conservação do rato-do-bambu Kannabateomys amblyonyx (Rodentia, Echimyidae) no Estado de Minas Gerais, Brasil](https://doi.org/10.4013/nbc.2012.71.04). *Neotropical Biology and Conservation*, 7.
+Silva, F.A., Assis, C.L., Silva, R.A., Antunes, V.C., Lessa, G. & Quintela, F.M. (2012). [Distribuição e conservação do rato-do-bambu Kannabateomys amblyonyx (Rodentia, Echimyidae) no Estado de Minas Gerais, Brasil](https://doi.org/10.4013/nbc.2012.71.04). *Neotropical Biology and Conservation*, 7.
 
-Silva, R.B. (2004). Ecologia do rato-da-taquara (Kannabateomys amblyonyx) no Parque Estadual de Itapuã, 41.
+Silva, R.B. (2004). *Ecologia do rato-da-taquara (Kannabateomys amblyonyx) no Parque Estadual de Itapuã*. Dissertação (Mestrado em Biologia: Diversidade e Manejo da Vida Silvestre) - Universidade do Vale do Rio dos Sinos, São Leopoldo.
 
 Silva, R.B. (2005). Ecologia do rato-da-taquara (Kannabateomys amblyonyx) no Parque Estadual de Itapuã. *Mastozoologia Neotropical*, 12, 98--99.
 

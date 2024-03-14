@@ -2,6 +2,10 @@
 
 **Autores(as)**: Monira Bruno Bicalho, Eline Martins, Karlo Guidoni e Flávia Chaves
 
+![Fonte: Edu Franco - BioDiversity4All](media/rId20.jpg){width="6.486111111111111in" height="4.3261843832021in"}
+
+Fonte: *Edu Franco - BioDiversity4All*
+
 **Nomes populares**: tapaculo-da-várzea, macuquinho-da-várzea
 
 **Filo**: Chordata
@@ -37,11 +41,11 @@ A espécie está presente nas seguintes unidades de conservação: RPPN Aves Ger
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Global: EN (IUCN 2023) -   Nacional: EN (Brasil 2022)
 
-**PATs/PANs**: Espécie listada nos PANs Aves da Mata Atlântica (ICMBio 2017), Passeriformes dos Campos Sulinos (ICMBio 2012), Aves dos Campos Sulinos (CEMAVE 2021) e Aves da Amazônia (ICMBio 2016a). É considerada espécie beneficiada do PAT Espinhaço Mineiro (Instituto Estadual de Florestas 2021).
+**PATs/PANs**: Espécie listada nos PANs Aves da Mata Atlântica (ICMBio 2017), Passeriformes dos Campos Sulinos (ICMBio 2012), Aves dos Campos Sulinos (ICMBio 2021) e Aves da Amazônia (ICMBio 2016). É considerada espécie beneficiada do PAT Espinhaço Mineiro (IEF 2021).
 
 **CITES**: Não consta
 
@@ -55,20 +59,20 @@ Pesquisas relacionadas ao tamanho, tendência populacional e distribuição da e
 
 ## REFERÊNCIAS
 
-BirdLife International. (2016). [Scytalopus iraiensis](https://dx.doi.org/10.2305/IUCN.UK.2016-3.RLTS.T22728464A94986972.en).  *The IUCN Red List of Threatened Species 2016: e.T22728464A94986972*.
+BirdLife International. (2016). *Scytalopus iraiensis*. *The IUCN Red List of Threatened Species 2016: e.T22728464A94986972*. Disponível em: [https://dx.doi.org/10.2305/IUCN.UK.2016-3.RLTS.T22728464A94986972.en.](https://dx.doi.org/10.2305/IUCN.UK.2016-3.RLTS.T22728464A94986972.en) Acesso em 11 de abril de 2023.
 
-BirdLife International. (2023). [Species factsheet: Marsh Tapaculo (Scytalopus iraiensis)](http://datazone.birdlife.org/species/factsheet/marsh-tapaculo-scytalopus-iraiensis).
+BirdLife International. (2023). *Species factsheet: Scytalopus iraiensis*. *BirdLife International*. Disponível em: [http://datazone.birdlife.org/species/factsheet/marsh-tapaculo-scytalopus-iraiensis.](http://datazone.birdlife.org/species/factsheet/marsh-tapaculo-scytalopus-iraiensis) Acesso em 11 de abril de 2023.
 
-Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
+Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) Em: *Diário Oficial da União, Edição 108, Seção 1*. p. 74--103.
 
-CEMAVE. (2021). *Plano de Ação Nacional para Conservação das Aves dos Campos Sulinos - Sumário Executivo*. ICMBio, Brasília.
+ICMBio. (2012). Plano de Ação Nacional para a Conservação dos Passeriformes Ameaçados dos Campos Sulinos e Espinilho. Sumário Executivo. ICMBio, Brasília, p. 8.
 
-ICMBio. (2016a). Plano de Ação Nacional para a Conservação das Aves da Amazônia.
-
-ICMBio. (2012). *Plano de Ação Nacional para a Conservação dos Passeriformes Ameaçados dos Campos Sulinos e Espinilho - Sumário Executivo*. ICMBio, Brasília.
+ICMBio. (2016). Plano de Ação Nacional para a Conservação das Aves da Amazônia. {Sumário Executivo}. ICMBio; MMA.
 
 ICMBio. (2017). [Sumário Executivo do Plano de Ação Nacional para a Conservação das Aves da Mata Atlântica, 1 ciclo](https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/pan/pan-aves-da-mata-atlantica).
 
-Instituto Estadual de Florestas. (2021). *Plano de Ação Territorial para Conservação de Espécies Ameaçadas de Extinção do Território Espinhaço Mineiro: sumário executivo*. IEF, Belo Horizonte.
+ICMBio. (2021). Plano de Ação Nacional para Conservação das Aves dos Campos Sulinos. Sumário Executivo. ICMBio, Brasília.
 
-IUCN. (2023). [The IUCN Red List of Threatened Species. Version 2023-1.](https://www.iucnredlist.org.)
+IEF. (2021). Plano de Ação Territorial para Conservação de Espécies Ameaçadas de Extinção do Território Espinhaço Mineiro. Sumário Executivo. IEF, Belo Horizonte, p. 27.
+
+IUCN. (2023). *The IUCN Red List of Threatened Species. Version 2023-1.* Disponível em: <https://www.iucnredlist.org.> Acesso em 11 de abril de 2023.

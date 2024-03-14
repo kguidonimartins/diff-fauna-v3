@@ -2,6 +2,10 @@
 
 **Autores(as)**: Luciana Signorelli, Monira Bruno Bicalho, Karlo Guidoni e Vitor Torga
 
+![Fonte: Fernando Flores - wikiaves](media/rId20.jpg){width="6.486111111111111in" height="4.864583333333333in"}
+
+Fonte: *Fernando Flores - wikiaves*
+
 **Nomes populares**: urubuzinho, taterá, andorinha-cavadeira, andorinha-preta, moleque-de-cera, saperá, andorinha-do-mato, miolinho, taperaí
 
 **Filo**: Chordata
@@ -38,7 +42,7 @@ A espécie está presente nas seguintes unidades de conservação: PE do Rio Doc
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Espírito Santo: VU (Espírito Santo 2022)
 
@@ -56,22 +60,22 @@ Pesquisas relacionadas à distribuição, ecologia e história de vida, bem como
 
 ## REFERÊNCIAS
 
-BirdLife International. (2016). [Chelidoptera tenebrosa](http://dx.doi.org/10.2305/IUCN.UK.2016- 3.RLTS.T22682337A92941971.en).  *The IUCN Red List of Threatened Species 2016: e.T22682337A92941971.*
+BirdLife International. (2016). *Chelidoptera tenebrosa*. *The IUCN Red List of Threatened Species 2016: e.T22682337A92941971*. Disponível em: [http://dx.doi.org/10.2305/IUCN.UK.2016- 3.RLTS.T22682337A92941971.en.](http://dx.doi.org/10.2305/IUCN.UK.2016- 3.RLTS.T22682337A92941971.en) Acesso em 11 de abril de 2023.
 
-Cäsar, C., Oliveira, L.C. & Câmara, T. (2019). *Plano de Ação para Conservação da Biodiversidade Terrestre do Rio Doce*. Instituto de Pesquisa Bicho do Mato/ Fundação RENOVA.
+Cäsar, C., Oliveira, L.C. & Câmara, T. (2019). Plano de Ação para Conservação da Biodiversidade Terrestre do Rio Doce. Instituto de Pesquisa Bicho do Mato/ Fundação RENOVA, p. 1--282.
 
 Espírito Santo. (2022). [Decreto Nº 5237-R, de 25 de novembro de 2022.  Declara as espécies de fauna ameaçadas de extinção no Estado do Espírito Santo e dá outras providências](https://iema.es.gov.br/Media/iema/FAUNA/Decreto%205237-R_2022_25-Nov%20-%20Fauna%20(s-peixes)%20-%20Lista%20de%20Esp%C3%A9cies%20Amea%C3%A7adas%20de%20Extin%C3%A7%C3%A3o.pdf).
 
-Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
-Mallet-Rodrigues, F. & Pacheco, J.F. (2015). [The local conservation status of the regionally rarest bird species in the state of Rio de Janeiro, southeastern Brazil](http://dx.doi.org/10.11609/JoTT.o4186.7510-37). *Journal of Threatened Taxa*, 7, 7510--7537.
+Mallet-Rodrigues, F. & Pacheco, J.F. (2015). [The local conservation status of the regionally rarest bird species in the state of Rio de Janeiro, southeastern Brazil](https://doi.org/10.11609/JoTT.o4186.7510-37). *Journal of Threatened Taxa*, 7, 7510--7537.
 
 Moojen, J., Carvalho, J. & Lopes, H. (1941). Observações sobre o conteúdo gástrico das aves brasileiras. *Memórias do Instituto Oswaldo Cruz*, 36, 405--444.
 
 Pacheco, J.F., Silveira, L.F., Aleixo, A., Agne, C.E., Bencke, G.A., Bravo, G.A., *et al.* (2021). [Annotated checklist of the birds of Brazil by the Brazilian Ornithological Records Committee---second edition](https://doi.org/10.1007/s43388-021-00058-x). *Ornithology Research*, 29, 94--105.
 
-Rasmussen, P.C. & Collar, N. (2020). [Swallow-winged Puffbird (Chelidoptera tenebrosa), version 1.0](https://doi.org/10.2173/bow.swwpuf1.01).
+Rasmussen, P.C. & Collar, N. (2020). [Swallow-winged Puffbird (Chelidoptera tenebrosa), version 1.0](https://doi.org/10.2173/bow.swwpuf1.01). Em: *Birds of the World* (orgs. del Hoyo, J., Elliott, A., Sargatal, J., Christie, D.A. & Juana, E.). Cornell Lab of Ornithology, Ithaca, NY, USA.
 
-Silva, F.I. de G.P. (2021). [Avifauna em remanescentes de Mata Atlântica no Sul da Bahia: sensibilidade e conservação](https://repositorio.ufscar.br/handle/ufscar/14267).  Dissertação ({Mestrado} em {Ecologia} e {Recursos} {Naturais}).  Universidade Federal de São Carlos, São Carlos.
+Silva, F.I.G.P. (2021). [*Avifauna em remanescentes de Mata Atlântica no Sul da Bahia: sensibilidade e conservação*](https://repositorio.ufscar.br/handle/ufscar/14267).  Dissertação. Dissertação (Mestrado em Ecologia e Recursos Naturais) -- Universidade Federal de São Carlos, São Carlos.
 
-Silveira, L.F., Lopes, E.V. & Costa, T.V.V.D. (2023). [Chelidoptera tenebrosa (Pallas, 1782)](https://salve.icmbio.gov.br/salve/api/fichaHash/687669384d4139327a6f3253307055315a38477176413d3d).  *Sistema de Avaliação do Risco de Extinção da Biodiversidade - SALVE*.
+Silveira, L.F., Lopes, E.V. & Costa, T.V.V.D. (2023). *Chelidoptera tenebrosa (Pallas, 1782)*. *SALVE*. Disponível em: [https://doi.org/10.37002/salve.ficha.29757.](https://doi.org/10.37002/salve.ficha.29757) Acesso em 11 de abril de 2023.

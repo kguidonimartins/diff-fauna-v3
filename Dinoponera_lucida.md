@@ -35,7 +35,7 @@ A espécie está presente nas seguintes unidades de conservação: REBIO de Soor
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Nacional: EN (Brasil 2022)
 
@@ -53,16 +53,16 @@ Pesquisas sobre ameaças, tendência e tamanho populacional. Além disso, é nec
 
 ## REFERÊNCIAS
 
-Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
+Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) Em: *Diário Oficial da União, Edição 108, Seção 1*. p. 74--103.
 
 Curbani, F., Zocca, C., Ferreira, R.B., Waichert, C., Sobrinho, T.G. & Srbek-Araujo, A.C. (2021). [Litter Surface Temperature: A Driving Factor Affecting Foraging Activity in Dinoponera lucida (Hymenoptera: Formicidae)](https://doi.org/10.13102/sociobiology.v68i1.6030).  *Sociobiology*, 68.
 
 Dias, A.M. & Lattke, J.E. (2021). [Large ants are not easy -- the taxonomy of Dinoponera Roger (Hymenoptera: Formicidae: Ponerinae)](https://doi.org/10.5852/ejt.2021.784.1603). *European Journal of Taxonomy*, 784, 1--66.
 
-Golder Associates. (2016). Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
 Parreira, D.S., Batista, L.D., Ribeiro, H.C.B. & Coelho, M.P.A. (2020).  [First Record of Dinoponera lucida (Hymenoptera: Formicidae), in the Northeast Region of the State of Minas Gerais, Brazil](https://doi.org/10.17921/1415-6938.2020v24n1p12-15). *Ensaios e Ciência C Biológicas Agrárias e da Saúde*, 24, 12--15.
 
-Simon, S., Schoereder, J.H. & Teixeira, M.D.C. (2020). [Environmental Response of Dinoponera lucida Emery 1901 (Hymenoptera: Formicidae), an Endemic Threatened Species of the Atlantic Forest Central Corridor](https://doi.org/10.13102/sociobiology.v67i1.3662).  *Sociobiology*, 67, 65.
+Simon, S., Schoereder, J.H. & Teixeira, M.C. (2020). [Environmental Response of Dinoponera lucida Emery 1901 (Hymenoptera: Formicidae), an Endemic Threatened Species of the Atlantic Forest Central Corridor](https://doi.org/10.13102/sociobiology.v67i1.3662).  *Sociobiology*, 67, 65.
 
-Simon, S.S., Teixeira, M.D.C. & Salomão, T. (2016). [THE REALLOCATTION OF THE ANT SPECIES Dinoponera lucida EMERY (FORMICIDAE: PONERINAE) POPULATION INCREASING ITS LOCAL GENETIC DIVERSITY](https://doi.org/10.13102/sociobiology.v63i4.1074).  *Sociobiology*, 63, 1058.
+Simon, S.S., Teixeira, M.C. & Salomão, T. (2016). [The reallocattion of the ant species Dinoponera lucida Emery (Formicidae: Ponerinae) population increasing its local genetic diversity](https://doi.org/10.13102/sociobiology.v63i4.1074).  *Sociobiology*, 63, 1058.

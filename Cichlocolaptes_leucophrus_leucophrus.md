@@ -2,6 +2,10 @@
 
 **Autores(as)**: Monira Bruno Bicalho, Eduardo Amorim, Karlo Guidoni e Flávia Chaves
 
+![Fonte: Ciro Albano - Wikiaves](media/rId20.jpg){width="6.173611111111111in" height="4.111111111111111in"}
+
+Fonte: *Ciro Albano - Wikiaves*
+
 **Nomes populares**: trepador-sobrancelha, limpa-folha-gritador (WikiAves 2023)
 
 **Filo**: Chordata
@@ -37,10 +41,9 @@ A espécie está presente nas seguintes unidades de conservação: PE do Rio Doc
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
--   Nacional: LC (Brasil 2022) -   Minas Gerais: EN (Conselho Estadual de Política Ambiental - COPAM
-    2010)
+-   Nacional: LC (Brasil 2022) -   Minas Gerais: EN (COPAM 2010)
 
 **PATs/PANs**: Não disponível
 
@@ -56,12 +59,12 @@ São essenciais pesquisas para verificar se as informações sobre a biologia re
 
 ## REFERÊNCIAS
 
-Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
+Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) Em: *Diário Oficial da União, Edição 108, Seção 1*. p. 74--103.
 
-Conselho Estadual de Política Ambiental - COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
+COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
 
-Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
-Silveira, L.F., Santos, C.G.M., Albano, C.G., Lima, D.M., Bencke, G.A., Pacheco, J.F., *et al.* (2019). [Cichlocolaptes leucophrus leucophrus (Jardine & Selby, 1830)](https://salve.icmbio.gov.br/). *Sistema de Avaliação do Risco de Extinção da Biodiversidade -- SALVE*.
+Silveira, L.F., Santos, C.G.M., Albano, C.G., Lima, D.M., Bencke, G.A., Pacheco, J.F., *et al.* (2019). *Cichlocolaptes leucophrus leucophrus (Jardine & Selby, 1830)*. *SALVE*. Disponível em: [https://doi.org/10.37002/salve.ficha.24541.2.](https://doi.org/10.37002/salve.ficha.24541.2) Acesso em 11 de abril de 2023.
 
-WikiAves. (2023). [Trepador-sobrancelha (Cichlocolaptes leucophrus)](https://www.wikiaves.com.br/wiki/trepador-sobrancelha).
+WikiAves. (2023). *WikiAves, a Enciclopédia das Aves do Brasil*.  Disponível em: [https://www.wikiaves.com.br/index.php.](https://www.wikiaves.com.br/index.php) Acesso em 11 de abril de 2023.

@@ -2,6 +2,8 @@
 
 **Autores(as)**: Tatianne P. F. Abreu-Jardim, Monira Bruno Bicalho, Karlo Guidoni e Vitor Torga
 
+![Fonte: Gabriel Bonfa - BioDiversity4All](media/rId20.jpg){width="3.375in" height="4.5in"}![Fonte: Gabriel Bonfa - BioDiversity4All](media/rId23.jpg){width="4.166666666666667in" height="2.7777777777777777in"}
+
 **Nomes populares**: pica-pau-dourado-grande
 
 **Filo**: Chordata
@@ -41,7 +43,7 @@ A espécie está presente nas seguintes unidades de conservação: PE do Rio Doc
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Nacional: EN (Brasil 2022)
 
@@ -59,15 +61,15 @@ Pesquisas relacionadas à distribuição, tamanho e tendência populacional, eco
 
 ## REFERÊNCIAS
 
-Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
+Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) Em: *Diário Oficial da União, Edição 108, Seção 1*. p. 74--103.
 
 Cavarzere, V., Albano, C., Tonetti, V.R., Pacheco, J.F., Whitney, B.M. & Silveira, L.F. (2019). [An overlooked hotspot for birds in the Atlantic Forest](https://doi.org/10.11606/1807-0205/2019.59.05). *Papéis Avulsos de Zoologia*, 59, e20195905.
 
 Del-Rio, G., Silveira, L.F., Cavarzere, V. & Rêgo, M.A. (2013). [A taxonomic review of the Golden-green Woodpecker, Piculus chrysochloros (Aves: Picidae) reveals the existence of six valid taxa](https://doi.org/10.11646/zootaxa.3626.4.7). *Zootaxa*, 3626, 531--542.
 
-Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
-Gomes, P.S. (2018). [\[WA3203393, Piculus polyzonus (Valenciennes, 1826)\]](http://www.wikiaves.com/3203393). *Wiki Aves - A Enciclopédia das Aves do Brasil.*
+Gomes, P.S. (2018). *Piculus polyzonus (Valenciennes, 1826)*.  *WikiAves*. Disponível em: [http://www.wikiaves.com/3203393.](http://www.wikiaves.com/3203393) Acesso em 11 de abril de 2023.
 
 ICMBio. (2017). [Sumário Executivo do Plano de Ação Nacional para a Conservação das Aves da Mata Atlântica, 1 ciclo](https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/pan/pan-aves-da-mata-atlantica).
 

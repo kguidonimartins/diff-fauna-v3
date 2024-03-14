@@ -37,10 +37,9 @@ Não há registros da espécie em unidades de conservação.
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
--   Minas Gerais: CR (Conselho Estadual de Política Ambiental - COPAM
-    2010)
+-   Minas Gerais: CR (COPAM 2010)
 
 **PATs/PANs**: Não disponível
 
@@ -56,10 +55,10 @@ Pesquisas relacionadas ao tamanho e à tendência populacional, ao tamanho do te
 
 ## REFERÊNCIAS
 
-BirdLife International. (2023). [Species factsheet: Chestnut-bellied Seed-Finch (Sporophila angolensis)](http://datazone.birdlife.org/species/factsheet/chestnut-bellied-seed-finch-sporophila-angolensis).
+BirdLife International. (2023). *Species factsheet: Sporophila angolensis*. *BirdLife International*. Disponível em: [http://datazone.birdlife.org/species/factsheet/chestnut-bellied-seed-finch-sporophila-angolensis.](http://datazone.birdlife.org/species/factsheet/chestnut-bellied-seed-finch-sporophila-angolensis) Acesso em 11 de abril de 2023.
 
-Conselho Estadual de Política Ambiental - COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
+COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
 
-Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
-WikiAves. (2023). [curió (Sporophila angolensis)](https://www.wikiaves.com.br/wiki/curio).
+WikiAves. (2023). *WikiAves, a Enciclopédia das Aves do Brasil*.  Disponível em: [https://www.wikiaves.com.br/index.php.](https://www.wikiaves.com.br/index.php) Acesso em 11 de abril de 2023.

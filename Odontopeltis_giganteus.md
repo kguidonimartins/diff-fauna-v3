@@ -23,7 +23,7 @@
 
 ## INFORMAÇÕES GERAIS
 
-Espécie com hábito fossorial, sendo o maior membro da sua família. É encontrada em vegetação aberta, regeneração, Floresta Estacional Semidecidual degradada e pastos sujos (Golder Associates 2016).Não há informações sobre tamanho e tendência populacional visto que o último registro da espécie é de 1981, e não foram encontradas novas ocorrências na área desde então.
+Espécie com hábito fossorial, sendo o maior membro da sua família. É encontrada em vegetação aberta, regeneração, Floresta Estacional Semidecidual degradada e pastos sujos (Golder Associates 2016). Não há informações sobre tamanho e tendência populacional visto que o último registro da espécie é de 1981, e não foram encontradas novas ocorrências na área desde então.
 
 ## DISTRIBUIÇÃO GEOGRÁFICA
 
@@ -35,7 +35,7 @@ Não há registros da espécie em unidades de conservação.
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Nacional: VU (Brasil 2022)
 
@@ -53,10 +53,10 @@ Estudos sobre habitat, ecologia, tendência populacional e ameaças sobre a esp�
 
 ## REFERÊNCIAS
 
-Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
+Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) Em: *Diário Oficial da União, Edição 108, Seção 1*. p. 74--103.
 
-Golder Associates. (2016). Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
-Oliveira, M.M. de, Morato, R.G., Jorge, R.S.P. & Paula, R.C. de. (2021).  [Agricultural activities and threat to fauna in Brazil: an analysis of the Red Book of Endangered Brazilian Fauna](https://doi.org/10.11606/1807-0205/2021.61.93). *Papéis Avulsos de Zoologia*, 61, e20216193--e20216193.
+Oliveira, M.M., Morato, R.G., Jorge, R.S.P. & Paula, R.C. (2021).  [Agricultural activities and threat to fauna in Brazil: an analysis of the Red Book of Endangered Brazilian Fauna](https://doi.org/10.11606/1807-0205/2021.61.93). *Papéis Avulsos de Zoologia*, 61, e20216193--e20216193.
 
 Pena-Barbosa, J.P.P., Sierwald, P. & Brescovit, A.D. (2013). [On the largest chelodesmid millipedes: taxonomic review and cladistic analysis of the genus *Odontopeltis* Pocock, 1894 (Diplopoda; Polydesmida; Chelodesmidae): Phylogeny and review of *Odontopeltis*](https://doi.org/10.1111/zoj.12086). *Zoological Journal of the Linnean Society*, 169, 737--764.

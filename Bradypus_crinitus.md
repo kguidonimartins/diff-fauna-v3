@@ -42,11 +42,11 @@ A espécie está presente nas seguintes unidades de conservação: FLONA de Goyt
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Global: VU (IUCN 2023) -   Nacional: VU (Brasil 2022) -   Espírito Santo: VU (Espírito Santo 2022)
 
-**PATs/PANs**: PAN Primatas da Mata Atlântica e Preguiça-da-coleira (ICMBio 2018a).
+**PATs/PANs**: PAN Primatas da Mata Atlântica e Preguiça-da-coleira (ICMBio 2018).
 
 **CITES**: Não consta
 
@@ -54,7 +54,7 @@ A espécie está presente em várias listas de ameaça e presente em PANs como *
 
 ## PRINCIPAIS AMEAÇAS
 
-A espécie possui distribuição descontínua, com pouca tolerância às perturbações ambientais, estando as ameaças principais relacionadas com a fragmentação e perda da qualidade de habitat e redução da qualidade ambiental (Santos *et al.* 2022). A espécie, em quase toda sua área de ocorrência, está imersa em matrizes florestais, severamente fragmentadas e com declínio contínuo (ICMBio 2018a). Além disso, a espécie também tem como ameaça os incêndios florestais e atropelamentos (ICMBio 2018a). No contexto do rompimento da barragem de Fundão, há registros da espécie na área afetada, e os possíveis impactos para a espécie podem estar relacionados às alterações na condição do habitat decorrentes da erosão e da deposição de rejeitos e detritos (Golder Associates 2016).
+A espécie possui distribuição descontínua, com pouca tolerância às perturbações ambientais, estando as ameaças principais relacionadas com a fragmentação e perda da qualidade de habitat e redução da qualidade ambiental (Santos *et al.* 2022). A espécie, em quase toda sua área de ocorrência, está imersa em matrizes florestais, severamente fragmentadas e com declínio contínuo (ICMBio 2018). Além disso, a espécie também tem como ameaça os incêndios florestais e atropelamentos (ICMBio 2018). No contexto do rompimento da barragem de Fundão, há registros da espécie na área afetada, e os possíveis impactos para a espécie podem estar relacionados às alterações na condição do habitat decorrentes da erosão e da deposição de rejeitos e detritos (Golder Associates 2016).
 
 ## PESQUISAS RECOMENDADAS
 
@@ -62,27 +62,27 @@ Pesquisas sobre tamanho, distribuição e tendência populacional, ameaças, eco
 
 ## REFERÊNCIAS
 
-Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
+Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) Em: *Diário Oficial da União, Edição 108, Seção 1*. p. 74--103.
 
 Chiarello, A.G. (1998). [Diet of the Atlantic forest maned sloth *Bradypus torquatus* (Xenarthra: Bradypodidae)](https://doi.org/10.1111/j.1469-7998.1998.tb00127.x).  *Journal of Zoology*, 246, 11--19.
 
-Chiarello, A.G. (2008). *Sloth ecology. An overview of field studies.* University Press of Florida, Gainesville.
+Chiarello, A.G. (2008). Sloth ecology. An overview of field studies. Em: *The biology of the Xenarthra* (orgs. Vizcaıno, S.F. & Loughry, W.J.).  University Press of Florida, Gainesville.
 
-Chiarello, A.G., Miranda, F.R., Xavier, G.A.A., Moraes-Barros, N. & Vaz, S.M. (2018). Bradypus torquatus Illiger, 1811. In: ICMBio & MMA. (2018).  Em: *Livro Vermelho da Fauna Brasileira Ameaçada de Extinção: Volume II - Mamíferos.*
+Chiarello, A.G., Miranda, F.R., Xavier, G.A.A., Moraes-Barros, N. & Vaz, S.M. (2018). Bradypus torquatus Illiger, 1811. Em: *Livro Vermelho da Fauna Brasileira Ameaçada de Extinção: Volume II - Mamíferos.* (org.  Instituto Chico Mendes de Conservação da Biodiversidade). ICMBio, Brasília, p. 34--40.
 
-Chiarello, A., Santos, P., Moraes-Barros, N. & Miranda, F. (2022).  [Bradypus torquatus.](https://dx.doi.org/10.2305/IUCN.UK.2022-2.RLTS.T3036A210442361.en. ) *The IUCN Red List of Threatened Species*.
+Chiarello, A., Santos, P., Moraes-Barros, N. & Miranda, F. (2022).  *Bradypus torquatus*. *The IUCN Red List of Threatened Species 2022: e.T3036A210442361*. Disponível em: [https://dx.doi.org/10.2305/IUCN.UK.2022-2.RLTS.T3036A210442361.en.](https://dx.doi.org/10.2305/IUCN.UK.2022-2.RLTS.T3036A210442361.en) Acesso em 11 de abril de 2023.
 
 Dias, B.B., Santos, L.A.D., Lara-Ruiz, P., Cassano, C.R., Pinder, L. & Chiarello, A.G. (2009). First observation on mating and reproductive seasonality in maned sloths Bradypus torquatus (Pilosa: Bradypodidae).  *Journal of Ethology*, 27, 97--103.
 
 Espírito Santo. (2022). [Decreto Nº 5237-R, de 25 de novembro de 2022.  Declara as espécies de fauna ameaçadas de extinção no Estado do Espírito Santo e dá outras providências](https://iema.es.gov.br/Media/iema/FAUNA/Decreto%205237-R_2022_25-Nov%20-%20Fauna%20(s-peixes)%20-%20Lista%20de%20Esp%C3%A9cies%20Amea%C3%A7adas%20de%20Extin%C3%A7%C3%A3o.pdf).
 
-Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
 Hirsch, A. & Chiarello, A.G. (2012). [The endangered maned sloth Bradypus torquatus of the Brazilian Atlantic forest: a review and update of geographical distribution and habitat preferences: Bradypus torquatus distribution](https://doi.org/10.1111/j.1365-2907.2011.00188.x). *Mammal Review*, 42, 35--54.
 
-ICMBio. (2018a). Sumário Executivo Plano de Ação Nacional para a Conservação dos Primatas da Mata Atlântica e da Preguiça-da-coleira - 1 Ciclo.
+ICMBio. (2018). Plano de Ação Nacional para a Conservação dos Primatas da Mata Atlântica e da Preguiça-da-coleira - 1 Ciclo. {Sumário Executivo}. ICMBio; MMA.
 
-IUCN. (2023). [The IUCN Red List of Threatened Species. Version 2023-1.](https://www.iucnredlist.org.)
+IUCN. (2023). *The IUCN Red List of Threatened Species. Version 2023-1.* Disponível em: <https://www.iucnredlist.org.> Acesso em 11 de abril de 2023.
 
 Lara-Ruiz, P. & Chiarello, A.G. (2005). Life-history traits and sexual dimorphism of the Atlantic Forest maned sloth Bradypus torquatus (Xenarthra: Bradypodidae). *Journal of Zoology*, 267, 63--73.
 
@@ -90,4 +90,4 @@ Miranda, F.R., Garbino, G.S.T., Machado, F.A., Perini, F.A., Santos, F.R. & Casa
 
 Santos, P.M., Bailey, L.L., Ribeiro, M.C., Chiarello, A.G. & Paglia, A.P. (2019). Living on the edge: Forest cover threshold effect on endangered maned sloth occurrence in Atlantic Forest. *Biological Conservation*, 240.
 
-Santos, P.M., Ferraz, K.M.P.M.D.B., Ribeiro, M.C., Niebuhr, B.B., Vancine, M.H., Chiarello, A.G., *et al.* (2022). [Natural forest regeneration on anthropized landscapes could overcome climate change effects on the endangered maned sloth ( *Bradypus torquatus* , Illiger 1811)](https://doi.org/10.1093/jmammal/gyac084). *Journal of Mammalogy*, 103, 1383--1396.
+Santos, P.M., Ferraz, K.M.P.M.B., Ribeiro, M.C., Niebuhr, B.B., Vancine, M.H., Chiarello, A.G., *et al.* (2022). [Natural forest regeneration on anthropized landscapes could overcome climate change effects on the endangered maned sloth (*Bradypus torquatus*, Illiger 1811)](https://doi.org/10.1093/jmammal/gyac084). *Journal of Mammalogy*, 103, 1383--1396.

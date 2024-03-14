@@ -41,10 +41,9 @@ A espécie está presente nas seguintes unidades de conservação: REBIO de Soor
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
--   Minas Gerais: EN (Conselho Estadual de Política Ambiental - COPAM
-    2010)
+-   Minas Gerais: EN (COPAM 2010)
 
 **PATs/PANs**: PAN Aves da Mata Atlântica (ICMBio 2017).
 
@@ -60,18 +59,18 @@ Pesquisas relacionadas a tamanho e tendência populacional, história natural e 
 
 ## REFERÊNCIAS
 
-BirdLife International. (2022). [Spizaetus ornatus](https://www.iucnredlist.org/species/22696197/211084620). *The IUCN Red List of Threatened Species 2022: e.T22696197A211084620.*
+BirdLife International. (2022). *Spizaetus ornatus*. *The IUCN Red List of Threatened Species 2022: e.T22696197A211084620.* Disponível em: [https://www.iucnredlist.org/species/22696197/211084620.](https://www.iucnredlist.org/species/22696197/211084620) Acesso em 11 de abril de 2023.
 
-BirdLife International. (2023). [Species factsheet: Ornate Hawk-eagle (Spizaetus ornatus)](http://datazone.birdlife.org/species/factsheet/ornate-hawk-eagle-spizaetus-ornatus).
+BirdLife International. (2023). *Species factsheet: Spizaetus ornatus*.  *BirdLife International*. Disponível em: [http://datazone.birdlife.org/species/factsheet/ornate-hawk-eagle-spizaetus-ornatus.](http://datazone.birdlife.org/species/factsheet/ornate-hawk-eagle-spizaetus-ornatus) Acesso em 11 de abril de 2023.
 
-Conselho Estadual de Política Ambiental - COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
+COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
 
-Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
 ICMBio. (2017). [Sumário Executivo do Plano de Ação Nacional para a Conservação das Aves da Mata Atlântica, 1 ciclo](https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/pan/pan-aves-da-mata-atlantica).
 
 Iliff, M.J. (2020). [Ornate Hawk-Eagle (Spizaetus ornatus)](https://doi.org/10.2173/bow.orheag1.01). Em: *Birds of the World* (org. Schulenberg, T.S.). Cornell Lab of Ornithology.
 
-Pallinger, F. & Menq, W. (2021). *Aves de Rapina do Brasil - Diurnos*.  Taxon Brasil, São Paulo/SP.
+Pallinger, F. & Menq, W. (2021). *Aves de Rapina do Brasil - Diurnos*.  TAXON BRASIL, São Paulo/SP.
 
-Silveira, L.F., Lima, D.M., Dias, F.F., Ubaid, F.K., Bencke, G.A., Repenning, M., *et al.* (2023). [Spizaetus ornatus (Daudin, 1800)](https://doi.org/10.37002/salve.ficha.29701). *Sistema de Avaliação do Risco de Extinção da Biodiversidade - SALVE*.
+Silveira, L.F., Lima, D.M., Dias, F.F., Ubaid, F.K., Bencke, G.A., Repenning, M., *et al.* (2023). *Spizaetus ornatus (Daudin, 1800)*.  *SALVE*. Disponível em: [https://doi.org/10.37002/salve.ficha.29701.](https://doi.org/10.37002/salve.ficha.29701) Acesso em 11 de abril de 2023.

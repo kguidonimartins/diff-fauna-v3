@@ -23,7 +23,7 @@ informações disponíveis sobre migração significativa de populações de for
 
 ## INFORMAÇÕES GERAIS
 
-A espécie era considerada abundante em florestas da Mata Atlântica. No entanto, sofreu grande declínio populacional devido à degradação e supressão da vegetação no bioma. A espécie habita grandes fragmentos de floresta bem conservados, e é caracterizada pela baixa tolerância à perturbações e alterações ambientais. Não há informações sobre tamanho e tendência populacional para a espécie.
+A espécie era considerada abundante em florestas da Mata Atlântica, no entanto, sofreu grande declínio populacional devido à degradação e supressão da vegetação no bioma (Silveira *et al.* 2002). A espécie habita grandes fragmentos de floresta bem conservados, e é caracterizada pela baixa tolerância à perturbações e alterações ambientais (Silveira *et al.* 2002). Não há informações sobre tamanho e tendência populacional para a espécie.
 
 ## DISTRIBUIÇÃO GEOGRÁFICA
 
@@ -35,11 +35,11 @@ A espécie está presente nas seguintes unidades de conservação: PE do Rio Doc
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
--   Nacional: EN (Brasil 2022)
+-   Nacional: EN (Brasil 2022b)
 
-**PATs/PANs**: Listada no PAN Insetos Polinizadores (ICMBio 2022) e considerada espécie beneficiada no PAT Espinhaço Mineiro (Instituto Estadual de Florestas 2021).
+**PATs/PANs**: Listada no PAN Insetos Polinizadores (Brasil 2022a) e considerada espécie beneficiada no PAT Espinhaço Mineiro (IEF 2021).
 
 **CITES**: Não consta
 
@@ -55,10 +55,12 @@ Pesquisa de tamanho e tendência populacional.
 
 Azevedo, T.T.H. & Nogueira, F.F.H. (2021). The first report of Melipona (Michmelia) rufiventris Lepeletier, 1836 in the municipality of Sacramento, Minas Gerais, Brazil. *Revista de Biologia Neotropical*, 18, 26--30.
 
-Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
+Brasil. (2022a). [Portaria ICMBio Nº 1.145, de 5 de dezembro de 2022.  Aprova o Plano de Ação Nacional para a Conservação dos Insetos Polinizadores Ameaçados de Extinção - PAN Insetos Polinizadores, contemplando 56 táxons nacionalmente ameaçados de extinção, estabelecendo seu objetivo geral, objetivos específicos, prazo de execução, formas de implementação, supervisão e revisão. Processo SEI nº 02176.000061/2019-17](https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/pan/pan-insetos-polinizadores).  Em: *Diário Oficial da União, Edição 230, Seção 1*. ICMBio; MMA, p. 241.
 
-Golder Associates. (2016). Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção.
+Brasil. (2022b). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) Em: *Diário Oficial da União, Edição 108, Seção 1*. p. 74--103.
 
-ICMBio. (2022). [Plano de Ação Nacional para a Conservação dos Insetos Polinizadores](https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/pan/pan-insetos-polinizadores).
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
-Instituto Estadual de Florestas. (2021). *Plano de Ação Territorial para Conservação de Espécies Ameaçadas de Extinção do Território Espinhaço Mineiro: sumário executivo*. IEF, Belo Horizonte.
+IEF. (2021). Plano de Ação Territorial para Conservação de Espécies Ameaçadas de Extinção do Território Espinhaço Mineiro. Sumário Executivo. IEF, Belo Horizonte, p. 27.
+
+Silveira, F.A., Melo, G.A.R. & Almeida, E.A.B. (2002). *Abelhas brasileiras: sistemática e identificação*. 1. ed. MMA; Fundação Araucária, Belo Horizonte.

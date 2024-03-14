@@ -2,6 +2,10 @@
 
 **Autores(as)**: Tatianne P. F. Abreu-Jardim, Monira Bruno Bicalho, Karlo Guidoni e Vitor Torga
 
+![Fonte: Luiz Carlos Rocha - Flickr](media/rId20.jpg){width="6.486111111111111in" height="6.603298337707787in"}
+
+Fonte: *Luiz Carlos Rocha - Flickr*
+
 **Nomes populares**: águia-cinzenta
 
 **Filo**: Chordata
@@ -38,13 +42,11 @@ A espécie está presente nas seguintes unidades de conservação: ESEC do Tripu
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
--   Nacional: EN (Brasil 2022) -   Minas Gerais: EN (Conselho Estadual de Política Ambiental - COPAM
-    2010)
--   Espírito Santo: EN (Espírito Santo 2022)
+-   Nacional: EN (Brasil 2022) -   Minas Gerais: EN (COPAM 2010) -   Espírito Santo: EN (Espírito Santo 2022)
 
-**PATs/PANs**: Listada nos PANs Aves da Amazônia (ICMBio 2016a), Aves da Mata Atlântica (ICMBio 2017), Aves de Rapina (ICMBio 2008) e Aves do Cerrado e Pantanal (ICMBio & MMA 2015) e Aves dos Campos Sulinos (CEMAVE 2021). É considerada espécie beneficiada nos PATs Cerrado Tocantins (Instituto Natureza do Tocantins - NATURATINS 2020), Chapada Diamantina-Serra da Jiboia (Instituto do Meio Ambiente e Recursos Hídricos - INEMA & Secretaria do Meio Ambiente - SEMA 2021), Veredas Goyaz-Gerais (Secretaria de Meio Ambiente e Desenvolvimento Sustentável de Goiás - SEMAD-GO & Instituto Estadual de Florestas - IEF-MG 2021).
+**PATs/PANs**: Listada nos PANs Aves da Amazônia (ICMBio 2016), Aves da Mata Atlântica (ICMBio 2017), Aves de Rapina (Soares *et al.* 2008) e Aves do Cerrado e Pantanal (ICMBio 2015) e Aves dos Campos Sulinos (ICMBio 2021). É considerada espécie beneficiada nos PATs Cerrado Tocantins (NATURATINS 2020), Chapada Diamantina-Serra da Jiboia (INEMA & SEMA 2021), Veredas Goyaz-Gerais (SEMAD-GO & IEF-MG 2021).
 
 **CITES**: Apêndice II
 
@@ -58,36 +60,36 @@ Pesquisas relacionadas a tamanho, tendência e monitoramento populacional.
 
 ## REFERÊNCIAS
 
-Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
+Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) Em: *Diário Oficial da União, Edição 108, Seção 1*. p. 74--103.
 
-CEMAVE. (2021). *Plano de Ação Nacional para Conservação das Aves dos Campos Sulinos - Sumário Executivo*. ICMBio, Brasília.
-
-Conselho Estadual de Política Ambiental - COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
+COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
 
 Espírito Santo. (2022). [Decreto Nº 5237-R, de 25 de novembro de 2022.  Declara as espécies de fauna ameaçadas de extinção no Estado do Espírito Santo e dá outras providências](https://iema.es.gov.br/Media/iema/FAUNA/Decreto%205237-R_2022_25-Nov%20-%20Fauna%20(s-peixes)%20-%20Lista%20de%20Esp%C3%A9cies%20Amea%C3%A7adas%20de%20Extin%C3%A7%C3%A3o.pdf).
 
-Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
-ICMBio. (2016a). Plano de Ação Nacional para a Conservação das Aves da Amazônia.
+ICMBio. (2015). [Plano de Ação Nacional para a Conservação das Aves do Cerrado e Pantanal](http://www.icmbio.gov.br/portal/biodiversidade/fauna-brasileira/planos-de-acao/3618-plano-de-acao-nacional-para-a-conservacao-das-aves-do-cerrado-e-pantanal.html).  Sumário Executivo. ICMBio; MMA, p. 8.
 
-ICMBio. (2008). *Plano de ação nacional para a conservação de aves de rapina*. Série Espé. Brasília.
+ICMBio. (2016). Plano de Ação Nacional para a Conservação das Aves da Amazônia. {Sumário Executivo}. ICMBio; MMA.
 
 ICMBio. (2017). [Sumário Executivo do Plano de Ação Nacional para a Conservação das Aves da Mata Atlântica, 1 ciclo](https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/pan/pan-aves-da-mata-atlantica).
 
-ICMBio & MMA. (2015). [*Plano de Ação Nacional para a Conservação das Aves do Cerrado e Pantanal*](http://www.icmbio.gov.br/portal/biodiversidade/fauna-brasileira/planos-de-acao/3618-plano-de-acao-nacional-para-a-conservacao-das-aves-do-cerrado-e-pantanal.html) (Sumário {Executivo}).
+ICMBio. (2021). Plano de Ação Nacional para Conservação das Aves dos Campos Sulinos. Sumário Executivo. ICMBio, Brasília.
 
-Instituto do Meio Ambiente e Recursos Hídricos - INEMA & Secretaria do Meio Ambiente - SEMA. (2021). *Plano de Ação Territorial de Conservação de Espécies Ameaçadas de Extinção do Território Chapada Diamantina-Serra da Jiboia (PAT Chapada Diamantina-Serra da Jiboia) - Sumário Executivo*.  Salvador/BA.
+INEMA & SEMA. (2021). *Plano de Ação Territorial de Conservação de Espécies Ameaçadas de Extinção do Território Chapada Diamantina-Serra da Jiboia (PAT Chapada Diamantina-Serra da Jiboia) - Sumário Executivo*.  Salvador.
 
-Instituto Natureza do Tocantins - NATURATINS. (2020). *Plano de Ação Territorial para Conservação de Espécies Ameaçadas de Extinção do Território Cerrado Tocantins (PAT Cerrado Tocantins)- Sumário Executivo*. Palmas/TO.
+Marini, M.A., Lima, D.M., Carvalho, C.B., Ubaid, F.K., Silva, G.B.M., Abreu, T.L.S., *et al.* (2023). *Urubitinga coronata Vieillot, 1817*.  *SALVE*. Disponível em: [https://doi.org/10.37002/salve.ficha.19738.](https://doi.org/10.37002/salve.ficha.19738) Acesso em 11 de abril de 2023.
 
-Marini, M.A., Lima, D.M., Carvalho, C.B., Ubaid, F.K., Silva, G.B.M., Abreu, T.L.S., *et al.* (2023). [Urubitinga coronata](https://doi.org/10.37002/salve.ficha.19738). *Sistema de Avaliação do Risco de Extinção da Biodiversidade - SALVE*.
+NATURATINS. (2020). *Plano de Ação Territorial para Conservação de Espécies Ameaçadas de Extinção do Território Cerrado Tocantins (PAT Cerrado Tocantins)- Sumário Executivo*. Palmas/TO.
 
-Pallinger, F. & Menq, W. (2021). *Aves de Rapina do Brasil - Diurnos*.  Taxon Brasil, São Paulo/SP.
+Pallinger, F. & Menq, W. (2021). *Aves de Rapina do Brasil - Diurnos*.  TAXON BRASIL, São Paulo/SP.
 
 Sarasola, J.H., Grande, J.M. & Bechard, M.J. (2018). Conservation Status of Neotropical Raptors. Em: *Birds of Prey: Biology and conservation in the XXI century* (orgs. Sarasola, J., Grande, J. & Negro, J.). Springer, p. 373--394.
 
-Secretaria de Meio Ambiente e Desenvolvimento Sustentável de Goiás - SEMAD-GO & Instituto Estadual de Florestas - IEF-MG. (2021). *Plano de Ação Territorial de Conservação de Espécies Ameaçadas de Extinção do Território Veredas Goyaz-Geraes (PAT Veredas Goyaz-Geraes) - Sumário Executivo*.
+SEMAD-GO & IEF-MG. (2021). *Plano de Ação Territorial de Conservação de Espécies Ameaçadas de Extinção do Território Veredas Goyaz-Geraes (PAT Veredas Goyaz-Geraes) - Sumário Executivo*.
+
+Soares, E.S., Amaral, F.S.R. do, Carvalho Filho, E.P.M. de, Granzinolli, M.A., Albuquerque, J.L.B., Lisboa, J.S., *et al.* (2008). Plano de Ação Nacional para a Conservação de Aves de Rapina. Em:, Série Espécies Ameaçadas Nº5. ICMBio, Brasília, p. 136.
 
 Veronezi, W.R. & Kilpp, J.C. (2017). A Águia-cinzenta (Urubitinga coronata) no municı́pio de Painel (Santa Catarina) e observações sobre sua biologia. *Atual Ornitol*, 195, 43--48.
 
-Zorzin, G., De Carvalho-Filho, E.P.M. & Armond, R.G. (2022). Density, distribution and conservation of the Chaco Eagle (Buteogallus coronatus) in Minas Gerais, southeast Brazil. *Historia Natural*, 12, 111--124.
+Zorzin, G., Carvalho-Filho, E.P.M. & Armond, R.G. (2022). Density, distribution and conservation of the Chaco Eagle (Buteogallus coronatus) in Minas Gerais, southeast Brazil. *Historia Natural*, 12, 111--124.

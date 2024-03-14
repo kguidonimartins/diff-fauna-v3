@@ -2,6 +2,10 @@
 
 **Autores(as)**: Tatianne P. F. Abreu-Jardim, Monira Bruno Bicalho, Karlo Guidoni e Vitor Torga
 
+![Fonte: Quartl - Wikimedia Commons](media/rId20.jpg){width="0.0in" height="0.0in"}
+
+Fonte: *Quartl - Wikimedia Commons*
+
 **Nomes populares**: gavião-real
 
 **Filo**: Chordata
@@ -41,13 +45,11 @@ A espécie está presente nas seguintes unidades de conservação: REBIO de Soor
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
--   Global: VU (IUCN 2023) -   Nacional: VU (Brasil 2022) -   Minas Gerais: CR (Conselho Estadual de Política Ambiental - COPAM
-    2010)
--   Espírito Santo: CR (Espírito Santo 2022)
+-   Global: VU (IUCN 2023) -   Nacional: VU (Brasil 2022) -   Minas Gerais: CR (COPAM 2010) -   Espírito Santo: CR (Espírito Santo 2022)
 
-**PATs/PANs**: A espécie é listada nos PANs Aves da Amazônia (ICMBio 2016a), Aves da Mata Atlântica (ICMBio 2017), Aves de Rapina (ICMBio 2008) e Aves do Cerrado e Pantanal (ICMBio & MMA 2015). É considerada espécie beneficiada nos PATs Capixaba-Gerais (Instituto Estadual de Florestas 2023), Cerrado Tocantins (Instituto Natureza do Tocantins - NATURATINS 2020) e Meio Norte (Secretaria do Meio Ambiente e Recursos Naturais do estado do Maranhão - SEMA-MA *et al.* 2022).
+**PATs/PANs**: A espécie é listada nos PANs Aves da Amazônia (ICMBio 2016), Aves da Mata Atlântica (ICMBio 2017), Aves de Rapina (Soares *et al.* 2008) e Aves do Cerrado e Pantanal (ICMBio 2015). É considerada espécie beneficiada nos PATs Capixaba-Gerais (IEF 2023), Cerrado Tocantins (NATURATINS 2020) e Meio Norte (SEMA-MA *et al.* 2022).
 
 **CITES**: Apêndice I
 
@@ -61,29 +63,25 @@ Pesquisas e monitoramentos são necessárias para melhor entender o tamanho e te
 
 ## REFERÊNCIAS
 
-BirdLife International. (2023). [Species factsheet: Harpia harpyja](http://datazone.birdlife.org/species/factsheet/harpy-eagle-harpia-harpyja).  *BirdLife International*.
+BirdLife International. (2023). *Species factsheet: Harpia harpyja*.  *BirdLife International*. Disponível em: [http://datazone.birdlife.org/species/factsheet/harpy-eagle-harpia-harpyja.](http://datazone.birdlife.org/species/factsheet/harpy-eagle-harpia-harpyja) Acesso em 11 de abril de 2023.
 
-Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
+Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) Em: *Diário Oficial da União, Edição 108, Seção 1*. p. 74--103.
 
-Conselho Estadual de Política Ambiental - COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
+COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
 
 Espírito Santo. (2022). [Decreto Nº 5237-R, de 25 de novembro de 2022.  Declara as espécies de fauna ameaçadas de extinção no Estado do Espírito Santo e dá outras providências](https://iema.es.gov.br/Media/iema/FAUNA/Decreto%205237-R_2022_25-Nov%20-%20Fauna%20(s-peixes)%20-%20Lista%20de%20Esp%C3%A9cies%20Amea%C3%A7adas%20de%20Extin%C3%A7%C3%A3o.pdf).
 
-Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
-ICMBio. (2016a). Plano de Ação Nacional para a Conservação das Aves da Amazônia.
+ICMBio. (2015). [Plano de Ação Nacional para a Conservação das Aves do Cerrado e Pantanal](http://www.icmbio.gov.br/portal/biodiversidade/fauna-brasileira/planos-de-acao/3618-plano-de-acao-nacional-para-a-conservacao-das-aves-do-cerrado-e-pantanal.html).  Sumário Executivo. ICMBio; MMA, p. 8.
 
-ICMBio. (2008). *Plano de ação nacional para a conservação de aves de rapina*. Série Espé. Brasília.
+ICMBio. (2016). Plano de Ação Nacional para a Conservação das Aves da Amazônia. {Sumário Executivo}. ICMBio; MMA.
 
 ICMBio. (2017). [Sumário Executivo do Plano de Ação Nacional para a Conservação das Aves da Mata Atlântica, 1 ciclo](https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/pan/pan-aves-da-mata-atlantica).
 
-ICMBio & MMA. (2015). [*Plano de Ação Nacional para a Conservação das Aves do Cerrado e Pantanal*](http://www.icmbio.gov.br/portal/biodiversidade/fauna-brasileira/planos-de-acao/3618-plano-de-acao-nacional-para-a-conservacao-das-aves-do-cerrado-e-pantanal.html) (Sumário {Executivo}).
+IEF. (2023). [*Plano de Ação Territorial Capixaba-Gerais*](http://www.ief.mg.gov.br/biodiversidade/-planodeacaoterritorialcapixabagerais).  IEMA; IEF; PróEspécies.
 
-Instituto Estadual de Florestas. (2023). [Plano de Ação Territorial Capixaba-Gerais](http://www.ief.mg.gov.br/biodiversidade/-planodeacaoterritorialcapixabagerais).
-
-Instituto Natureza do Tocantins - NATURATINS. (2020). *Plano de Ação Territorial para Conservação de Espécies Ameaçadas de Extinção do Território Cerrado Tocantins (PAT Cerrado Tocantins)- Sumário Executivo*. Palmas/TO.
-
-IUCN. (2023). [The IUCN Red List of Threatened Species. Version 2023-1.](https://www.iucnredlist.org.)
+IUCN. (2023). *The IUCN Red List of Threatened Species. Version 2023-1.* Disponível em: <https://www.iucnredlist.org.> Acesso em 11 de abril de 2023.
 
 Kaizer, M., Fabres, B., Aguiar-Silva, F.H., Sanaiotti, T.M., Dias, A.R.  & Banhos, A. (2023). [The prey of the Harpy Eagle in its last reproductive refuges in the Atlantic Forest](https://doi.org/10.1038/s41598-023-44014-9). *Scientific Reports*, 13, 18308.
 
@@ -91,10 +89,14 @@ Miranda, E.B.P., Menezes, J.F.S., Farias, C.C.L., Munn, C. & Peres, C.A.  (2019)
 
 Miranda, E.B.P., Peres, C.A., Marini, M.Â. & Downs, C.T. (2020). [Harpy Eagle (Harpia harpyja) nest tree selection: Selective logging in Amazon forest threatens Earth's largest eagle](https://doi.org/10.1016/j.biocon.2020.108754). *Biological Conservation*, 250, 108754.
 
-Pallinger, F. & Menq, W. (2021). *Aves de Rapina do Brasil - Diurnos*.  Taxon Brasil, São Paulo/SP.
+NATURATINS. (2020). *Plano de Ação Territorial para Conservação de Espécies Ameaçadas de Extinção do Território Cerrado Tocantins (PAT Cerrado Tocantins)- Sumário Executivo*. Palmas/TO.
 
-Reis, J.N. (2019). Dois séculos de perda da biodiversidade na bacia do Rio Doce: aves como modelo de estudo. Dissertação (Mestrado em Manejo e Conservação de Ecossistemas Naturais e Agrários).
+Pallinger, F. & Menq, W. (2021). *Aves de Rapina do Brasil - Diurnos*.  TAXON BRASIL, São Paulo/SP.
+
+Reis, J.N. (2019). [*Dois séculos de perda da biodiversidade na bacia do Rio Doce: aves como modelo de estudo*](https://locus.ufv.br//handle/123456789/27745). Dissertação (Mestrado em Manejo e Conservação de Ecossistemas Naturais e Agrários) - Universidade Federal de Viçosa, Florestal.
 
 Schulenberg, T.S. (2020). [Harpy Eagle (Harpia harpyja)](https://doi.org/10.2173/bow.hareag1.01). Em: *Birds of the World* (orgs. Billerman, S.M., Keeney, B.K., Rodewald, P.G. & Schulenberg, T.S.). Cornell Lab of Ornithology.
 
-Secretaria do Meio Ambiente e Recursos Naturais do estado do Maranhão - SEMA-MA, Instituto de Desenvolvimento Florestal e da Biodiversidade do estado do Pará - IDEFLOR-Bio & Instituto Natureza do Tocantins - NATURATINS. (2022). *Plano de Ação Territorial de Conservação de Espécies Ameaçadas de Extinção do Território Meio Norte (PAT Meio Norte) - Sumário Executivo*.
+SEMA-MA, IDEFLOR-Bio & NATURATINS. (2022). *Plano de Ação Territorial de Conservação de Espécies Ameaçadas de Extinção do Território Meio Norte (PAT Meio Norte) - Sumário Executivo*.
+
+Soares, E.S., Amaral, F.S.R. do, Carvalho Filho, E.P.M. de, Granzinolli, M.A., Albuquerque, J.L.B., Lisboa, J.S., *et al.* (2008). Plano de Ação Nacional para a Conservação de Aves de Rapina. Em:, Série Espécies Ameaçadas Nº5. ICMBio, Brasília, p. 136.

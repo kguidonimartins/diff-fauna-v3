@@ -2,6 +2,10 @@
 
 **Autores(as)**: Monira Bruno Bicalho, Bruno R. Ribeiro, Karlo Guidoni e Flávia Chaves
 
+![Fonte: Hector Bottai - Wikimedia Commons. Imagem da espécie S.  turdina](media/rId20.jpg){width="6.486111111111111in" height="4.874388670166229in"}
+
+Fonte: *Hector Bottai - Wikimedia Commons. Imagem da espécie S. turdina*
+
 **Nomes populares**: flautim-marrom
 
 **Filo**: Chordata
@@ -35,13 +39,11 @@ A espécie está presente nas seguintes unidades de conservação: FLONA de Goyt
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
--   Minas Gerais: VU (Conselho Estadual de Política Ambiental - COPAM
-    2010)
--   Espírito Santo: EN (Espírito Santo 2022)
+-   Minas Gerais: VU (COPAM 2010) -   Espírito Santo: EN (Espírito Santo 2022)
 
-**PATs/PANs**: Listada nos PANs Aves da Mata Atlântica (ICMBio 2017) e Aves de Rapina (ICMBio 2008).
+**PATs/PANs**: Listada nos PANs Aves da Mata Atlântica (ICMBio 2017) e Aves de Rapina (Soares *et al.* 2008).
 
 **CITES**: Não consta
 
@@ -55,16 +57,16 @@ Pesquisas relacionadas a tamanho e tendência populacional são necessárias par
 
 ## REFERÊNCIAS
 
-Cäsar, C., Oliveira, L. de C.O. & Câmara, T. (2019). *Plano de Ação para Conservação da Biodiversidade Terrestre do Rio Doce*. Fundação Renova/Bicho do Mato Instituto de Pesquisa.
+Cäsar, C., Oliveira, L.C. & Câmara, T. (2019). Plano de Ação para Conservação da Biodiversidade Terrestre do Rio Doce. Instituto de Pesquisa Bicho do Mato/ Fundação RENOVA, p. 1--282.
 
-Conselho Estadual de Política Ambiental - COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
+COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
 
 Espírito Santo. (2022). [Decreto Nº 5237-R, de 25 de novembro de 2022.  Declara as espécies de fauna ameaçadas de extinção no Estado do Espírito Santo e dá outras providências](https://iema.es.gov.br/Media/iema/FAUNA/Decreto%205237-R_2022_25-Nov%20-%20Fauna%20(s-peixes)%20-%20Lista%20de%20Esp%C3%A9cies%20Amea%C3%A7adas%20de%20Extin%C3%A7%C3%A3o.pdf).
 
-Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda.
-
-ICMBio. (2008). *Plano de ação nacional para a conservação de aves de rapina*. Série Espé. Brasília.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
 ICMBio. (2017). [Sumário Executivo do Plano de Ação Nacional para a Conservação das Aves da Mata Atlântica, 1 ciclo](https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/pan/pan-aves-da-mata-atlantica).
 
-WikiAves. (2023). [flautim-marrom (Schiffornis turdina)](https://www.wikiaves.com.br/wiki/flautim-marrom).
+Soares, E.S., Amaral, F.S.R. do, Carvalho Filho, E.P.M. de, Granzinolli, M.A., Albuquerque, J.L.B., Lisboa, J.S., *et al.* (2008). Plano de Ação Nacional para a Conservação de Aves de Rapina. Em:, Série Espécies Ameaçadas Nº5. ICMBio, Brasília, p. 136.
+
+WikiAves. (2023). *WikiAves, a Enciclopédia das Aves do Brasil*.  Disponível em: [https://www.wikiaves.com.br/index.php.](https://www.wikiaves.com.br/index.php) Acesso em 11 de abril de 2023.

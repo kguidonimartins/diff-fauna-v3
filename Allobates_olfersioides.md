@@ -1,10 +1,6 @@
 # *Allobates olfersioides* (Lutz, 1925)
 
-**Autores(as)**: Tatianne P. F. Abreu-Jardim, Bruno R. Ribeiro, Karlo Guidoni, Andre Yves e Henrique C. Costa
-
-![Fonte: NA](media/rId20.jpg){width="6.486111111111111in" height="4.307938538932634in"}
-
-Fonte: *NA*
+**Autores(as)**: Tatianne P. F. Abreu-Jardim, Bruno R. Ribeiro, Karlo Guidoni, André Yves e Henrique C. Costa
 
 **Nomes populares**: sapinho-foguete-da-mata-atlântica
 
@@ -29,7 +25,7 @@ populações de fora para a bacia do Rio Doce, portanto, a categoria aplicada é
 
 ## INFORMAÇÕES GERAIS
 
-Espécie de anfíbio terrestre e diurna, ocorrendo em florestas úmidas primárias e secundárias, folhiço e serrapilheira de ambientes florestais, próxima a corpos d´água e floresta seca de restinga (Costa & Dias 2019). Nas áreas de restinga ocorre em bromélias (Tinôco *et al.* 2008). *A. olfersioides* se reproduz em riachos bem preservados e poças temporárias. A desova é feita no solo de ambientes úmidos e os girinos são carregados pelos pais para ambiente aquático (Costa & Dias 2019).  Não há informações sobre tamanho populacional para a espécie, mas suspeita-se que sua distribuição seja severamente fragmentada e, provavelmente, esteja em declínio populacional. A espécie era considerada abundante em várias localidades no estado do Espírito Santo, e atualmente poucos indivíduos foram encontrados (Weygoldt 1989; Izecksohn & Silva 2001; Ferreira *et al.* 2019).
+Espécie de anfíbio terrestre e diurna, ocorrendo em florestas úmidas primárias e secundárias, folhiço e serrapilheira de ambientes florestais, próxima a corpos d´água e floresta seca de restinga (Costa & Dias 2019). Nas áreas de restinga ocorre em bromélias (Tinôco *et al.* 2008). *A. olfersioides* se reproduz em riachos bem preservados e poças temporárias. A desova é feita no solo de ambientes úmidos e os girinos são carregados pelos pais para ambiente aquático (Costa & Dias 2019).  Não há informações sobre tamanho populacional para a espécie, mas suspeita-se que sua distribuição seja severamente fragmentada e, provavelmente, esteja em declínio populacional. A espécie era considerada abundante em várias localidades no estado do Espírito Santo, e atualmente poucos indivíduos foram encontrados (Weygoldt 1989; Izecksohn & Carvalho-e-Silva 2001; Ferreira *et al.* 2019).
 
 ## DISTRIBUIÇÃO GEOGRÁFICA
 
@@ -41,11 +37,11 @@ A espécie está presente nas seguintes unidades de conservação: REBIO de Soor
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Global: VU (IUCN 2023) -   Nacional: DD (Brasil 2022) -   Espírito Santo: EN (Espírito Santo 2022)
 
-**PATs/PANs**: PAN Herpetofauna do Sudeste (Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio) 2015).
+**PATs/PANs**: PAN Herpetofauna do Sudeste (Brasil 2015).
 
 **CITES**: Não consta
 
@@ -60,33 +56,33 @@ Pesquisas relacionadas ao monitoramento da tendência populacional da espécie s
 
 ## REFERÊNCIAS
 
-Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
+Brasil. (2015). [Portaria ICMBio Nº 48, de 6 de outubro de 2015. Aprova o Plano de Ação Nacional para Conservação da Herpetofauna Ameaçada da Mata Atlântica da Região Sudeste do Brasil](https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/pan/pan-herpetofauna-do-sudeste).  Em: *Diário Oficial da União, Edição 192, Seção 1*. ICMBio, Brasília, p.  49.
+
+Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) Em: *Diário Oficial da União, Edição 108, Seção 1*. p. 74--103.
 
 Campos, F.S., Brito, D. & Solé, M. (2013). [Threatened Amphibians and Their Conservation Status within the Protected Area Network in Northeastern Brazil](https://doi.org/10.1670/11-158). *Journal of Herpetology*, 47, 277--285.
 
-Carnaval, A.C.O. de Q., Puschendorf, R., Peixoto, O.L., Verdade, V.K. & Rodrigues, M.T. (2006). [Amphibian Chytrid Fungus Broadly Distributed in the Brazilian Atlantic Rain Forest](https://doi.org/10.1007/s10393-005-0008-2). *EcoHealth*, 3, 41--48.
+Carnaval, A.C.O.Q., Puschendorf, R., Peixoto, O.L., Verdade, V.K. & Rodrigues, M.T. (2006). [Amphibian Chytrid Fungus Broadly Distributed in the Brazilian Atlantic Rain Forest](https://doi.org/10.1007/s10393-005-0008-2). *EcoHealth*, 3, 41--48.
 
-Costa, S.M. da & Dias, E.J. dos R. (2019). [Comportamento territorial, vocalização e biologia reprodutiva de Allobates olfersioides (Anura: Aromobatidae)](https://doi.org/10.1590/1678-4766e2019031). *Iheringia.  Série Zoologia*, 109, e2019031.
+Costa, S.M. & Dias, E.J.R. (2019). [Comportamento territorial, vocalização e biologia reprodutiva de Allobates olfersioides (Anura: Aromobatidae)](https://doi.org/10.1590/1678-4766e2019031). *Iheringia.  Série Zoologia*, 109, e2019031.
 
 Espírito Santo. (2022). [Decreto Nº 5237-R, de 25 de novembro de 2022.  Declara as espécies de fauna ameaçadas de extinção no Estado do Espírito Santo e dá outras providências](https://iema.es.gov.br/Media/iema/FAUNA/Decreto%205237-R_2022_25-Nov%20-%20Fauna%20(s-peixes)%20-%20Lista%20de%20Esp%C3%A9cies%20Amea%C3%A7adas%20de%20Extin%C3%A7%C3%A3o.pdf).
 
-Ferreira, R.B., Mônico, A.T., Da Silva, E.T., Lirio, F.C.F., Zocca, C., Mageski, M.M., *et al.* (2019). [Amphibians of Santa Teresa, Brazil: the hotspot further evaluated](https://doi.org/10.3897/zookeys.857.30302).  *ZooKeys*, 857, 139--162.
+Ferreira, R.B., Mônico, A.T., Silva, E.T., Lirio, F.C.F., Zocca, C., Mageski, M.M., *et al.* (2019). [Amphibians of Santa Teresa, Brazil: the hotspot further evaluated](https://doi.org/10.3897/zookeys.857.30302).  *ZooKeys*, 857, 139--162.
 
-Golder Associates. (2016). Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
-Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio).  (2015). [*Portaria No 48, de 6 de outubro de 2015. Aprova o Plano de Ação Nacional para Conservação da Herpetofauna Ameaçada da Mata Atlântica da Região Sudeste do Brasil - PAN Herpetofauna do Sudeste*](https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/pan/pan-herpetofauna-do-sudeste).  ICMBio, Brasília.
+IUCN. (2023). *The IUCN Red List of Threatened Species. Version 2023-1.* Disponível em: <https://www.iucnredlist.org.> Acesso em 11 de abril de 2023.
 
-IUCN. (2023). [The IUCN Red List of Threatened Species. Version 2023-1.](https://www.iucnredlist.org.)
-
-Izecksohn, E. & Silva, S.P. de C.-. (2001). *Anfíbios do Município do Rio de Janeiro*. Editora UFRJ, Rio de Janeiro, RJ.
+Izecksohn, E. & Carvalho-e-Silva, S.P. (2001). *Anfíbios do Município do Rio de Janeiro*. Editora UFRJ, Rio de Janeiro, RJ.
 
 Martinelli, G. & Moraes, M.A. (2013). [*Livro Vermelho da Flora do Brasil*](https://dspace.jbrj.gov.br/jspui/handle/doc/26). 1 ed. Andrea Jakobsson: Instituto de Pesquisas Jardim Botânico do Rio de Janeiro, Rio de Janeiro.
 
-Moura, G.J.B., Santos, E.M., Andrade, E.V.E. & Freire, E.M.X. (2011).  Distribuição geográfica e caracterização ecológica dos anfíbios de Pernambuco. Em: *Moura, G.J.B.; Santos, E.M.; Oliveira, M.A. & Cabral, M.C.C. (Orgs.). Herpetologia no estado de Pernambuco*. IBAMA, p. 51--84.
+Moura, G.J.B., Santos, E.M., Andrade, E.V.E. & Freire, E.M.X. (2011).  Distribuição geográfica e caracterização ecológica dos anfíbios de Pernambuco. Em: *Herpetologia no estado de Pernambuco* (orgs. Moura, G.J.B., Santos, E.M., Oliveira, M.A. & Cabral, M.C.C.). IBAMA, p.  51--84.
 
-Napoli, M.F., Silva, L.M. & Abreu, R.O. de. (2017). Anfíbios. Em: *Nunes, J.M.C., Matos, M.R. (ed.), Litoral Norte da Bahia: Caracterização Ambiental, Biodiversidade e Conservação*. EDUFBA, Salvador, p. 357--392.
+Napoli, M.F., Silva, L.M. & Abreu, R.O. (2017). Anfíbios. Em: *Litoral Norte da Bahia: Caracterização Ambiental, Biodiversidade e Conservação* (orgs. Nunes, J.M.C. & Matos, M.R.). EDUFBA, Salvador, p. 357--392.
 
-Tinôco, M.S., Browne-Ribeiro, H.C., Cerqueira, R., Dias, M.A. & Restinga, I.A.N. (2008). Habitat change and amphibian conservation in the Atlantic Forest of Bahia, Brazil. *Froglog*, 89, 3.
+Tinôco, M.S., Browne-Ribeiro, H.C., Cerqueira, R., Dias, M.A. & Nascimento, I.A. (2008). Habitat change and amphibian conservation in the Atlantic Forest of Bahia, Brazil. *Froglog*, 89, 3.
 
 Verdade, V.K. & Rodrigues, M.T. (2007). [Taxonomic Review of Allobates (Anura, Aromobatidae) from the Atlantic Forest, Brazil](https://doi.org/10.1670/06-094.1). *Journal of Herpetology*, 41, 566--580.
 

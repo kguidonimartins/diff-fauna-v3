@@ -2,6 +2,10 @@
 
 **Autores(as)**: Monira Bruno Bicalho, Eline Martins, Karlo Guidoni e Natália L. Boroni
 
+![Fonte: Marco Aurélio de Sena - BioDiversity4All](media/rId20.jpg){width="4.166666666666667in" height="2.7777777777777777in"}
+
+Fonte: *Marco Aurélio de Sena - BioDiversity4All*
+
 **Nomes populares**: cuíca-de-três-listras, catita-de-listras
 
 **Filo**: Chordata
@@ -35,11 +39,9 @@ A espécie está presente nas seguintes unidades de conservação: RPPN Mata dos
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
--   Global: LC (IUCN 2023) -   Nacional: LC (Brasil 2022) -   Minas Gerais: LC (Conselho Estadual de Política Ambiental - COPAM
-    2010)
--   Espírito Santo: EN (Espírito Santo 2022)
+-   Global: LC (IUCN 2023) -   Nacional: LC (Brasil 2022) -   Minas Gerais: LC (COPAM 2010) -   Espírito Santo: EN (Espírito Santo 2022)
 
 **PATs/PANs**: Não disponível
 
@@ -55,18 +57,18 @@ Pesquisas sobre tamanho populacional, distribuição, tendências, ameaças, his
 
 ## REFERÊNCIAS
 
-Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
+Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) Em: *Diário Oficial da União, Edição 108, Seção 1*. p. 74--103.
 
-Brito, D. & Pavan, S. (2016). [IUCN Red List of Threatened Species: Monodelphis scalops](https://dx.doi.org/10.2305/IUCN.UK.2016-2.RLTS.T97249078A97249081.en).  *The IUCN Red List of Threatened Species 2016: e.T97249078A97249081.*
+Brito, D. & Pavan, S. (2016). *Monodelphis scalops*. *The IUCN Red List of Threatened Species 2016: e.T97249078A97249081.* Disponível em: [https://dx.doi.org/10.2305/IUCN.UK.2016-2.RLTS.T97249078A97249081.en.](https://dx.doi.org/10.2305/IUCN.UK.2016-2.RLTS.T97249078A97249081.en) Acesso em 11 de abril de 2023.
 
-Conselho Estadual de Política Ambiental - COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
+COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
 
 Espírito Santo. (2022). [Decreto Nº 5237-R, de 25 de novembro de 2022.  Declara as espécies de fauna ameaçadas de extinção no Estado do Espírito Santo e dá outras providências](https://iema.es.gov.br/Media/iema/FAUNA/Decreto%205237-R_2022_25-Nov%20-%20Fauna%20(s-peixes)%20-%20Lista%20de%20Esp%C3%A9cies%20Amea%C3%A7adas%20de%20Extin%C3%A7%C3%A3o.pdf).
 
-Geise, L., Oliveira, M.V.B. de, Percequillo, A.R., Delciellos, A.C., Oliveira, A.C.M. de, Bonvicino, C.R., *et al.* (2019). Monodelphis scalops (Thomas, 1888). *Sistema de Avaliação do Risco de Extinção da Biodiversidade -- SALVE*.
+Geise, L., Oliveira, M.V.B., Percequillo, A.R., Delciellos, A.C., Oliveira, A.C.M., Bonvicino, C.R., *et al.* (2019). *Monodelphis scalops (Thomas, 1888)*. *SALVE*. Disponível em: [https://doi.org/10.37002/salve.ficha.23238.2.](https://doi.org/10.37002/salve.ficha.23238.2) Acesso em 11 de abril de 2023.
 
-Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
-IUCN. (2023). [The IUCN Red List of Threatened Species. Version 2023-1.](https://www.iucnredlist.org.)
+IUCN. (2023). *The IUCN Red List of Threatened Species. Version 2023-1.* Disponível em: <https://www.iucnredlist.org.> Acesso em 11 de abril de 2023.
 
-Paglia, A.P., Fonseca, G.A.B. da, Rylands, A.B., Herrmann, G., Aguiar, L.M.S., Chiarello, A.G., *et al.* (2012). Lista Anotada dos Mamíferos do Brasil / Annotated Checklist of Brazilian Mammals. Em: *Occasional Papers in Conservation Biology*. Conservation International, Arlington, VA.
+Paglia, A.P., Fonseca, G.A.B., Rylands, A.B., Herrmann, G., Aguiar, L.M.S., Chiarello, A.G., *et al.* (2012). Lista Anotada dos Mamíferos do Brasil / Annotated Checklist of Brazilian Mammals. Occasional Papers in Conservation Biology, Nº6. Conservation International, Arlington, p.  1--76.

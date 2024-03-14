@@ -2,6 +2,10 @@
 
 **Autores(as)**: Renata de T. Capellão, Bruno R. Ribeiro, Karlo Guidoni, Rodrigo de Almeida Nobre e Eduardo Zanette
 
+![Fonte: Marlon Lima - imagem de A.  guariba](media/rId20.jpg){width="6.486111111111111in" height="4.864583333333333in"}
+
+Fonte: *Marlon Lima - imagem de A. guariba*
+
 **Nomes populares**: barbado, barbado-vermelho, bugio, bugio-marrom, bugio-marrom-do-norte, bugio-ruivo, guariba
 
 **Filo**: Chordata
@@ -35,12 +39,11 @@ A espécie está presente nas seguintes unidades de conservação: REBIO de Soor
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
--   Global: CR (IUCN 2023) -   Nacional: CR (Brasil 2022) -   Minas Gerais: CR (Conselho Estadual de Política Ambiental - COPAM
-    2010)
+-   Global: CR (IUCN 2023) -   Nacional: CR (Brasil 2022) -   Minas Gerais: CR (COPAM 2010)
 
-**PATs/PANs**: Espécie listada nos PANs Mamíferos da Mata Atlântica Central (Escarlate-Tavares *et al.* 2016) e Primatas da Mata Atlântica e Preguiça-da-coleira (ICMBio 2018a). É considerada espécie beneficiada nos PATs Capixaba-Gerais (Instituto Estadual de Florestas 2023) e Espinhaço Mineiro (Instituto Estadual de Florestas 2021).
+**PATs/PANs**: Espécie listada nos PANs Mamíferos da Mata Atlântica Central (Escarlate-Tavares *et al.* 2016) e Primatas da Mata Atlântica e Preguiça-da-coleira (ICMBio 2018). É considerada espécie beneficiada nos PATs Capixaba-Gerais (IEF 2023) e Espinhaço Mineiro (IEF 2021).
 
 **CITES**: Apêndices I e II
 
@@ -54,32 +57,32 @@ São necessários mais estudos relacionados à dinâmica populacional, genética
 
 ## REFERÊNCIAS
 
-Almeida, M.A.B. de, Santos, E. dos, Cardoso, J. da C., Fonseca, D.F. da, Noll, C.A., Silveira, V.R., *et al.* (2012). Yellow fever outbreak affecting Alouatta populations in southern Brazil (Rio Grande do Sul State), 2008--2009. *American Journal of Primatology*, 74, 68--76.
+Almeida, M.A.B., Santos, E., Cardoso, J.C., Fonseca, D.F., Noll, C.A., Silveira, V.R., *et al.* (2012). Yellow fever outbreak affecting Alouatta populations in southern Brazil (Rio Grande do Sul State), 2008--2009. *American Journal of Primatology*, 74, 68--76.
 
-Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
+Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) Em: *Diário Oficial da União, Edição 108, Seção 1*. p. 74--103.
 
-Chaves, Ó.M., Souza Júnior, J.C., Buss, G., Hirano, Z.M.B., Jardim, M.M.A., Amaral, E.L.S., *et al.* (2022). Wildlife is imperiled in peri-urban landscapes: threats to arboreal mammals. *Science of The Total Environment*, 821, 152883.
+Chaves, Ó.M., Souza Júnior, J.C., Buss, G., Hirano, Z.M.B., Jardim, M.M.A., Amaral, E.L.S., *et al.* (2022). [Wildlife is imperiled in peri-urban landscapes: threats to arboreal mammals](https://doi.org/10.1016/j.scitotenv.2021.152883). *Science of The Total Environment*, 821, 152883.
 
-Conselho Estadual de Política Ambiental - COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
+COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
 
-Escarlate-Tavares, F., Valença-Montenegro, M.M. & Jerusalinsky, L.  (2016). *Plano de Ação Nacional para Conservação dos Mamíferos da Mata Atlântica Central*. Série Espécies Ameaçada. Instituto Chico Mendes de Conservação da Biodiversidade, ICMBio, Brasília.
+Escarlate-Tavares, F., Valença-Montenegro, M.M. & Jerusalinsky, L.  (Orgs.). (2016). *Plano de Ação Nacional para Conservação dos Mamíferos da Mata Atlântica Central*. Série Espécies Ameaçadas Nº 23. ICMBio, Brasília.
 
-Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
 Holzmann, I., Agostini, I., Areta, J.I., Ferreyra, H., Beldomenico, P. & Di Bitetti, M.S. (2010). Impact of yellow fever outbreaks on two howler monkey species (Alouatta guariba clamitans and A. caraya) in Misiones, Argentina. *American Journal of Primatology: Official Journal of the American Society of Primatologists*, 72, 475--480.
 
-ICMBio. (2018a). Sumário Executivo Plano de Ação Nacional para a Conservação dos Primatas da Mata Atlântica e da Preguiça-da-coleira - 1 Ciclo.
+ICMBio. (2018). Plano de Ação Nacional para a Conservação dos Primatas da Mata Atlântica e da Preguiça-da-coleira - 1 Ciclo. {Sumário Executivo}. ICMBio; MMA.
 
-Instituto Estadual de Florestas. (2021). *Plano de Ação Territorial para Conservação de Espécies Ameaçadas de Extinção do Território Espinhaço Mineiro: sumário executivo*. IEF, Belo Horizonte.
+IEF. (2021). Plano de Ação Territorial para Conservação de Espécies Ameaçadas de Extinção do Território Espinhaço Mineiro. Sumário Executivo. IEF, Belo Horizonte, p. 27.
 
-Instituto Estadual de Florestas. (2023). [Plano de Ação Territorial Capixaba-Gerais](http://www.ief.mg.gov.br/biodiversidade/-planodeacaoterritorialcapixabagerais).
+IEF. (2023). [*Plano de Ação Territorial Capixaba-Gerais*](http://www.ief.mg.gov.br/biodiversidade/-planodeacaoterritorialcapixabagerais).  IEMA; IEF; PróEspécies.
 
-IUCN. (2023). [The IUCN Red List of Threatened Species. Version 2023-1.](https://www.iucnredlist.org.)
+IUCN. (2023). *The IUCN Red List of Threatened Species. Version 2023-1.* Disponível em: <https://www.iucnredlist.org.> Acesso em 11 de abril de 2023.
 
 Neves, L.G., Jerusalinsky, L., Melo, F.R., Rylands, A.B. & Talebi, M.  (2017). Primates in Peril. The World's 25 Most Endangered Primates 2016--2018. Northern brown howler - Alouatta guariba guariba (Humboldt, 1812)). p. 96--99.
 
-Neves, L.G., Jerusalinsky, L., Talebi, M., Mittermeier, R.A., Cortés-Ortiz, L. & Melo, F.R. (2021). [Alouatta guariba ssp. guariba (amended version of 2020 assessment)](https://doi.org/10.2305/IUCN.UK.2021-1.RLTS.T39917A190420483.en).  *The IUCN Red List of Threatened Species 2021: e.T39917A190420483*.
+Neves, L.G., Jerusalinsky, L., Talebi, M., Mittermeier, R.A., Cortés-Ortiz, L. & Melo, F.R. (2021). *Alouatta guariba ssp. guariba (amended version of 2020 assessment)*. *The IUCN Red List of Threatened Species 2021: e.T39917A190420483*. Disponível em: [https://dx.doi.org/10.2305/IUCN.UK.2021-1.RLTS.T39917A190420483.en.]( https://dx.doi.org/10.2305/IUCN.UK.2021-1.RLTS.T39917A190420483.en) Acesso em 11 de abril de 2023.
 
-Possamai, C.B., Rodrigues Melo, F., Mendes, S.L. & Strier, K.B. (2022).  Demographic changes in an Atlantic Forest primate community following a yellow fever outbreak. *American Journal of Primatology*, 84, e23425.
+Possamai, C.B., Rodrigues de Melo, F., Mendes, S.L. & Strier, K.B.  (2022). [Demographic changes in an Atlantic Forest primate community following a yellow fever outbreak](https://doi.org/10.1002/ajp.23425).  *American Journal of Primatology*, 84.
 
-Povill, C., Oliveira, M.B., Abreu, F.V.S. de, Oliveira, R.L., Perini, F.A., Monticelli, C., *et al.* (2023). Genetic Diversity and Insights about Distribution of Brown Howler Monkeys (Alouatta guariba Group)(Atelidae, Alouattinae). *International Journal of Primatology*, 1--23.
+Povill, C., Oliveira, M.B., De Abreu, F.V.S., Oliveira, R.L., Perini, F.A., Monticelli, C., *et al.* (2023). Genetic Diversity and Insights about Distribution of Brown Howler Monkeys (Alouatta guariba Group)(Atelidae, Alouattinae). *International Journal of Primatology*, 1--23.

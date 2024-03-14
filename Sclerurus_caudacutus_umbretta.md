@@ -35,7 +35,7 @@ Não há registros da espécie em unidades de conservação.
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Nacional: CR (Brasil 2022) -   Espírito Santo: CR (Espírito Santo 2022)
 
@@ -53,14 +53,14 @@ Pesquisas relacionadas a tamanho e tendência populacional.
 
 ## REFERÊNCIAS
 
-BirdLife International. (2018). [Sclerurus caudacutus](https://dx.doi.org/10.2305/IUCN.UK.2018-2.RLTS.T22702972A130280143.en).  *The IUCN Red List of Threatened Species 2018: e.T22702972A130280143.*
+BirdLife International. (2018). *Sclerurus caudacutus*. *The IUCN Red List of Threatened Species 2018: e.T22702972A130280143.* Disponível em: [https://dx.doi.org/10.2305/IUCN.UK.2018-2.RLTS.T22702972A130280143.en.](https://dx.doi.org/10.2305/IUCN.UK.2018-2.RLTS.T22702972A130280143.en) Acesso em 11 de abril de 2023.
 
-BirdLife International. (2023). [Species factsheet: Black-tailed Leaftosser](http://datazone.birdlife.org/species/factsheet/black-tailed-leaftosser-sclerurus-caudacutus).
+BirdLife International. (2023). *Species factsheet: Sclerurus caudacutus*. *BirdLife International*. Disponível em: [http://datazone.birdlife.org/species/factsheet/black-tailed-leaftosser-sclerurus-caudacutus.](http://datazone.birdlife.org/species/factsheet/black-tailed-leaftosser-sclerurus-caudacutus) Acesso em 11 de abril de 2023.
 
-Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
+Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) Em: *Diário Oficial da União, Edição 108, Seção 1*. p. 74--103.
 
 Espírito Santo. (2022). [Decreto Nº 5237-R, de 25 de novembro de 2022.  Declara as espécies de fauna ameaçadas de extinção no Estado do Espírito Santo e dá outras providências](https://iema.es.gov.br/Media/iema/FAUNA/Decreto%205237-R_2022_25-Nov%20-%20Fauna%20(s-peixes)%20-%20Lista%20de%20Esp%C3%A9cies%20Amea%C3%A7adas%20de%20Extin%C3%A7%C3%A3o.pdf).
 
-Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
 ICMBio. (2017). [Sumário Executivo do Plano de Ação Nacional para a Conservação das Aves da Mata Atlântica, 1 ciclo](https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/pan/pan-aves-da-mata-atlantica).

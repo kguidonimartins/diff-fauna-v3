@@ -39,11 +39,11 @@ A espécie está presente nas seguintes unidades de conservação: PE do Rio Doc
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
--   Global: VU (IUCN 2023) -   Nacional: VU (Brasil 2022) -   Espírito Santo: EN (Espírito Santo 2022)
+-   Global: VU (IUCN 2023) -   Nacional: VU (Brasil 2022b) -   Espírito Santo: EN (Espírito Santo 2022)
 
-**PATs/PANs**: Espécie listada nos PANs Lagoas do Sul (ICMBio 2018) e Pequenos Felinos (CENAP 2022).
+**PATs/PANs**: Espécie listada nos PANs Lagoas do Sul (Brasil 2018) e Pequenos Felinos (Brasil 2022a).
 
 **CITES**: Apêndice I
 
@@ -60,26 +60,26 @@ Pesquisas relacionadas ao tamanho populacional, distribuição, tendências, ame
 
 ## REFERÊNCIAS
 
-Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
+Brasil. (2018). [Portaria ICMBio Nº 751, de 27 de agosto de 2018. Aprova o Plano de Ação Nacional para a Conservação dos Sistemas Lacustres e Lagunares do Sul do Brasil -- PAN Lagoas do Sul, contemplando 29 táxons da fauna ameaçados de extinção e 133 táxons da flora ameaçados de extinção, estabelecendo seu objetivo geral, objetivos específicos, espécies contempladas, prazo de execução, abrangência e formas de implementação, supervisão e revisão (Processo n° 02032.010059/2016-30)](https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/pan/pan-lagoas-do-sul/1-ciclo/pan-lagoas-do-sul-portaria-aprovacao.pdf).  Em: *Diário Oficial da União, Edição 167, Seção 1*. ICMBio; MMA, p. 54.
 
-CENAP. (2022). [Plano de Ação Nacional para Conservação dos Pequenos Felinos -- PAN Pequenos Felinos (2º ciclo)](https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/pan/pan-pequenos-felinos/2-ciclo/pan-pequenos-felinos-portaria-aprovacao.pdf).  *PORTARIA ICMBIO Nº 493, DE 21 DE JUNHO DE 2022*.
+Brasil. (2022a). [Portaria ICMBio Nº 493, de 21 de junho de 2022. Aprova o 2º ciclo do Plano de Ação Nacional para a Conservação dos Pequenos Felinos - PAN Pequenos Felinos, contemplando seis táxons nacionalmente ameaçados de extinção, estabelecendo seu objetivo geral, objetivos específicos, prazo de execução, formas de implementação, supervisão e revisão. Processo SEI nº 02068.000061/2019-36](https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/pan/pan-pequenos-felinos/2-ciclo/pan-pequenos-felinos-portaria-aprovacao.pdf).  Em: *Diário Oficial da União, Edição 116, Seção 1*. ICMBio; MMA, p.  1--72.
 
-Cruz, P., De Angelo, C., Martínez Pardo, J., Iezzi, M.E., Varela, D., Di Bitetti, M.S., *et al.* (2019). [Cats under cover: Habitat models indicate a high dependency on woodlands by Atlantic Forest felids](https://doi.org/10.1111/btp.12635). *Biotropica*, 51, 266--278.
+Brasil. (2022b). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) Em: *Diário Oficial da União, Edição 108, Seção 1*. p. 74--103.
+
+Cruz, P., De Angelo, C., Martínez, J.P., Iezzi, M.E., Varela, D., Di Bitetti, M.S., *et al.* (2019). [Cats under cover: Habitat models indicate a high dependency on woodlands by Atlantic Forest felids](https://doi.org/10.1111/btp.12635). *Biotropica*, 51, 266--278.
 
 Espírito Santo. (2022). [Decreto Nº 5237-R, de 25 de novembro de 2022.  Declara as espécies de fauna ameaçadas de extinção no Estado do Espírito Santo e dá outras providências](https://iema.es.gov.br/Media/iema/FAUNA/Decreto%205237-R_2022_25-Nov%20-%20Fauna%20(s-peixes)%20-%20Lista%20de%20Esp%C3%A9cies%20Amea%C3%A7adas%20de%20Extin%C3%A7%C3%A3o.pdf).
 
-Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
-ICMBio. (2018). *Plano de Ação Nacional para a Conservação dos Sistemas Lacustres e Lagunares do Sul do Brasil*. Instituto Chico Mendes de Conservação da Biodiversidade.
+IUCN. (2023). *The IUCN Red List of Threatened Species. Version 2023-1.* Disponível em: <https://www.iucnredlist.org.> Acesso em 11 de abril de 2023.
 
-IUCN. (2023). [The IUCN Red List of Threatened Species. Version 2023-1.](https://www.iucnredlist.org.)
+Oliveira, T.G. (1994). *Neotropical cats: Ecology and Conservation*.  EDUFMA, São Luís.
 
-Oliveira, T.G. (1994). Neotropical cats: ecolgy and conservation.
+Oliveira, T.G., Fox-Rosales, L.A., Ramírez-Fernández, J.D., Cepeda-Duque, J.C., Zug, R., Sanchez-Lalinde, C., *et al.* (2024).  Ecological modeling, biogeography, and phenotypic analyses setting the tiger cats' hyperdimensional niches reveal a new species. *Scientific Reports*, 14, 2395.
 
-Oliveira, T.G. de, Fox-Rosales, L.A., Ramírez-Fernández, J.D., Cepeda-Duque, J.C., Zug, R., Sanchez-Lalinde, C., *et al.* (2024).  Ecological modeling, biogeography, and phenotypic analyses setting the tiger cats' hyperdimensional niches reveal a new species. *Scientific Reports*, 14, 2395.
+Oliveira, T., Trigo, T., Tortato, M., Paviolo, A., Bianchi, R. & Leite-Pitman, M.R.P. (2016). *Leopardus guttulus*. *The IUCN Red List of Threatened Species 2016: e.T54010476A54010576*. Disponível em: [https://dx.doi.org/10.2305/IUCN.UK.2016-2.RLTS.T54010476A54010576.en.](https://dx.doi.org/10.2305/IUCN.UK.2016-2.RLTS.T54010476A54010576.en) Acesso em 11 de abril de 2023.
 
-Oliveira, T., Trigo, T., Tortato, M., Paviolo, A., Bianchi, R. & Leite-Pitman, M.R.P. (2016). Leopardus guttulus. *The IUCN Red List of Threatened Species*.
-
-Trigo, T.C., Oliveira, T.G., Tortato, M.A., Almeida, L.B., Campos, C.B.  & Beisiegel, B.M. (2018). *Leopardus guttulus (Hensel, 1872).* ICMBio & MMA.
+Trigo, T.C., Oliveira, T.G., Tortato, M.A., Almeida, L.B., Campos, C.B.  & Beisiegel, B.M. (2018). Leopardus guttulus (Hensel, 1872). Em: *Livro Vermelho da Fauna Brasileira Ameaçada de Extinção: Volume II - Mamíferos* (org. Instituto Chico Mendes de Conservação da Biodiversidade). ICMBio, Brasília, p. 340--344.
 
 Trigo, T.C., Schneider, A., Oliveira, T.G., Lehugeur, L.M., Silveira, L., Freitas, T.R.O., *et al.* (2013). Molecular Data Reveal Complex Hybridization and a Cryptic Species of Neotropical Wild Cat, 23, 2528--2533.

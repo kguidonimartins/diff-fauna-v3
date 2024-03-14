@@ -2,6 +2,10 @@
 
 **Autores(as)**: Monira Bruno Bicalho, Bruno R. Ribeiro, Karlo Guidoni e Flávia Chaves
 
+![Fonte: Félix Uribe - Wikimedia Commons](media/rId20.jpg){width="6.486111111111111in" height="8.09580271216098in"}
+
+Fonte: *Félix Uribe - Wikimedia Commons*
+
 **Nomes populares**: bico-chato-grande, bico-chato-oliváceo
 
 **Filo**: Chordata
@@ -39,10 +43,9 @@ Não há registros da espécie em unidades de conservação.
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
--   Minas Gerais: EN (Conselho Estadual de Política Ambiental - COPAM
-    2010)
+-   Minas Gerais: EN (COPAM 2010)
 
 **PATs/PANs**: Não disponível
 
@@ -58,12 +61,12 @@ Pesquisas sobre tamanho e tendência populacional, bem como o monitoramento das 
 
 ## REFERÊNCIAS
 
-BirdLife International. (2017). [Rhynchocyclus olivaceus (amended version of 2016 assessment)](https://dx.doi.org/10.2305/IUCN.UK.2017-1.RLTS.T103680403A112296505.en.).  *The IUCN Red List of Threatened Species 2017: e.T103680403A112296505*.
+BirdLife International. (2017). *Rhynchocyclus olivaceus (amended version of 2016 assessment)*. *The IUCN Red List of Threatened Species 2017: e.T103680403A112296505*. Disponível em: <https://dx.doi.org/10.2305/IUCN.UK.2017-1.RLTS.T103680403A112296505.en.> Acesso em 11 de abril de 2023.
 
-Cäsar, C., Oliveira, L. de C.O. & Câmara, T. (2019). *Plano de Ação para Conservação da Biodiversidade Terrestre do Rio Doce*. Fundação Renova/Bicho do Mato Instituto de Pesquisa.
+Cäsar, C., Oliveira, L.C. & Câmara, T. (2019). Plano de Ação para Conservação da Biodiversidade Terrestre do Rio Doce. Instituto de Pesquisa Bicho do Mato/ Fundação RENOVA, p. 1--282.
 
-Conselho Estadual de Política Ambiental - COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
+COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
 
-Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
 Simões, C.C., Cerqueira, P.V., Peloso, P. & Aleixo, A. (2022).  [Integrative taxonomy of Flatbill Flycatchers (Tyrannidae) reveals a new species from the Amazonian lowlands](https://doi.org/10.1111/zsc.12519).  *Zoologica Scripta*, 51, 41--57.

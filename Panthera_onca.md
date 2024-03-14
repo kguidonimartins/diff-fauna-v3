@@ -27,8 +27,8 @@ mortalidade direta de indivíduos por inundação e deposição de rejeitos.  Ad
 
 ## INFORMAÇÕES GERAIS
 
-*Panthera onca* é o maior felino das Américas, pesando entre 60 kg e 158 kg \[Cheida_2006_taj_rev; Paglia *et al.* (2012)\]. A espécie ocorre em diferentes tipos de habitat, incluindo florestas tropicais a regiões semi-desérticas, mas tem preferência por áreas com densa cobertura florestal preservada, próximas a corpos d'água e com suficiente base de presas (Quigley *et al.* 2017; Morato *et al.* 2018). Tende a evitar ambientes alterados, embora possa utilizar áreas rurais próximas a áreas naturais onde é comum haver predação de animais domésticos (Morato *et al.* 2018). É considerada catemeral, podendo estar ativa tanto durante o dia quanto à noite, embora concentre suas atividades em período noturno em algumas localidades (Morato *et al.* 2023). Até recentemente, era considerada solitária e territorialista, porém, alguns estudos sugerem um certo grau de sociabilidade, com compartilhamento de território e presas, podendo haver coalizão/cooperação entre
-machos (Morato *et al.* 2023). A gestação da espécie dura cerca de 3 meses, nascendo de 1 a 4 filhotes, embora dois filhotes seja o mais comum. Mais de 85 espécies de presas já foram registradas em sua dieta, variando de pequenos a grandes vertebrados, com preferência por mamíferos de médio e grande porte, embora grandes répteis possam ser especialmente importantes em algumas regiões (Sanderson *et al.* 2002; Quigley *et al.* 2017).
+*Panthera onca* é o maior felino das Américas, pesando entre 60 kg e 158 kg (Cheida *et al.* 2006; Paglia *et al.* 2012). A espécie ocorre em diferentes tipos de habitat, incluindo florestas tropicais a regiões semi-desérticas, mas tem preferência por áreas com densa cobertura florestal preservada, próximas a corpos d'água e com suficiente base de presas (Quigley *et al.* 2017; Morato *et al.* 2018). Tende a evitar ambientes alterados, embora possa utilizar áreas rurais próximas a áreas naturais onde é comum haver predação de animais domésticos (Morato *et al.* 2018). É considerada catemeral, podendo estar ativa tanto durante o dia quanto à noite, embora concentre suas atividades em período noturno em algumas localidades (Morato *et al.* 2023). Até recentemente, era considerada solitária e territorialista, porém, alguns estudos sugerem um certo grau de sociabilidade, com compartilhamento de território e presas, podendo haver coalizão/cooperação entre machos
+(Morato *et al.* 2023). A gestação da espécie dura cerca de 3 meses, nascendo de 1 a 4 filhotes, embora dois filhotes seja o mais comum. Mais de 85 espécies de presas já foram registradas em sua dieta, variando de pequenos a grandes vertebrados, com preferência por mamíferos de médio e grande porte, embora grandes répteis possam ser especialmente importantes em algumas regiões (Sanderson *et al.* 2002; Quigley *et al.* 2017).
 
 A espécie encontra-se em declínio populacional contínuo. Estima-se que houve redução de mais 30% na dis-tribuição da espécie, entre 2000 e 2020, devido à perda de extensão e qualidade do habitat (Morato *et al.* 2023). A densidade populacional da espécie varia de acordo com o bioma e com o método de estudo, havendo registros de 0,74 a 11,7 indivíduos/100 km² (Quigley *et al.* 2017). Na Mata Atlântica, a densidade populacional varia entre 2.2 indivíduos/100 km² (Quigley *et al.* 2017) e 3.2 indivíduos/100 km² (Srbek-Araujo & Chiarello 2017). A área de vida também varia entre biomas, sendo de 128 km² em média, embora possa chegar a mais de 200 km² (Gonzalez-Borrajo *et al.* 2016). Estima-se que existam menos de 300 indivíduos em toda Mata Atlântica e apenas três das sete subpopula-ções remanescentes no bioma devem ter mais de 50 indivíduos -- Corredor Verde, Alto Paraná-Paranapanema e Serra do Mar (Paviolo *et al.* 2016). O tempo de geração da espécie
 é de 7 anos (Morato *et al.* 2023).
@@ -46,13 +46,11 @@ A espécie está presente nas seguintes unidades de conservação: PE do Rio Doc
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
--   Global: NT (IUCN 2023) -   Nacional: VU (Brasil 2022) -   Minas Gerais: CR (Conselho Estadual de Política Ambiental - COPAM
-    2010)
--   Espírito Santo: CR (Espírito Santo 2022)
+-   Global: NT (IUCN 2023) -   Nacional: VU (Brasil 2022) -   Minas Gerais: CR (COPAM 2010) -   Espírito Santo: CR (Espírito Santo 2022)
 
-**PATs/PANs**: Listada nos PANs Grandes Felinos (ICMBio 2018c), Baixo e Médio Xingu (CEPAM 2012) e Onça-pintada (Paula *et al.* 2013). É considerada espécie beneficiada nos PATs Capixaba-Gerais (Instituto Estadual de Florestas 2023), Cerrado Tocantins (Instituto Natureza do Tocantins - NATURATINS 2020) e Chapada Diamantina-Serra da Jiboia (Instituto do Meio Ambiente e Recursos Hídricos - INEMA & Secretaria do Meio Ambiente - SEMA 2021).
+**PATs/PANs**: Listada nos PANs Grandes Felinos (ICMBio 2018), Baixo e Médio Xingu (ICMBio 2012) e Onça-pintada (Paula *et al.* 2013). É considerada espécie beneficiada nos PATs Capixaba-Gerais (IEF 2023), Cerrado Tocantins (NATURATINS 2020) e Chapada Diamantina-Serra da Jiboia (INEMA & SEMA 2021).
 
 **CITES**: Apêndice I
 
@@ -67,39 +65,41 @@ Monitoramento do tamanho e tendência das subpopulacções presentes na bacia do
 
 ## REFERÊNCIAS
 
-Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
+Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) Em: *Diário Oficial da União, Edição 108, Seção 1*. p. 74--103.
 
-CEPAM. (2012). *Plano de Ação Nacional para Conservação das Espécies Endêmicas Ameaçadas de Extinção da Fauna da Região do Baixo e Médio Xingu*. ICMBio, Brasília.
+Cheida, C.C., Nakano-Oliveira, E., Fusco-Costa, R., Rocha-Mendes, F. & Quadros, J. (2006). Ordem Carnivora. Em: *Mamíferos do Brasil.* (orgs.  Reis, N.R., Peracchi, A.L., Pedro, W.A. & Lima, I.P.).
 
-Conselho Estadual de Política Ambiental - COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
+COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
 
 Espírito Santo. (2022). [Decreto Nº 5237-R, de 25 de novembro de 2022.  Declara as espécies de fauna ameaçadas de extinção no Estado do Espírito Santo e dá outras providências](https://iema.es.gov.br/Media/iema/FAUNA/Decreto%205237-R_2022_25-Nov%20-%20Fauna%20(s-peixes)%20-%20Lista%20de%20Esp%C3%A9cies%20Amea%C3%A7adas%20de%20Extin%C3%A7%C3%A3o.pdf).
 
-Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
-Gonzalez-Borrajo, N., López-Bao, J.V. & Palomares, F. (2016). Spatial ecology of jaguars, pumas, and ocelots: A review of the state of knowledge. *Mammal Review*, 47, 62--75.
+Gonzalez-Borrajo, N., López-Bao, J.V. & Palomares, F. (2016). [Spatial ecology of jaguars, pumas, and ocelots: a review of the state of knowledge](https://doi.org/10.1111/mam.12081). *Mammal review*, 47, 62--75.
 
-ICMBio. (2018c). Plano de Ação Nacional para a Conservação dos Grandes Felinos - 1 Ciclo.
+ICMBio. (2012). Plano de Ação Nacional para Conservação das Espécies Endêmicas Ameaçadas de Extinção da Fauna da Região do Baixo e Médio Xingu. Sumário Executivo. ICMBio; MMA, Brasília, p. 1--8.
 
-Instituto do Meio Ambiente e Recursos Hídricos - INEMA & Secretaria do Meio Ambiente - SEMA. (2021). *Plano de Ação Territorial de Conservação de Espécies Ameaçadas de Extinção do Território Chapada Diamantina-Serra da Jiboia (PAT Chapada Diamantina-Serra da Jiboia) - Sumário Executivo*.  Salvador/BA.
+ICMBio. (2018). Plano de Ação Nacional para a Conservação dos Grandes Felinos - 1 Ciclo. {Sumário Executivo}. ICMBio; MMA.
 
-Instituto Estadual de Florestas. (2023). [Plano de Ação Territorial Capixaba-Gerais](http://www.ief.mg.gov.br/biodiversidade/-planodeacaoterritorialcapixabagerais).
+IEF. (2023). [*Plano de Ação Territorial Capixaba-Gerais*](http://www.ief.mg.gov.br/biodiversidade/-planodeacaoterritorialcapixabagerais).  IEMA; IEF; PróEspécies.
 
-Instituto Natureza do Tocantins - NATURATINS. (2020). *Plano de Ação Territorial para Conservação de Espécies Ameaçadas de Extinção do Território Cerrado Tocantins (PAT Cerrado Tocantins)- Sumário Executivo*. Palmas/TO.
+INEMA & SEMA. (2021). *Plano de Ação Territorial de Conservação de Espécies Ameaçadas de Extinção do Território Chapada Diamantina-Serra da Jiboia (PAT Chapada Diamantina-Serra da Jiboia) - Sumário Executivo*.  Salvador.
 
-IUCN. (2023). [The IUCN Red List of Threatened Species. Version 2023-1.](https://www.iucnredlist.org.)
+IUCN. (2023). *The IUCN Red List of Threatened Species. Version 2023-1.* Disponível em: <https://www.iucnredlist.org.> Acesso em 11 de abril de 2023.
 
-Morato, R.G., Beisiegel, B.M., Ramalho, E.E., Campos, C.B. & Boulhosa, R.L.P. (2018). *Panthera onca (Linnaeus, 1758).* ICMBio & MMA.
+Morato, R.G., Beisiegel, B.M., Ramalho, E.E., Campos, C.B. & Boulhosa, R.L.P. (2018). Panthera onca (Linnaeus, 1758). Em: *Livro Vermelho da Fauna Brasileira Ameaçada de Extinção: Volume II - Mamíferos.* (org.  Instituto Chico Mendes de Conservação da Biodiversidade). ICMBio, Brasília, p. 353--357.
 
-Morato, R.G., Saranholi, B.H., Campos, C.B., Dias, D.M., Eizirik, E., Fragoso, C.E., *et al.* (2023). [Panthera onca](https://doi.org/10.37002/salve.ficha.14015.2). *Sistema de Avaliação do Risco de Extinção da Biodiversidade - SALVE*.
+Morato, R.G., Saranholi, B.H., Campos, C.B., Dias, D.M., Eizirik, E., Fragoso, C.E., *et al.* (2023). *Panthera onca (Linnaeus, 1758)*.  *SALVE*. Disponível em: [https://doi.org/10.37002/salve.ficha.14015.2.](https://doi.org/10.37002/salve.ficha.14015.2) Acesso em 11 de abril de 2023.
 
-Paglia, A.P., Fonseca, G.A.B., Rylands, A.B., Herrmann, G., Aguiar, L.M.S., Chiarello, A.G., *et al.* (2012). *Lista Anotada dos Mamíferos do Brasil / Annotated Checklist of Brazilian Mammals.* 2 Edição.  Conservation International, Arlington, VA.
+NATURATINS. (2020). *Plano de Ação Territorial para Conservação de Espécies Ameaçadas de Extinção do Território Cerrado Tocantins (PAT Cerrado Tocantins)- Sumário Executivo*. Palmas/TO.
 
-Paula, R.C. de, Desbiez, A. & Cavalcanti, S. (2013). *Plano de Ação Nacional para Conservação da Onça-pintada*. Espécies Ameaçadas.  Instituto Chico Mendes de Conservação da Biodiversidade, ICMBio, Brasília.
+Paglia, A.P., Fonseca, G.A.B., Rylands, A.B., Herrmann, G., Aguiar, L.M.S., Chiarello, A.G., *et al.* (2012). Lista Anotada dos Mamíferos do Brasil / Annotated Checklist of Brazilian Mammals. Occasional Papers in Conservation Biology, Nº6. Conservation International, Arlington, p.  1--76.
+
+Paula, R.C., Desbiez, A. & Cavalcanti, S. (Orgs.). (2013). *Plano de Ação Nacional para Conservação da onça-pintada*. Série Espécies Ameaçadas Nº 19. ICMBio, Brasília.
 
 Paviolo, A., De Angelo, C., Ferraz, K.M.P.M.B., Morato, R.G., Martinez Pardo, J., Srbek-Araujo, A.C., *et al.* (2016). [A biodiversity hotspot losing its top predator: The challenge of jaguar conservation in the Atlantic Forest of South America](https://doi.org/10.1038/srep37147).  *Scientific Reports*, 6, 37147.
 
-Quigley, H., Foste.r, R., Petracca, L., Payan, E., Salom, R. & Harmsen, B. (2017). [Panthera onca (errata version published in 2018)](https://dx.doi.org/10.2305/IUCN.UK.2017-3.RLTS.T15953A50658693.en).  *The IUCN Red List of Threatened Species*.
+Quigley, H., Foste.r, R., Petracca, L., Payan, E., Salom, R. & Harmsen, B. (2017). *Panthera onca (errata version published in 2018)*. *The IUCN Red List of Threatened Species 2017: e.T15953A123791436*. Disponível em: [https://dx.doi.org/10.2305/IUCN.UK.2017-3.RLTS.T15953A50658693.en.](https://dx.doi.org/10.2305/IUCN.UK.2017-3.RLTS.T15953A50658693.en) Acesso em 11 de abril de 2023.
 
 Sanderson, E.W., Redford, K.H., Chetkiewicz, C.B., Medellin, R.A., Rabinowitz, A.R., Robinson, J.G., *et al.* (2002). [Planning to Save a Species: the Jaguar as a Model](https://doi.org/10.1046/j.1523-1739.2002.00352.x). *Conservation Biology*, 16, 58--72.
 

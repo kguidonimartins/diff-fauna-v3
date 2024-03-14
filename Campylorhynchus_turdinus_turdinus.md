@@ -2,6 +2,10 @@
 
 **Autores(as)**: Monira Bruno Bicalho, Eduardo Amorim, Karlo Guidoni e Flávia Chaves
 
+![Fonte: Marco Guedes - Wikiaves](media/rId20.png){width="6.486111111111111in" height="4.293713910761155in"}
+
+Fonte: *Marco Guedes - Wikiaves*
+
 **Nomes populares**: catatau
 
 **Filo**: Chordata
@@ -35,10 +39,9 @@ A espécie está presente nas seguintes unidades de conservação: REBIO de Soor
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
--   Minas Gerais: CR (Conselho Estadual de Política Ambiental - COPAM
-    2010)
+-   Minas Gerais: CR (COPAM 2010)
 
 **PATs/PANs**: Não disponível
 
@@ -54,12 +57,12 @@ Há lacunas significativas de conhecimento sobre a espécie em relação aos seu
 
 ## REFERÊNCIAS
 
-Conselho Estadual de Política Ambiental - COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
+COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
 
-Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
 Kroodsma, D.E., Brewer, D. & Kirwan, G.M. (2020). [Thrush-like Wren (Campylorhynchus turdinus)](https://doi.org/10.2173/bow.thlwre1.01). Em: *Birds of the World* (orgs. Billerman, S.M., Keeney, B.K., Rodewald, P.G. & Schulenberg, T.S.). Cornell Lab of Ornithology.
 
-Silva, F.I.G.P. (2021). [Avifauna em remanescentes de Mata Atlântica no Sul da Bahia: sensibilidade e conservação](https://repositorio.ufscar.br/handle/ufscar/14267).  Dissertação. Dissertação (Mestrado em Ecologia e Recursos Naturais) -- Universidade Federal de São Carlos, São Carlos.
+Silva, F.I.G.P. (2021). [*Avifauna em remanescentes de Mata Atlântica no Sul da Bahia: sensibilidade e conservação*](https://repositorio.ufscar.br/handle/ufscar/14267).  Dissertação. Dissertação (Mestrado em Ecologia e Recursos Naturais) -- Universidade Federal de São Carlos, São Carlos.
 
-WikiAves. (2023). [catatau (Campylorhynchus turdinus)](https://www.wikiaves.com.br/wiki/catatau).
+WikiAves. (2023). *WikiAves, a Enciclopédia das Aves do Brasil*.  Disponível em: [https://www.wikiaves.com.br/index.php.](https://www.wikiaves.com.br/index.php) Acesso em 11 de abril de 2023.

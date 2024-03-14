@@ -35,7 +35,7 @@ Alguns relatos sugerem que a espécie pode estar associada a áreas ribeirinhas 
 Ruiz-García *et al.* 2018), sendo *Herpailurus* um gênero monotípico (Kitchener *et al.* 2017).
 
 A área de vida da espécie pode variar significativamente ao longo da sua distribuição, mas a maioria dos estudos reporta uma área igual ou inferior a 25 km², sendo o território das fêmeas muito menor ou semelhante ao dos machos (Giordano 2015). Os machos podem concentrar os movimentos em uma parte da área de vida e depois de mudar para outra e, como acontece com outros felinos, a sobreposição intersexual no uso do habitat é frequente na espécie (Giordano 2015). Por ser uma espécie ativa durante o dia, é um dos felinos silvestres mais comumente visualizados, no entanto, não é considerado abundante em nenhuma porção de sua distribuição, sendo geralmente encontrado em baixas densidades populacionais (Almeida *et al.* 2013). Sua densidade varia de 0,01-0,05/km² ou menos, mas podem atingir até 0,2/km² em algumas áreas (Caso 2013; Caso *et al.* 2015). Sugere-se que sua abundância seja negativamente impactada pela presença de mesocarnívoros maiores, como a
-jaguatirica (Leopardus pardalis) (conhecido como "efeito pardails"), embora seus hábitos predominantemente diurnos possam mitigar o efeito da competição por meio da segregação do nicho temporal com outros felinos (Caso 2013; Giordano 2015). O tempo de geração estimado para a espécie é de 5 anos (Tirelli *et al.* 2023b). Na região nordeste do Brasil, há registros da espécie sendo abatida para consumo, e sua pele utilizada para confecção de objetos ornamentais e como troféu (Tirelli *et al.* 2023a).
+jaguatirica (Leopardus pardalis) (conhecido como "efeito pardails"), embora seus hábitos predominantemente diurnos possam mitigar o efeito da competição por meio da segregação do nicho temporal com outros felinos (Caso 2013; Giordano 2015). O tempo de geração estimado para a espécie é de 5 anos (Tirelli *et al.* 2023). Na região nordeste do Brasil, há registros da espécie sendo abatida para consumo, e sua pele utilizada para confecção de objetos ornamentais e como troféu (Tirelli *et al.* 2023).
 
 ## DISTRIBUIÇÃO GEOGRÁFICA
 
@@ -47,11 +47,11 @@ A espécie está presente nas seguintes unidades de conservação: PE do Rio Doc
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
--   Global: LC (IUCN 2023) -   Nacional: VU (Brasil 2022)
+-   Global: LC (IUCN 2023) -   Nacional: VU (Brasil 2022b)
 
-**PATs/PANs**: Espécie listada nos PANs Pequenos Felinos (CENAP 2022) e Lagoas do Sul (ICMBio 2018).
+**PATs/PANs**: Espécie listada nos PANs Pequenos Felinos (Brasil 2022a) e Lagoas do Sul (Brasil 2018).
 
 **CITES**: Apêndices I e II
 
@@ -68,25 +68,25 @@ Alguns estudos focaram explicitamente na espécie, sendo a maioria dos estudos v
 
 ## REFERÊNCIAS
 
-Almeida, L.B.D., Queirolo, D., Beisiegel, B.D.M. & Oliveira, T.G.D.  (2013). Avaliação do estado de conservação do gato-mourisco (Puma yagouaroundi) no Brasil. *Biodiversidade Brasileira*, 3, 99--106.
+Almeida, L.B., Queirolo, D., Beisiegel, B.M. & Oliveira, T.G. (2013).  Avaliação do estado de conservação do gato-mourisco (Puma yagouaroundi) no Brasil. *Biodiversidade Brasileira*, 3, 99--106.
 
 Bianchi, R. de C., Rosa, A.F., Gatti, A. & Mendes, S.L. (2011). Diet of margay, Leopardus wiedii, and jaguarundi, Puma yagouaroundi, (Carnivora: Felidae) in Atlantic rainforest, Brazil. *Zoologia (Curitiba)*, 28, 127--132.
 
-Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
+Brasil. (2018). [Portaria ICMBio Nº 751, de 27 de agosto de 2018. Aprova o Plano de Ação Nacional para a Conservação dos Sistemas Lacustres e Lagunares do Sul do Brasil -- PAN Lagoas do Sul, contemplando 29 táxons da fauna ameaçados de extinção e 133 táxons da flora ameaçados de extinção, estabelecendo seu objetivo geral, objetivos específicos, espécies contempladas, prazo de execução, abrangência e formas de implementação, supervisão e revisão (Processo n° 02032.010059/2016-30)](https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/pan/pan-lagoas-do-sul/1-ciclo/pan-lagoas-do-sul-portaria-aprovacao.pdf).  Em: *Diário Oficial da União, Edição 167, Seção 1*. ICMBio; MMA, p. 54.
 
-Caso, A. (2013). Spatial differences and local avoidance of ocelot (Leopardus pardalis) and jaguarundi (Puma yagouaroundi) in northeast Mexico. tese de doutorado. Texas A&M University-Kingsville.
+Brasil. (2022a). [Portaria ICMBio Nº 493, de 21 de junho de 2022. Aprova o 2º ciclo do Plano de Ação Nacional para a Conservação dos Pequenos Felinos - PAN Pequenos Felinos, contemplando seis táxons nacionalmente ameaçados de extinção, estabelecendo seu objetivo geral, objetivos específicos, prazo de execução, formas de implementação, supervisão e revisão. Processo SEI nº 02068.000061/2019-36](https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/pan/pan-pequenos-felinos/2-ciclo/pan-pequenos-felinos-portaria-aprovacao.pdf).  Em: *Diário Oficial da União, Edição 116, Seção 1*. ICMBio; MMA, p.  1--72.
 
-Caso, A., Oliveira, T. & Carvajal, S.V. (2015). [Herpailurus yagouaroundi](https://doi.org/10.2305/IUCN.UK.2015- 2.RLTS.T9948A50653167.en).  *IUCN Red List of Threatened Species*.
+Brasil. (2022b). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) Em: *Diário Oficial da União, Edição 108, Seção 1*. p. 74--103.
 
-CENAP. (2022). [Plano de Ação Nacional para Conservação dos Pequenos Felinos -- PAN Pequenos Felinos (2º ciclo)](https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/pan/pan-pequenos-felinos/2-ciclo/pan-pequenos-felinos-portaria-aprovacao.pdf).  *PORTARIA ICMBIO Nº 493, DE 21 DE JUNHO DE 2022*.
+Caso, A. (2013). *Spatial differences and local avoidance of ocelot (Leopardus pardalis) and jaguarundi (Puma yagouaroundi) in northeast Mexico*. Dissertation (Doctor of Philosophy) - Texas A&M University-Kingsville; ProQuest LLC.
+
+Caso, A., Oliveira, T. & Carvajal, S.V. (2015). *Herpailurus yagouaroundi*. *The IUCN Red List of Threatened Species 2015: e.T9948A50653167*. Disponível em: [https://dx.doi.org/10.2305/IUCN.UK.2015-2.RLTS.T9948A50653167.en.](https://dx.doi.org/10.2305/IUCN.UK.2015-2.RLTS.T9948A50653167.en) Acesso em 11 de abril de 2023.
 
 Giordano, A.J. (2015). [Ecology and status of the jaguarundi Puma yagouaroundi: A synthesis of existing knowledge](https://doi.org/10.1111/mam.12051). *Mammal Review*, 46, 30--43.
 
-Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
-ICMBio. (2018). *Plano de Ação Nacional para a Conservação dos Sistemas Lacustres e Lagunares do Sul do Brasil*. Instituto Chico Mendes de Conservação da Biodiversidade.
-
-IUCN. (2023). [The IUCN Red List of Threatened Species. Version 2023-1.](https://www.iucnredlist.org.)
+IUCN. (2023). *The IUCN Red List of Threatened Species. Version 2023-1.* Disponível em: <https://www.iucnredlist.org.> Acesso em 11 de abril de 2023.
 
 Johnson, W.E., Eizirik, E., Pecon-Slattery, J., Murphy, W.J., Antunes, A., Teeling, E., *et al.* (2006). The late Miocene radiation of modern Felidae: a genetic assessment. *Science*, 311, 73--77.
 
@@ -102,9 +102,7 @@ Segura, V., Prevosti, F. & Cassini, G. (2013). Cranial ontogeny in the Puma line
 
 Silva, L.G., Oliveira, T.G., Kasper, C.B., Cherem, J.J., Moraes, E.A., Paviolo, A., *et al.* (2016). [Biogeography of polymorphic phenotypes: Mapping and ecological modelling of coat colour variants in an elusive Neotropical cat, the jaguarundi (Puma yagouaroundi)](https://doi.org/10.1111/jzo.12358). *Journal of Zoology*, 299, 295--303.
 
-Tirelli, F.P., Saranholi, B.H., Dias, D.M., Azevedo, F.C., Abra, F.D., Lemos, F.G., *et al.* (2023a). [Herpailurus yagouaroundi](https://doi.org/10.37002/salve.ficha.14020.2). *Sistema de Avaliação do Risco de Extinção da Biodiversidade - SALVE.*
-
-Tirelli, F.P., Saranholi, B.H., Dias, D.M., Azevedo, F.C., Abra, F.D., Lemos, F.G., *et al.* (2023b). Herpailurus yagouaroundi É. Geoffroy Saint-Hilaire, 1803 .
+Tirelli, F.P., Saranholi, B.H., Dias, D.M., Azevedo, F.C., Abra, F.D., Lemos, F.G., *et al.* (2023). *Herpailurus yagouaroundi É. Geoffroy Saint-Hilaire, 1803*. *SALVE*. Disponível em: [https://doi.org/10.37002/salve.ficha.14020.2.](https://doi.org/10.37002/salve.ficha.14020.2) Acesso em 11 de abril de 2023.
 
 Tófoli, C.F., Rohe, F. & Setz, E.Z.F. (2009). [Hábitos alimentares do jaguarundi (Puma yagouaroundi) (Carnivora, Felidae) em mosaico de Floresta Atlântica e reflorestamento de eucalipto no sudeste do Brasil](https://doi.org/10.1590/S1519-69842009000400015). *Brazilian Journal of Biology*, 69, 871--877.
 

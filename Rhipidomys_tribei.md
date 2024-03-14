@@ -2,6 +2,10 @@
 
 **Autores(as)**: Monira Bruno Bicalho, Bruno R. Ribeiro, Karlo Guidoni e Natália L. Boroni
 
+![Fonte: Natália L. Boroni. Imagem de Rhipidomys sp.](media/rId20.jpg){width="6.486111111111111in" height="4.864583333333333in"}
+
+Fonte: *Natália L. Boroni. Imagem de Rhipidomys sp.*
+
 **Nomes populares**: rato-da-árvore, tribe's climbing mouse
 
 **Filo**: Chordata
@@ -35,11 +39,11 @@ A espécie está presente nas seguintes unidades de conservação: RPPN Mata dos
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Global: DD (IUCN 2023) -   Nacional: EN (Brasil 2022)
 
-**PATs/PANs**: Listada nos PANs Mamíferos da Mata Atlântica Central (Escarlate-Tavares *et al.* 2016) e Pequenos Mamíferos de Áreas Florestais (ICMBio 2022). É considerada espécie beneficiada no PAT Espinhaço Mineiro (Instituto Estadual de Florestas 2021).
+**PATs/PANs**: Listada nos PANs Mamíferos da Mata Atlântica Central (Escarlate-Tavares *et al.* 2016) e Pequenos Mamíferos de Áreas Florestais (ICMBio 2022). É considerada espécie beneficiada no PAT Espinhaço Mineiro (IEF 2021).
 
 **CITES**: Não consta
 
@@ -53,20 +57,20 @@ Pesquisas abordando a história de vida e ecologia, tamanho da população, dist
 
 ## REFERÊNCIAS
 
-Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
+Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) Em: *Diário Oficial da União, Edição 108, Seção 1*. p. 74--103.
 
-Carvalho, A.H. de. (2017). [Evolução Molecular e Cariotípica em Rhipidomys Tschudi, 1845 (Cricetidae, Rodentia)](http://repositorio.ufes.br/handle/10/9925). Doutorado em {Biologia} {Animal} - {Programa} de {Pós}-{Graduação} em {Ciências} {Biológicas} ({Biologia} {Animal}). Universidade Federal do Espírito Santo.
+Carvalho, A.H. (2017). [*Evolução molecular e cariotípica em Rhipidomys Tschudi, 1845 (Cricetidae, Rodentia)*](http://repositorio.ufes.br/handle/10/9925). Tese (Doutorado em Biologia Animal) - Universidade Federal do Espírito Santo, Centro de Ciências Humanas e Naturais.
 
-Cäsar, C., Oliveira, L. de C.O. & Câmara, T. (2019). *Plano de Ação para Conservação da Biodiversidade Terrestre do Rio Doce*. Fundação Renova/Bicho do Mato Instituto de Pesquisa.
+Cäsar, C., Oliveira, L.C. & Câmara, T. (2019). Plano de Ação para Conservação da Biodiversidade Terrestre do Rio Doce. Instituto de Pesquisa Bicho do Mato/ Fundação RENOVA, p. 1--282.
 
-Escarlate-Tavares, F., Valença-Montenegro, M.M. & Jerusalinsky, L.  (2016). *Plano de Ação Nacional para Conservação dos Mamíferos da Mata Atlântica Central*. Série Espécies Ameaçada. Instituto Chico Mendes de Conservação da Biodiversidade, ICMBio, Brasília.
+Escarlate-Tavares, F., Valença-Montenegro, M.M. & Jerusalinsky, L.  (Orgs.). (2016). *Plano de Ação Nacional para Conservação dos Mamíferos da Mata Atlântica Central*. Série Espécies Ameaçadas Nº 23. ICMBio, Brasília.
 
-Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
-ICMBio. (2022). [Plano de Ação Nacional para a Conservação dos Pequenos Mamíferos de Áreas Florestais](https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/pan/pan-pequenos-mamiferos-areas-florestais/pan-pequenos-mamiferos-de-areas-florestais).
+ICMBio. (2022). [Plano de Ação Nacional para a Conservação dos Pequenos Mamíferos de Áreas Florestais](https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/pan/pan-pequenos-mamiferos-areas-florestais/pan-pequenos-mamiferos-de-areas-florestais).  ICMBio.
 
-Instituto Estadual de Florestas. (2021). *Plano de Ação Territorial para Conservação de Espécies Ameaçadas de Extinção do Território Espinhaço Mineiro: sumário executivo*. IEF, Belo Horizonte.
+IEF. (2021). Plano de Ação Territorial para Conservação de Espécies Ameaçadas de Extinção do Território Espinhaço Mineiro. Sumário Executivo. IEF, Belo Horizonte, p. 27.
 
-IUCN. (2023). [The IUCN Red List of Threatened Species. Version 2023-1.](https://www.iucnredlist.org.)
+IUCN. (2023). *The IUCN Red List of Threatened Species. Version 2023-1.* Disponível em: <https://www.iucnredlist.org.> Acesso em 11 de abril de 2023.
 
-Tribe, C.J. (2015). [Genus Rhipidomys Tschudi, 1845](https://doi.org/10.7208/chicago/9780226169606.001.0001). Em: *In: Patton, J.L., Pardiñas, U.F.J. and D'Elía, G. (eds). Mammals of South America, Volume 2: Rodents*. University of Chicago Press, Chicago, p.  583--616.
+Tribe, C.J. (2015). [Genus Rhipidomys Tschudi, 1845](https://doi.org/10.7208/chicago/9780226169606.001.0001). Em: *Mammals of South America, Volume 2: Rodents* (orgs. Patton, J.L., Pardiñas, U.F.J. & D'Elía, G.). University of Chicago Press, Chicago, p.  583--616.

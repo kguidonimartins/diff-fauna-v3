@@ -2,6 +2,10 @@
 
 **Autores(as)**: Renata de T. Capellão, Monira Bruno Bicalho, Karlo Guidoni, Rodrigo de Almeida Nobre e Eduardo Zanette
 
+![Fonte: Jack Hynes - Wikimedia Commons](media/rId20.jpg){width="6.486111111111111in" height="4.322992125984252in"}
+
+Fonte: *Jack Hynes - Wikimedia Commons*
+
 **Nomes populares**: sagui-caveirinha, sagui-da-serra-escuro
 
 **Filo**: Chordata
@@ -39,12 +43,11 @@ A espécie está presente nas seguintes unidades de conservação: PE do Rio Doc
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
--   Global: EN (IUCN 2023) -   Nacional: EN (Brasil 2022) -   Minas Gerais: EN (Conselho Estadual de Política Ambiental - COPAM
-    2010)
+-   Global: EN (IUCN 2023) -   Nacional: EN (Brasil 2022) -   Minas Gerais: EN (COPAM 2010)
 
-**PATs/PANs**: Listada no PAN Primatas da Mata Atlântica e Preguiça-da-coleira (ICMBio 2018a) e considerada espécie beneficiada no PAT Espinhaço Mineiro (Instituto Estadual de Florestas 2021).
+**PATs/PANs**: Listada no PAN Primatas da Mata Atlântica e Preguiça-da-coleira (ICMBio 2018) e considerada espécie beneficiada no PAT Espinhaço Mineiro (IEF 2021).
 
 **CITES**: Apêndice I
 
@@ -60,26 +63,26 @@ As principais recomendações para um melhor entendimento da biologia e do estad
 
 ## REFERÊNCIAS
 
-Bechara, I.M. (2012). Abordagens metodológicas em Biogeografia da Conservação para avaliar risco de extinção de espécies: um estudo de caso com Callithrix aurita (Primates: Callitrichidae). tese de doutorado. Universidade Federal do Rio de Janeiro.
+Bechara, I.M. (2012). [*Abordagens metodológicas em Biogeografia da Conservação para avaliar risco de extinção de espécies: um estudo de caso com Callithrix aurita (Primates: Callitrichidae)*](https://minerva.ufrj.br/F/?func=direct&doc_number=000820016&local_base=UFR01).  Dissertação (Mestrado em Ecologia) - Instituto de Biologia, Universidade Federal do Rio de Janeiro.
 
-Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
+Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) Em: *Diário Oficial da União, Edição 108, Seção 1*. p. 74--103.
 
-Conselho Estadual de Política Ambiental - COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
+COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
 
 Ferrari, S.F., Kátia, H., Corrêa, M. & Coutinho, P.E.G. (1996). [Ecology of the "Southern" Marmosets (Callithrix aurita and Callithrix flaviceps)](https://doi.org/10.1007/978-1-4419-8770-9_9). Em: *Adaptive Radiations of Neotropical Primates* (orgs. Norconk, M.A., Rosenberger, A.L. & Garber, P.A.). Springer US, Boston, MA, p. 157--171.
 
-Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
 Hershkovitz, P. (1977). [*Living New World Monkeys (Platyrrhini), Volume 1: With an Introduction to Primates*](https://books.google.com.br/books?id=mpGrXMuaJacC). Living New World Monkeys (Platyrrhini): With an Introduction to Primates.  University of Chicago Press.
 
-ICMBio. (2018a). Sumário Executivo Plano de Ação Nacional para a Conservação dos Primatas da Mata Atlântica e da Preguiça-da-coleira - 1 Ciclo.
+ICMBio. (2018). Plano de Ação Nacional para a Conservação dos Primatas da Mata Atlântica e da Preguiça-da-coleira - 1 Ciclo. {Sumário Executivo}. ICMBio; MMA.
 
-Instituto Estadual de Florestas. (2021). *Plano de Ação Territorial para Conservação de Espécies Ameaçadas de Extinção do Território Espinhaço Mineiro: sumário executivo*. IEF, Belo Horizonte.
+IEF. (2021). Plano de Ação Territorial para Conservação de Espécies Ameaçadas de Extinção do Território Espinhaço Mineiro. Sumário Executivo. IEF, Belo Horizonte, p. 27.
 
-IUCN. (2023). [The IUCN Red List of Threatened Species. Version 2023-1.](https://www.iucnredlist.org.)
+IUCN. (2023). *The IUCN Red List of Threatened Species. Version 2023-1.* Disponível em: <https://www.iucnredlist.org.> Acesso em 11 de abril de 2023.
 
-Melo, F.R., Ferraz, D.S., Valença-Montenegro, M.M., Carvalho, L.O., Pereira, D.G. & Port-Carvalho, M. (2018). Callithrix aurita (É. Geoffroy Saint-Hilaire, 1812). Em: *Livro Vermelho da Fauna Brasileira Ameaçada de Extinção: Volume II - Mamíferos*. ICMBio, Brasília, p. 206--2012.
+Melo, F.R., Ferraz, D.S., Valença-Montenegro, M.M., Carvalho, L.O., Pereira, D.G. & Port-Carvalho, M. (2018). Callithrix aurita (É. Geoffroy Saint-Hilaire, 1812). Em: *Livro Vermelho da Fauna Brasileira Ameaçada de Extinção: Volume II - Mamíferos* (org. Instituto Chico Mendes de Conservação da Biodiversidade). ICMBio, Brasília, p. 206--2012.
 
-Melo, F.R., Port-Carvalho, M., Pereira, D.G., Ruiz-Miranda, C.R., Ferraz, D.S., Bicca-Marques, J.C., *et al.* (2021). [Callithrix aurita](https://doi.org/10.2305/iucn.uk.2021-1.rlts.t3570a191700629.en).  *IUCN Red List of Threatened Species*.
+Melo, F.R., Port-Carvalho, M., Pereira, D.G., Ruiz-Miranda, C.R., Ferraz, D.S., Bicca-Marques, J.C., *et al.* (2021). *Callithrix aurita (amended version of 2020 assessment)*. *The IUCN Red List of Threatened Species 2021: e.T3570A191700629*. Disponível em: [http://dx.doi.org/10.2305/IUCN.UK.2021-1.RLTS.T3570A191700629.en.](http://dx.doi.org/10.2305/IUCN.UK.2021-1.RLTS.T3570A191700629.en) Acesso em 11 de abril de 2023.
 
-Silvério, S.L.B. (2022). Influência do uso e ocupação do habitat sobre a presença de Callithrix aurita (É. Geoffroy Saint-Hilaire, 1812) (primates: callitrichidae) em fragmentos de mata atlântica na região de Guidoval -- MG. tese de doutorado. Universidade Federal de Viçosa.
+Silvério, S.L.B. (2022). *Influência do uso e ocupação do habitat sobre a presença de Callithrix aurita (É. Geoffroy Saint-Hilaire, 1812) (primates: callitrichidae) em fragmentos de mata atlântica na região de Guidoval -- MG*. Dissertação (Mestrado em Biologia Animal) - Universidade Federal de Viçosa.

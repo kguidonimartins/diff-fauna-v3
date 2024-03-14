@@ -2,6 +2,8 @@
 
 **Autores(as)**: Tatianne P. F. Abreu-Jardim, Bruno R. Ribeiro, Karlo Guidoni e Vitor Torga
 
+![Fonte: Marcelo Schmidt Roberti - BioDiversity4All](media/rId20.jpg){width="2.8633333333333333in" height="3.2333333333333334in"}![Fonte: Marcelo Schmidt Roberti - BioDiversity4All](media/rId23.jpg){width="4.166666666666667in" height="2.7777777777777777in"}
+
 **Nomes populares**: gavião-pombo-pequeno
 
 **Filo**: Chordata
@@ -38,12 +40,11 @@ A espécie está presente nas seguintes unidades de conservação: PE do Rio Doc
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
--   Nacional: VU (Brasil 2022) -   Minas Gerais: CR (Conselho Estadual de Política Ambiental - COPAM
-    2010)
+-   Nacional: VU (Brasil 2022) -   Minas Gerais: CR (COPAM 2010)
 
-**PATs/PANs**: Espécie listada nos PANs Aves da Mata Atlântica (ICMBio 2017) e Aves de Rapina (ICMBio 2008).
+**PATs/PANs**: Espécie listada nos PANs Aves da Mata Atlântica (ICMBio 2017) e Aves de Rapina (Soares *et al.* 2008).
 
 **CITES**: Apêndice II
 
@@ -59,18 +60,18 @@ Pesquisas relacionadas a tendência e tamanho populacional, ecologia e história
 
 Bierregaard, R.O., G. M. Kirwan & Christie, D.A. (2020). [White-necked Hawk (Buteogallus lacernulatus)](https://doi.org/10.2173/bow.whnhaw2.01). Em: *Birds of the World* (orgs. del Hoyo, J., Elliott, A., Sargatal, J., Christie, D.A. & Juana, E.). Cornell Lab of Ornithology, Ithaca, NY, USA.
 
-Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
+Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) Em: *Diário Oficial da União, Edição 108, Seção 1*. p. 74--103.
 
-Conselho Estadual de Política Ambiental - COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
+COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
 
-Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda.
-
-ICMBio. (2008). *Plano de ação nacional para a conservação de aves de rapina*. Série Espé. Brasília.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
 ICMBio. (2017). [Sumário Executivo do Plano de Ação Nacional para a Conservação das Aves da Mata Atlântica, 1 ciclo](https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/pan/pan-aves-da-mata-atlantica).
 
-Machado, A.B.M., Fonseca, G.A.B., Machado, R.B., Aguiar, L.M.S. & Lins, L.V. (1998). *Livro Vermelho da Fauna Brasileira Ameaçada de Extinção.* Fundaçao Biodiversitas, Belo Horizonte.
+Machado, A.B.M., Fonseca, G.A.B., Machado, R.B., Aguiar, L.M.S. & Lins, L.V. (1998). *Livro Vermelho da Fauna Brasileira Ameaçada de Extinção.* Ministério do Meio Ambiente e Fundação Biodiversitas, Belo Horizonte.
 
-Pallinger, F. & Menq, W. (2021). *Aves de Rapina do Brasil - Diurnos*.  Taxon Brasil, São Paulo/SP.
+Pallinger, F. & Menq, W. (2021). *Aves de Rapina do Brasil - Diurnos*.  TAXON BRASIL, São Paulo/SP.
 
-Silveira, L.F., Santos, C.G.M., Albano, C.G., Lima, D.M., Bencke, G.A., Pacheco, J.F., *et al.* (2023). [Amadonastur lacernulatus (Temminck, 1827)](https://doi.org/10.37002/salve.ficha.24273). *Sistema de Avaliação do Risco de Extinção da Biodiversidade - SALVE*.
+Silveira, L.F., Santos, C.G.M., Albano, C.G., Lima, D.M., Bencke, G.A., Pacheco, J.F., *et al.* (2023). *Amadonastur lacernulatus (Temminck, 1827)*. *SALVE*. Disponível em: [https://doi.org/10.37002/salve.ficha.24273.](https://doi.org/10.37002/salve.ficha.24273) Acesso em 11 de abril de 2023.
+
+Soares, E.S., Amaral, F.S.R. do, Carvalho Filho, E.P.M. de, Granzinolli, M.A., Albuquerque, J.L.B., Lisboa, J.S., *et al.* (2008). Plano de Ação Nacional para a Conservação de Aves de Rapina. Em:, Série Espécies Ameaçadas Nº5. ICMBio, Brasília, p. 136.

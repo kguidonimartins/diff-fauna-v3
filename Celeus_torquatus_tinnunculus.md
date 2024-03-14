@@ -2,6 +2,10 @@
 
 **Autores(as)**: Luciana Signorelli, Monira Bruno Bicalho, Karlo Guidoni e Vitor Torga
 
+![Fonte: Gabriel Bonfa - iNaturalist](media/rId20.png){width="6.486111111111111in" height="5.362905730533683in"}
+
+Fonte: *Gabriel Bonfa - iNaturalist*
+
 **Nomes populares**: pica-pau-de-coleira
 
 **Filo**: Chordata
@@ -12,7 +16,7 @@
 
 **Família**: Picidae
 
-**Notas taxonômicas**: A espécie *Celeus torquatus* possui quatro subespécies reconhecidas, sendo que apenas *Celeus torquatus tinnunculus* ocorre no leste do Brasil (Firme 2015; Pacheco *et al.* 2021; Kirwan *et al.* 2022). Inicialmente, este táxon foi descrito como uma espécie independente e posteriormente incluído em *C. torquatus*. No entanto, os estudos realizados por Firme (2016) apoiam o enquadramento de *Celeus torquatus tinnunculus* como uma espécie distinta.
+**Notas taxonômicas**: A espécie *Celeus torquatus* possui quatro subespécies reconhecidas, sendo que apenas *Celeus torquatus tinnunculus* ocorre no leste do Brasil (Firme 2016; Pacheco *et al.* 2021; Kirwan *et al.* 2022). Inicialmente, este táxon foi descrito como uma espécie independente e posteriormente incluído em *C. torquatus*. No entanto, os estudos realizados por Firme (2016) apoiam o enquadramento de *Celeus torquatus tinnunculus* como uma espécie distinta.
 
 ## AVALIAÇÃO DE RISCO DE EXTINÇÃO
 
@@ -24,8 +28,8 @@
 
 ## INFORMAÇÕES GERAIS
 
-*Celeus torquatus tinnunculus* é uma subespécie de pica-pau pouco conhecida pela ciência (Kirwan *et al.* 2022), que ocorre predominantemente em áreas de baixa altitude, em florestas primárias ou em avançado estágio de regeneração, utilizando ocasionalmente clareiras e bordas de mata (Kirwan 2009; ICMBio/MMA 2018; Silveira *et al.* 2023).  Tem o hábito de forragear em grandes alturas e, eventualmente, em estratos mais baixos da vegetação, seja em casal ou sozinho (Ridgely *et al.* 2015). Sua dieta é principalmente insetívora, tendo como principais fontes de alimento formigas e cupins arborícolas, ocasionalmente consumindo frutos e sementes (Ridgely *et al.* 2015; ICMBio/MMA 2018; Silveira *et al.* 2023). É considerada residente (Pacheco *et al.* 2021; Silveira *et al.* 2023). *Celeus t. tinnunculus* é raro e suas populações estão severamente fragmentadas devido à perda e fragmentação dos habitats naturais (ICMBio/MMA 2018; Silveira *et al.* 2023). O tempo
-geracional estimado da subespécie é de 5 anos (BirdLife International 2023). Não há informações de uso/comércio para esta subespécie.
+*Celeus torquatus tinnunculus* é uma subespécie de pica-pau pouco conhecida pela ciência (Kirwan *et al.* 2022), que ocorre predominantemente em áreas de baixa altitude, em florestas primárias ou em avançado estágio de regeneração, utilizando ocasionalmente clareiras e bordas de mata (Kirwan 2009; Instituto Chico Mendes de Conservação da Biodiversidade 2018; Silveira *et al.* 2023). Tem o hábito de forragear em grandes alturas e, eventualmente, em estratos mais baixos da vegetação, seja em casal ou sozinho (Ridgely *et al.* 2015). Sua dieta é principalmente insetívora, tendo como principais fontes de alimento formigas e cupins arborícolas, ocasionalmente consumindo frutos e sementes (Ridgely *et al.* 2015; Instituto Chico Mendes de Conservação da Biodiversidade 2018; Silveira *et al.* 2023). É considerada residente (Pacheco *et al.* 2021; Silveira *et al.* 2023). *Celeus t. tinnunculus* é raro e suas populações estão severamente fragmentadas devido à perda e
+fragmentação dos habitats naturais (Instituto Chico Mendes de Conservação da Biodiversidade 2018; Silveira *et al.* 2023). O tempo geracional estimado da subespécie é de 5 anos (BirdLife International 2023). Não há informações de uso/comércio para esta subespécie.
 
 ## DISTRIBUIÇÃO GEOGRÁFICA
 
@@ -37,10 +41,9 @@ A espécie está presente nas seguintes unidades de conservação: REBIO de Soor
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
--   Nacional: EN (Brasil 2022) -   Minas Gerais: CR (Conselho Estadual de Política Ambiental - COPAM
-    2010)
+-   Nacional: EN (Brasil 2022) -   Minas Gerais: CR (COPAM 2010)
 
 **PATs/PANs**: PAN Aves da Mata Atlântica (ICMBio 2017).
 
@@ -48,7 +51,7 @@ A espécie está presente nas seguintes unidades de conservação: REBIO de Soor
 
 ## PRINCIPAIS AMEAÇAS
 
-Suspeita-se que a subespécie esteja sofrendo declínio populacional em função da perda e alteração de habitat. Além disso, o habitat remanescente está sendo degradado devido ao corte seletivo da vegetação e da ocorrência de queimadas (ICMBio/MMA 2018; Silveira *et al.* 2023).  Não há registros de ocorrência comprovados em áreas impactadas pelo rompimento da barragem de Fundão.
+Suspeita-se que a subespécie esteja sofrendo declínio populacional em função da perda e alteração de habitat. Além disso, o habitat remanescente está sendo degradado devido ao corte seletivo da vegetação e da ocorrência de queimadas (Instituto Chico Mendes de Conservação da Biodiversidade 2018; Silveira *et al.* 2023). Não há registros de ocorrência comprovados em áreas impactadas pelo rompimento da barragem de Fundão.
 
 ## PESQUISAS RECOMENDADAS
 
@@ -56,26 +59,26 @@ Pesquisas relacionadas à taxonomia, história de vida e ecologia, bem como tama
 
 ## REFERÊNCIAS
 
-BirdLife International. (2023). [Species factsheet: Celeus tinnunculus](http://datazone.birdlife.org/species/factsheet/atlantic-black-breasted-woodpecker-celeus-tinnunculus).
+BirdLife International. (2023). *Species factsheet: Celeus tinnunculus*.  *BirdLife International*. Disponível em: [http://datazone.birdlife.org/species/factsheet/atlantic-black-breasted-woodpecker-celeus-tinnunculus.](http://datazone.birdlife.org/species/factsheet/atlantic-black-breasted-woodpecker-celeus-tinnunculus) Acesso em 11 de abril de 2023.
 
-Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
+Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) Em: *Diário Oficial da União, Edição 108, Seção 1*. p. 74--103.
 
-Conselho Estadual de Política Ambiental - COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
+COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
 
-Firme, D.H. (2015). Revisão sistemática do gênero Celeus Boie, 1831 (Aves: Piciformes: Picidae). tese de doutorado. Tese (Doutorado Ciências Biolǿgicas, Zoologia), Universidade de São Paulo.
+Firme, D.H. (2016). [*Revisão sistemática do gênero Celeus Boie, 1831 (Aves: Piciformes: Picidae)*](https://doi.org/10.11606/T.41.2016.tde-15032016-162823). Tese (Doutorado em Zoologia) - Instituto de Biociências, Universidade de São Paulo, São Paulo.
 
 ICMBio. (2017). [Sumário Executivo do Plano de Ação Nacional para a Conservação das Aves da Mata Atlântica, 1 ciclo](https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/pan/pan-aves-da-mata-atlantica).
 
-ICMBio/MMA. (2018). *Livro Vermelho da Fauna Brasileira Ameaçada de Extinção Volume III -- aves*. ICMBio/MMA.
+Instituto Chico Mendes de Conservação da Biodiversidade. (2018). Livro Vermelho da Fauna Brasileira Ameaçada de Extinção: Volume III - Aves.  Em: *Livro Vermelho da Fauna Brasileira Ameaçada de Extinção* (org.  Instituto Chico Mendes de Conservação da Biodiversidade). ICMBio, Brasília.
 
 Kirwan, G.M. (2009). Notes on the breeding ecology and seasonality of some Brazilian birds. *Revista Brasileira de Ornitologia*, 17, 121--136.
 
-Kirwan, G.M., del Hoyo, J., Winkler, H., Christie, D.A., Collar, N., Sharpe, C.J., *et al.* (2022). [*Ringed Woodpecker (Celeus torquatus), version 2.0*](https://doi.org/10.2173/bow.rinwoo1.02). *Birds of the World*. The Cornell Lab of Ornithology.
+Kirwan, G.M., del Hoyo, J., Winkler, H., Christie, D.A., Collar, N., Sharpe, C.J., *et al.* (2022). [Ringed Woodpecker (Celeus torquatus), version 2.0](https://doi.org/10.2173/bow.rinwoo1.02). Em: *Birds of the World* (org. Keeney, B.K.). The Cornell Lab of Ornithology, Ithaca, NY, USA.
 
 Pacheco, J.F., Silveira, L.F., Aleixo, A., Agne, C.E., Bencke, G.A., Bravo, G.A., *et al.* (2021). [Annotated checklist of the birds of Brazil by the Brazilian Ornithological Records Committee---second edition](https://doi.org/10.1007/s43388-021-00058-x). *Ornithology Research*, 29, 94--105.
 
-Reis, J.N. (2019). Dois séculos de perda da biodiversidade na bacia do Rio Doce: aves como modelo de estudo. mathesis. Dissertação (Mestrado em Ecologia e Recursos Naturais), Universidade Federal de Viçosa.
+Reis, J.N. (2019). [*Dois séculos de perda da biodiversidade na bacia do Rio Doce: aves como modelo de estudo*](https://locus.ufv.br//handle/123456789/27745). Dissertação (Mestrado em Manejo e Conservação de Ecossistemas Naturais e Agrários) - Universidade Federal de Viçosa, Florestal.
 
 Ridgely, R.S., Gwynne, J.A., Tudor, G. & Argel, M. (2015). Guia aves do Brasil: Mata Atlântica do Sudeste. Em: *Guia Aves do Brasil: Mata Atlântica do Sudeste*. p. 424--424.
 
-Silveira, L.F., Santos, C.G.M., Albano, C.G., Lima, D.M., Bencke, G.A., Pacheco, J.F., *et al.* (2023). [Celeus torquatus tinnunculus (Wagler, 1829)](https://salve.icmbio.gov.br). *Sistema de Avaliação do Risco de Extinção da Biodiversidade - SALVE*.
+Silveira, L.F., Santos, C.G.M., Albano, C.G., Lima, D.M., Bencke, G.A., Pacheco, J.F., *et al.* (2023). *Celeus torquatus tinnunculus (Wagler, 1829)*. *SALVE*. Disponível em: [https://doi.org/10.37002/salve.ficha.24471.2.](https://doi.org/10.37002/salve.ficha.24471.2) Acesso em 11 de abril de 2023.

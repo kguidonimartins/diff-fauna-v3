@@ -2,9 +2,7 @@
 
 **Autores(as)**: Luciana Signorelli, Monira Bruno Bicalho, Karlo Guidoni, Andre Yves e Henrique C. Costa
 
-![Fonte: Carlos Roberto Abrahão](media/rId20.png){width="6.486111111111111in" height="4.219786745406824in"}
-
-Fonte: *Carlos Roberto Abrahão*
+![Fonte: João Luiz Gasparini - NUPEM/UFRJ](media/rId20.jpg){width="6.486111111111111in" height="4.864583333333333in"}![Fonte: João Luiz Gasparini - NUPEM/UFRJ](media/rId23.png){width="6.486111111111111in" height="4.219786745406824in"}
 
 **Nomes populares**: anfisbena
 
@@ -39,11 +37,11 @@ A espécie está presente nas seguintes unidades de conservação: REBIO de Soor
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Global: VU (IUCN 2023) -   Nacional: EN (Brasil 2022) -   Espírito Santo: EN (Espírito Santo 2022)
 
-**PATs/PANs**: Espécie listada nos PANs Herpetofauna do Sudeste (Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio) 2015) Herpetofauna do Nordeste (Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio) 2019).
+**PATs/PANs**: Espécie listada nos PANs Herpetofauna do Sudeste (Brasil 2015) Herpetofauna do Nordeste (ICMBio 2022).
 
 **CITES**: Não consta
 
@@ -58,28 +56,28 @@ Espécie relativamente pouco conhecida, sendo necessárias pesquisas direcionada
 
 ## REFERÊNCIAS
 
-Argôlo, A.J.S., Reis Dias, E.J. dos, Freitas, M.A. de, Frederico, C., Rocha, D. da, Dias, I.R., *et al.* (2018). CAPÍTULO 2 MATA ATLÂNTICA DA BAHIA: HERPETOFAUNA AMEAÇADA E ESTRATÉGIAS DE CONSERVAÇÃO. *PLANO DE AÇÃO NACIONAL PARA A CONSERVAÇÃO DA HERPETOFAUNA AMEAÇADA DA MATA ATLÂNTICA NORDESTINA*, 45, 23.
+Argôlo, A.J.S., Reis Dias, E.J., Freitas, M.A., Frederico, C., Rocha, D., Dias, I.R., *et al.* (2018). Mata Atlântica da Bahia: Herpetofauna Ameaçada e Estratégias de Conservação. Em: *Plano de Ação Nacional para a Conservação da Herpetofauna Ameaçada da Mata Atlântica Nordestina* (orgs. Abrahão, C.R., Moura, G.J.B., Freitas, M.A. & Escarlate-Tavares, F.). ICMBio, Brasília, p. 23.
 
-Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
+Brasil. (2015). [Portaria ICMBio Nº 48, de 6 de outubro de 2015. Aprova o Plano de Ação Nacional para Conservação da Herpetofauna Ameaçada da Mata Atlântica da Região Sudeste do Brasil](https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/pan/pan-herpetofauna-do-sudeste).  Em: *Diário Oficial da União, Edição 192, Seção 1*. ICMBio, Brasília, p.  49.
 
-Colli, G.R., Fenker, J., Tedeschi, L., Lucena Bataus, Y.S. de, Uhlig, V.M., Silveira, A.L., *et al.* (2018). Amphisbaena nigricauda Gans, 1966. Em: *Livro Vermelho da Fauna Brasileira Ameaçada de Extinção Volume IV -- Répteis*. ICMBio/MMA.
+Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) Em: *Diário Oficial da União, Edição 108, Seção 1*. p. 74--103.
 
-Cunha, O.R. da. (1961). II - Lacertílios da Amazônia: Os lagartos da Amazônia brasileira, com especial referência aos representados na Coleção do Museu Goeldi. *Boletim do Museu Paraense Emílio Goeldi*, 39, 3--189.
+Colli, G.R., Fenker, J., Tedeschi, L., Bataus, Y.S.L., Uhlig, V.M., Silveira, A.L., *et al.* (2018). Amphisbaena nigricauda Gans, 1966. Em: *Livro Vermelho da Fauna Brasileira Ameaçada de Extinção: Volume IV -- Répteis* (org. Instituto Chico Mendes de Conservação da Biodiversidade).  ICMBio, Brasília.
+
+Cunha, O.R. (1961). Lacertílios da Amazônia II: Os lagartos da Amazônia brasileira, com especial referência aos representados na Coleção do Museu Goeldi. *Boletim do Museu Paraense Emílio Goeldi*, 39, 3--189.
 
 Dias, E.J.R. & Rocha, C.F.D. (2005). Os Répteis nas Restingas do estado da Bahia: Pesquisa e Ações para sua Conservação. *Instituto Biomas Rio de Janeiro - RJ*, 34.
 
 Espírito Santo. (2022). [Decreto Nº 5237-R, de 25 de novembro de 2022.  Declara as espécies de fauna ameaçadas de extinção no Estado do Espírito Santo e dá outras providências](https://iema.es.gov.br/Media/iema/FAUNA/Decreto%205237-R_2022_25-Nov%20-%20Fauna%20(s-peixes)%20-%20Lista%20de%20Esp%C3%A9cies%20Amea%C3%A7adas%20de%20Extin%C3%A7%C3%A3o.pdf).
 
-Golder Associates. (2016). Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
 Guedes, T.B., Entiauspe-Neto, O.M. & Costa, H.C. (2023). [Lista de répteis do Brasil: atualização de 2022](https://doi.org/10.5281/zenodo.7829013). *Herpetologia Brasileira*, 12, 56--161.
 
-Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio).  (2015). [*Portaria No 48, de 6 de outubro de 2015. Aprova o Plano de Ação Nacional para Conservação da Herpetofauna Ameaçada da Mata Atlântica da Região Sudeste do Brasil - PAN Herpetofauna do Sudeste*](https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/pan/pan-herpetofauna-do-sudeste).  ICMBio, Brasília.
+ICMBio. (2022). [Plano de Ação Nacional para Conservação da Herpetofauna do Nordeste](https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/pan/pan-herpetofauna-do-nordeste).  Sumário Executivo. ICMBio; MMA, Brasília, p. 1--8.
 
-Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio).  (2019). [*Portaria n°. 354, de 25 de julho de 2019, que aprova do 2° ciclo do Plano de Ação Nacional para a Conservação da Herpetofauna Ameaçada do Nordeste - PAN Herpetofauna do Nordeste*](https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/pan/pan-herpetofauna-do-nordeste).  Diário Oficial da Unição, Edição 145, Seção:1.
+IUCN. (2023). *The IUCN Red List of Threatened Species. Version 2023-1.* Disponível em: <https://www.iucnredlist.org.> Acesso em 11 de abril de 2023.
 
-IUCN. (2023). [The IUCN Red List of Threatened Species. Version 2023-1.](https://www.iucnredlist.org.)
+Silveira, A.L., Rocha, C., Nogueira, C.C., Werneck, F., Moura, G.J.B., Winck, G., *et al.* (2014). *Amphisbaena nigricauda*. *The IUCN Red List of Threatened Species 2021: e.T75161286A154324051*. Disponível em: [https://dx.doi.org/10.2305/IUCN.UK.2021-3.RLTS.T75161286A154324051.en.](https://dx.doi.org/10.2305/IUCN.UK.2021-3.RLTS.T75161286A154324051.en) Acesso em 11 de abril de 2023.
 
-Silveira, A.L., Rocha, C. da, Nogueira, C. de C., Werneck, F., Moura, G.J.B. de, Winck, G., *et al.* (2014). [Amphisbaena nigricauda. The IUCN Red List of Threatened Species 2021: e.T75161286A154324051](https://dx.doi.org/10.2305/IUCN.UK.2021-3.RLTS.T75161286A154324051.en).
-
-Souza e Lima, F.A.N.D., Gasparini, J.L., Almeida, A.D.P., Vital, M.V.C.  & Mott, T. (2014). [Sexual dimorphism in Amphisbaena nigricauda (Reptilia, Squamata, Amphisbaenidae) from Southeastern Brazil](https://doi.org/10.1590/1678-476620141043299307). *Iheringia.  Série Zoologia*, 104, 299--307.
+Souza e Lima, F.A.N., Gasparini, J.L., Almeida, A.P., Vital, M.V.C. & Mott, T. (2014). [Sexual dimorphism in Amphisbaena nigricauda (Reptilia, Squamata, Amphisbaenidae) from Southeastern Brazil](https://doi.org/10.1590/1678-476620141043299307). *Iheringia.  Série Zoologia*, 104, 299--307.

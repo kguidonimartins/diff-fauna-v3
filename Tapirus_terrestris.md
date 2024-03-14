@@ -2,9 +2,9 @@
 
 **Autores(as)**: Tatianne P. F. Abreu-Jardim, Monira Bruno Bicalho, Karlo Guidoni, Ana Carolina Srbek-Araujo e Marcelo Magioli
 
-![Fonte: Jean-Marc Rosier - Wikimedia](media/rId20.jpg){width="6.486111111111111in" height="3.4119761592300963in"}
+![Fonte: Jean-Marc Rosier - Wikimedia Commons](media/rId20.jpg){width="6.486111111111111in" height="3.4119761592300963in"}
 
-Fonte: *Jean-Marc Rosier - Wikimedia*
+Fonte: *Jean-Marc Rosier - Wikimedia Commons*
 
 **Nomes populares**: anta
 
@@ -40,17 +40,15 @@ A espécie possui ocorrência nos seguintes estados do Brasil: MG, RS, ES, RO, R
 
 ## PRESENÇA EM UNIDADES DE CONSERVAÇÃO NA BACIA DO RIO DOCE
 
-A espécie está presente nas seguintes unidades de conservação: PE do Rio Doce; REBIO de Sooretama; FLONA de Goytacazes; PN da Serra do Gandarela; RPPN Recanto das Antas; PE do Itacolomi; APA Sul-RMBH; APA Serra do Timóteo
+A espécie está presente nas seguintes unidades de conservação: PE do Rio Doce; REBIO de Sooretama; FLONA de Goytacazes; PARNA da Serra do Gandarela; RPPN Recanto das Antas; PE do Itacolomi; APA Sul-RMBH; APA Serra do Timóteo
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
--   Global: VU (IUCN 2023) -   Nacional: VU (Brasil 2022) -   Minas Gerais: EN (Conselho Estadual de Política Ambiental - COPAM
-    2010)
--   Espírito Santo: CR (Espírito Santo 2022)
+-   Global: VU (IUCN 2023) -   Nacional: VU (Brasil 2022) -   Minas Gerais: EN (COPAM 2010) -   Espírito Santo: CR (Espírito Santo 2022)
 
-**PATs/PANs**: Listada no PAN Ungulados (ICMBio 2019) e considerada espécie beneficiada nos PATs Capixaba-Gerais (Instituto Estadual de Florestas 2023), Cerrado Tocantins (Instituto Natureza do Tocantins - NATURATINS 2020) e Veredas Goyaz-Geraes (Secretaria de Meio Ambiente e Desenvolvimento Sustentável de Goiás - SEMAD-GO & Instituto Estadual de Florestas - IEF-MG 2021).
+**PATs/PANs**: Listada no PAN Ungulados (ICMBio 2019) e considerada espécie beneficiada nos PATs Capixaba-Gerais (IEF 2023), Cerrado Tocantins (NATURATINS 2020) e Veredas Goyaz-Geraes (SEMAD-GO & IEF-MG 2021).
 
 **CITES**: Apêndice II
 
@@ -64,31 +62,31 @@ Pesquisas relacionadas ao monitoramento de tamanho e tendência populacional sã
 
 ## REFERÊNCIAS
 
-Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
+Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) Em: *Diário Oficial da União, Edição 108, Seção 1*. p. 74--103.
 
-Conselho Estadual de Política Ambiental - COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
+COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
 
 Espírito Santo. (2022). [Decreto Nº 5237-R, de 25 de novembro de 2022.  Declara as espécies de fauna ameaçadas de extinção no Estado do Espírito Santo e dá outras providências](https://iema.es.gov.br/Media/iema/FAUNA/Decreto%205237-R_2022_25-Nov%20-%20Fauna%20(s-peixes)%20-%20Lista%20de%20Esp%C3%A9cies%20Amea%C3%A7adas%20de%20Extin%C3%A7%C3%A3o.pdf).
 
-Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
-ICMBio. (2019). Sumário Executivo do Plano de Ação Nacional para a Conservação ddos Ungulados, 1 ciclo.
+ICMBio. (2019). Plano de Ação Nacional para a Conservação dos Ungulados, 1 ciclo. {Sumário Executivo}. MMA.
 
-Instituto Estadual de Florestas. (2023). [Plano de Ação Territorial Capixaba-Gerais](http://www.ief.mg.gov.br/biodiversidade/-planodeacaoterritorialcapixabagerais).
+IEF. (2023). [*Plano de Ação Territorial Capixaba-Gerais*](http://www.ief.mg.gov.br/biodiversidade/-planodeacaoterritorialcapixabagerais).  IEMA; IEF; PróEspécies.
 
-Instituto Natureza do Tocantins - NATURATINS. (2020). *Plano de Ação Territorial para Conservação de Espécies Ameaçadas de Extinção do Território Cerrado Tocantins (PAT Cerrado Tocantins)- Sumário Executivo*. Palmas/TO.
+IUCN. (2023). *The IUCN Red List of Threatened Species. Version 2023-1.* Disponível em: <https://www.iucnredlist.org.> Acesso em 11 de abril de 2023.
 
-IUCN. (2023). [The IUCN Red List of Threatened Species. Version 2023-1.](https://www.iucnredlist.org.)
+Medici, E.P. (2011). Family Tapiridae (Tapirs). Em: *Handbook of the Mammals of the World, Volume 2: Hoofed Mammals* (orgs. Wilson, D.E. & Mittermeier, R.A.). Lynx Edicions, Barcelona.
 
-Medici, E.P. (2011). *Family Tapiridae (Tapirs)*. Lynx Edicions, Barcelona.
+Medici, E.P., Flesher, K., Beisiegel, B.M., Keuroghlian, A., Desbiez, A.L.J., Gatti, A., *et al.* (2018). Tapirus terrestris (Linnaeus, 1758).  Em: *Livro Vermelho da Fauna Brasileira Ameaçada de Extinção: Volume II -- Mamíferos* (org. Instituto Chico Mendes de Conservação da Biodiversidade). ICMBio, p. 59--68.
 
-Medici, E.P., Flesher, K., Beisiegel, B.M., Keuroghlian, A., Desbiez, A.L.J., Gatti, A., *et al.* (2018). Tapirus terrestris (Linnaeus, 1758).  Em: *Livro Vermelho da Fauna Brasileira Ameaçada de Extinção: Volume II -- Mamíferos*. ICMBio & MMA.
+Medici, E.P., Keuroghlian, A., Antunes, A., Gatti, A., Beisiegel, B., Campos, C.B., *et al.* (2023). *Tapirus terrestris (Linnaeus, 1758)*.  *SALVE*. Disponível em: [https://doi.org/10.37002/salve.ficha.9808.](https://doi.org/10.37002/salve.ficha.9808) Acesso em 11 de abril de 2023.
 
-Medici, E.P., Keuroghlian, A., Antunes, A., Gatti, A., Beisiegel, B., Campos, C.B., *et al.* (2023). [Tapirus terrestris](https://doi.org/10.37002/salve.ficha.9808). *Sistema de Avaliação do Risco de Extinção da Biodiversidade - SALVE.*
+NATURATINS. (2020). *Plano de Ação Territorial para Conservação de Espécies Ameaçadas de Extinção do Território Cerrado Tocantins (PAT Cerrado Tocantins)- Sumário Executivo*. Palmas/TO.
 
-Secretaria de Meio Ambiente e Desenvolvimento Sustentável de Goiás - SEMAD-GO & Instituto Estadual de Florestas - IEF-MG. (2021). *Plano de Ação Territorial de Conservação de Espécies Ameaçadas de Extinção do Território Veredas Goyaz-Geraes (PAT Veredas Goyaz-Geraes) - Sumário Executivo*.
+SEMAD-GO & IEF-MG. (2021). *Plano de Ação Territorial de Conservação de Espécies Ameaçadas de Extinção do Território Veredas Goyaz-Geraes (PAT Veredas Goyaz-Geraes) - Sumário Executivo*.
 
-Varela, D., Flesher, K., Cartes, J.L., Bustos, S. de, Chalukian, S., Ayala, G., *et al.* (2019). [Tapirus terrestris](https://dx.doi.org/10.2305/IUCN.UK.2019-1.RLTS.T21474A45174127.en).  *The IUCN Red List of Threatened Species*.
+Varela, D., Flesher, K., Cartes, J.L., Bustos, S., Chalukian, S., Ayala, G., *et al.* (2019). *Tapirus terrestris*. *The IUCN Red List of Threatened Species 2019: e.T21474A45174127*. Disponível em: [https://dx.doi.org/10.2305/IUCN.UK.2019-1.RLTS.T21474A45174127.en.](https://dx.doi.org/10.2305/IUCN.UK.2019-1.RLTS.T21474A45174127.en) Acesso em 11 de abril de 2023.
 
 Villar, N. & Medici, E.P. (2021). Large wild herbivores slow down the rapid decline of plant diversity in a tropical forest biodiversity hotspot. *Journal of Applied Ecology*, 58, 2361--2370.
 

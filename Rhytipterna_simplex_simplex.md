@@ -2,6 +2,10 @@
 
 **Autores(as)**: Monira Bruno Bicalho, Bruno R. Ribeiro, Karlo Guidoni e Flávia Chaves
 
+![Fonte: Matheus Fernandes Moraes Silva - BioDiversity4All](media/rId20.jpg){width="4.166666666666667in" height="2.7777777777777777in"}
+
+Fonte: *Matheus Fernandes Moraes Silva - BioDiversity4All*
+
 **Nomes populares**: vissiá, maria-cinza, planadeira, planadeira-cinza
 
 **Filo**: Chordata
@@ -37,10 +41,9 @@ A espécie está presente nas seguintes unidades de conservação: PE do Rio Doc
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
--   Minas Gerais: VU (Conselho Estadual de Política Ambiental - COPAM
-    2010)
+-   Minas Gerais: VU (COPAM 2010)
 
 **PATs/PANs**: Não disponível
 
@@ -56,10 +59,10 @@ Pesquisas relacionadas ao tamanho, tendência e monitoramento populacional.
 
 ## REFERÊNCIAS
 
-BirdLife International. (2016). [Rhytipterna simplex](https://dx.doi.org/10.2305/IUCN.UK.2016-3.RLTS.T22700376A93771755.en).  *The IUCN Red List of Threatened Species 2016: e.T22700376A93771755.*
+BirdLife International. (2016). *Rhytipterna simplex*. *The IUCN Red List of Threatened Species 2016: e.T22700376A93771755.* Disponível em: [https://dx.doi.org/10.2305/IUCN.UK.2016-3.RLTS.T22700376A93771755.en.](https://dx.doi.org/10.2305/IUCN.UK.2016-3.RLTS.T22700376A93771755.en) Acesso em 11 de abril de 2023.
 
-Conselho Estadual de Política Ambiental - COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
+COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
 
-Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
-WikiAves. (2023). [vissiá (Rhytipterna simplex)](http://www.wikiaves.com.br/wiki/vissia).
+WikiAves. (2023). *WikiAves, a Enciclopédia das Aves do Brasil*.  Disponível em: [https://www.wikiaves.com.br/index.php.](https://www.wikiaves.com.br/index.php) Acesso em 11 de abril de 2023.

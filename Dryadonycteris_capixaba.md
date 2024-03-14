@@ -35,7 +35,7 @@ A espécie está presente nas seguintes unidades de conservação: RPPN Miguel A
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Global: DD (IUCN 2023) -   Nacional: LC (Brasil 2022) -   Espírito Santo: DD (Espírito Santo 2022)
 
@@ -55,19 +55,19 @@ Pesquisas sobre história de vida, ecologia e taxonomia.
 
 Aguiar, L.M.S., Zortea, M. & Taddei, V.A. (1995). New records of bats for the Brazilian Atlantic Forest. *Mammalia*, 59, 667--671.
 
-Bernard, E., Gama, A.R., Gomes, A.M.E., Santos, C.L.C., Fischer, E.A., Schmidt, E.J.C., *et al.* (2023). [Dryadonycteris capixaba Nogueira, Lima, Peracchi e Simmons, 2012](https://salve.icmbio.gov.br). *Sistema de Avaliação do Risco de Extinção da Biodiversidade - SALVE*.
+Bernard, E., Gama, A.R., Gomes, A.M.E., Santos, C.L.C., Fischer, E.A., Schmidt, E.J.C., *et al.* (2023). *Dryadonycteris capixaba Nogueira, Lima, Peracchi e Simmons, 2012*. *SALVE*. Disponível em: [https://doi.org/10.37002/salve.ficha.20431.](https://doi.org/10.37002/salve.ficha.20431) Acesso em 11 de abril de 2023.
 
-Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
+Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) Em: *Diário Oficial da União, Edição 108, Seção 1*. p. 74--103.
 
 Espírito Santo. (2022). [Decreto Nº 5237-R, de 25 de novembro de 2022.  Declara as espécies de fauna ameaçadas de extinção no Estado do Espírito Santo e dá outras providências](https://iema.es.gov.br/Media/iema/FAUNA/Decreto%205237-R_2022_25-Nov%20-%20Fauna%20(s-peixes)%20-%20Lista%20de%20Esp%C3%A9cies%20Amea%C3%A7adas%20de%20Extin%C3%A7%C3%A3o.pdf).
 
-Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
 Gregorin, R., Vasconcellos, K.L. & Gil, B.B. (2015). [Two new range records of bats (Chiroptera: Phyllostomidae) for the Atlantic Forest, eastern Brazil](https://doi.org/10.1515/mammalia-2013-0142). *Mammalia*, 79, 121--124.
 
-IUCN. (2023). [The IUCN Red List of Threatened Species. Version 2023-1.](https://www.iucnredlist.org.)
+IUCN. (2023). *The IUCN Red List of Threatened Species. Version 2023-1.* Disponível em: <https://www.iucnredlist.org.> Acesso em 11 de abril de 2023.
 
-Keesen, F., Nunes, A. & Moraes, L. (2016). Updated list of mammals of Rio Doce State Park, Minas Gerais, Brazil. *Boletim do Museu de Biologia Mello Leitão*, 38, 139--162.
+Keesen, F., Nunes, A.V. & Scoss, L.M. (2016). Updated list of mammals of Rio Doce State Park, Minas Gerais, Brazil. *Bol. Mus. Biol. Mello Leitão*, (N. Sér.) 38, 139--162.
 
 Nascimento-Costa, M.C., Oliveira, F.V. & Perini, F.A. (2019).  [Dryadonycteris capixaba (Chiroptera: Phyllostomidae: Glossophaginae): First record for the cerrado and updated geographic distribution map](https://doi.org/10.4257/oeco.2019.2303.22). *Oecologia Australis*, 23, 657--663.
 

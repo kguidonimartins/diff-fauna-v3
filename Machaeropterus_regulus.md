@@ -2,6 +2,10 @@
 
 **Autores(as)**: Monira Bruno Bicalho, Bruno R. Ribeiro, Karlo Guidoni e Flávia Chaves
 
+![Fonte: Hector Bottai - Wikimedia Commons](media/rId20.jpg){width="6.0732753718285215in" height="5.866379046369204in"}
+
+Fonte: *Hector Bottai - Wikimedia Commons*
+
 **Nomes populares**: tangará-rajado, atangará, dançarino-rosado (Cäsar *et al.* 2019), também conhecido como galo-do-mato no Rio de Janeiro (BirdLife International 2017)
 
 **Filo**: Chordata
@@ -37,7 +41,7 @@ Não há registros da espécie em unidades de conservação.
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Global: LC (IUCN 2023) -   Nacional: LC (Brasil 2022) -   Espírito Santo: EN (Espírito Santo 2022)
 
@@ -55,18 +59,18 @@ Pesquisas para obter um melhor entendimento do tamanho, distribuição e tendên
 
 ## REFERÊNCIAS
 
-BirdLife International. (2017). [Machaeropterus regulus (amended version of 2016 assessment)](https://dx.doi.org/10.2305/IUCN.UK.2017-1.RLTS.T103676093A112280770.en).  *The IUCN Red List of Threatened Species 2017: e.T103676093A112280770.*
+BirdLife International. (2017). *Machaeropterus regulus (amended version of 2016 assessment)*. *The IUCN Red List of Threatened Species 2017: e.T103676093A112280770.* Disponível em: [https://dx.doi.org/10.2305/IUCN.UK.2017-1.RLTS.T103676093A112280770.en.](https://dx.doi.org/10.2305/IUCN.UK.2017-1.RLTS.T103676093A112280770.en) Acesso em 11 de abril de 2023.
 
-Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
+Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) Em: *Diário Oficial da União, Edição 108, Seção 1*. p. 74--103.
 
-Cäsar, C., Oliveira, L. de C.O. & Câmara, T. (2019). *Plano de Ação para Conservação da Biodiversidade Terrestre do Rio Doce*. Fundação Renova/Bicho do Mato Instituto de Pesquisa.
+Cäsar, C., Oliveira, L.C. & Câmara, T. (2019). Plano de Ação para Conservação da Biodiversidade Terrestre do Rio Doce. Instituto de Pesquisa Bicho do Mato/ Fundação RENOVA, p. 1--282.
 
 Espírito Santo. (2022). [Decreto Nº 5237-R, de 25 de novembro de 2022.  Declara as espécies de fauna ameaçadas de extinção no Estado do Espírito Santo e dá outras providências](https://iema.es.gov.br/Media/iema/FAUNA/Decreto%205237-R_2022_25-Nov%20-%20Fauna%20(s-peixes)%20-%20Lista%20de%20Esp%C3%A9cies%20Amea%C3%A7adas%20de%20Extin%C3%A7%C3%A3o.pdf).
 
-Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
-IUCN. (2023). [The IUCN Red List of Threatened Species. Version 2023-1.](https://www.iucnredlist.org.)
+IUCN. (2023). *The IUCN Red List of Threatened Species. Version 2023-1.* Disponível em: <https://www.iucnredlist.org.> Acesso em 11 de abril de 2023.
 
-Silveira, L.F., Santos, C.G.M., Albano, C.G., Lima, D.M., Bencke, G.A., Pacheco, J.F., *et al.* (2019). [Machaeropterus regulus (Hahn, 1819)](https://salve.icmbio.gov.br/salve/api/fichaHash/527641796846734c70333534685a57664771584879413d3d).  *Sistema de Avaliação do Risco de Extinção da Biodiversidade -- SALVE*.
+Silveira, L.F., Santos, C.G.M., Albano, C.G., Lima, D.M., Bencke, G.A., Pacheco, J.F., *et al.* (2019). *Machaeropterus regulus (Hahn, 1819)*.  *SALVE*. Disponível em: [https://doi.org/10.37002/salve.ficha.24575.](https://doi.org/10.37002/salve.ficha.24575) Acesso em 11 de abril de 2023.
 
-WikiAves. (2023). [tangará-rajado (Machaeropterus regulus)](http://www.wikiaves.com.br/wiki/tangara-rajado).
+WikiAves. (2023). *WikiAves, a Enciclopédia das Aves do Brasil*.  Disponível em: [https://www.wikiaves.com.br/index.php.](https://www.wikiaves.com.br/index.php) Acesso em 11 de abril de 2023.

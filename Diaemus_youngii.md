@@ -38,11 +38,9 @@ A espécie está presente nas seguintes unidades de conservação: REBIO de Soor
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
--   Nacional: LC (Brasil 2022) -   Minas Gerais: VU (Conselho Estadual de Política Ambiental - COPAM
-    2010)
--   Espírito Santo: VU (Espírito Santo 2022) -   Global: LC (IUCN 2023)
+-   Nacional: LC (Brasil 2022) -   Minas Gerais: VU (COPAM 2010) -   Espírito Santo: VU (Espírito Santo 2022) -   Global: LC (IUCN 2023)
 
 **PATs/PANs**: Não disponível
 
@@ -58,31 +56,31 @@ Pesquisas sobre história de vida e ecologia, tamanho, distribuição e tendênc
 
 ## REFERÊNCIAS
 
-Aguiar, L.M.S., Camargo, W.R. & Portella, A.S. (2006). Occurrence of white-winged vampire bat, Diaemus youngi (Mammalia, Chiroptera), in the Cerrado of Distrito Federal, Brazil. *Revista Brasileira de Zoologia*, 23, 893--896.
+Aguiar, L.M.S., Camargo, W.R. & Portella, A.S. (2006). [Occurrence of white-winged vampire bat, Diaemus youngi (Mammalia, Chiroptera), in the Cerrado of Distrito Federal, Brazil](https://doi.org/10.1590/S0101-81752006000300041). *Revista Brasileira de Zoologia*, 23, 893--896.
 
-Barquez, R., Perez, S., Miller, B. & Diaz, M. (2015). Diaemus youngi.  *The IUCN Red List of Threatened Species 2015: e.T6520A21982777*.
+Barquez, R., Perez, S., Miller, B. & Diaz, M. (2015). *Diaemus youngi*.  *The IUCN Red List of Threatened Species 2015: e.T6520A21982777*.  Disponível em: [https://dx.doi.org/10.2305/IUCN.UK.2015-4.RLTS.T6520A21982777.en.](https://dx.doi.org/10.2305/IUCN.UK.2015-4.RLTS.T6520A21982777.en) Acesso em 11 de abril de 2023.
 
-Bernard, E., Gama, A.R., Gomes, A.M. e, Santos, C.L.C., Fischer, E.A., Schmidt, E.J.C., *et al.* (2023). Diaemus youngii. *Sistema de Avaliação do Risco de Extinção da Biodiversidade - SALVE*.
+Bernard, E., Gama, A.R., Gomes, A.M., Santos, C.L.C., Fischer, E.A., Schmidt, E.J.C., *et al.* (2023). *Diaemus youngii (Jentink, 1893)*.  *SALVE*. Disponível em: [https://doi.org/10.37002/salve.ficha.20425.](https://doi.org/10.37002/salve.ficha.20425) Acesso em 11 de abril de 2023.
 
-Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
+Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) Em: *Diário Oficial da União, Edição 108, Seção 1*. p. 74--103.
 
-Conselho Estadual de Política Ambiental - COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
+COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
 
-Emmons, L. & Feer, F. (1997). *Neotropical rainforest mammals: a field guide*. University of Chicago Press.
+Emmons, L. & Feer, F. (1997). *Neotropical rainforest mammals: a field guide*. University of Chicago Press, Chicago.
 
 Espírito Santo. (2022). [Decreto Nº 5237-R, de 25 de novembro de 2022.  Declara as espécies de fauna ameaçadas de extinção no Estado do Espírito Santo e dá outras providências](https://iema.es.gov.br/Media/iema/FAUNA/Decreto%205237-R_2022_25-Nov%20-%20Fauna%20(s-peixes)%20-%20Lista%20de%20Esp%C3%A9cies%20Amea%C3%A7adas%20de%20Extin%C3%A7%C3%A3o.pdf).
 
-Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
 Greenhall, A.M. & Schutt, W.A. (1996). [Diaemus youngi](https://doi.org/10.2307/3504240/2600729). *Mammalian Species*, 1--7.
 
-IUCN. (2023). [The IUCN Red List of Threatened Species. Version 2023-1.](https://www.iucnredlist.org.)
+IUCN. (2023). *The IUCN Red List of Threatened Species. Version 2023-1.* Disponível em: <https://www.iucnredlist.org.> Acesso em 11 de abril de 2023.
 
 Mayen, F. (2003). [Haematophagous bats in Brazil, their role in rabies transmission, impact on public health, livestock industry and alternatives to an indiscriminate reduction of bat population](https://doi.org/10.1046/j.1439-0450.2003.00713.x). *Journal of Veterinary Medicine, Series B*, 50, 469--472.
 
-Paglia, A.P., Fonseca, G.A.B., Rylands, A.B., Herrmann, G., Aguiar, L.M.S., Chiarello, A.G., *et al.* (2012). *Lista Anotada dos Mamíferos do Brasil / Annotated Checklist of Brazilian Mammals*. *Occasional papers in conservation biology*. 2ª Edição. Occasional Papers in Conservation Biology. Conservation International.
+Paglia, A.P., Fonseca, G.A.B., Rylands, A.B., Herrmann, G., Aguiar, L.M.S., Chiarello, A.G., *et al.* (2012). Lista Anotada dos Mamíferos do Brasil / Annotated Checklist of Brazilian Mammals. Occasional Papers in Conservation Biology, Nº6. Conservation International, Arlington, p.  1--76.
 
-Pimenta, V.T. (2013). Segregação de recursos por diferentes espêcies de morcegos (Mammalia: Chiroptera) na Reserva Biológica de Sooretama. tese de doutorado. Dissertação de Mestrado, Programa de Pós-Graduação em Ciências Biológicas (Biologia Animal), Universidade Federal do Espı́rito Santo Vitória, Brazil.
+Pimenta, V.T. (2013). *Segregação de recursos por diferentes espécies de morcegos (Mammalia: Chiroptera) na Reserva Biológica de Sooretama*.  Dissertação (Mestrado em Ciências Biológicas: Biologia Animal) - Universidade Federal do Espı́rito Santo, Vitória.
 
 Póvoas, D.R., Chaves, N.P., Bezerra, D.C. & Pinheiro, M.F.N. (2012).  Raiva em quirópteros no estado do Maranhão: um estudo retrospectivo.  *Revista Brasileira de Ciência Veterinária*, 19.
 
@@ -92,7 +90,7 @@ Ribeiro, J., Vieira, R.G.V., Martins, C.M., Ferreira, F., Araujo, J.P., Ullmann,
 
 Silva, L.A.M., Silva, R.M., Santos, J.L., Machado, J.L.M., Santana, M.A.B., Oliveira, A.L., *et al.* (2021). Registro de espoliação em humano pelo morcego vampiro de asas brancas Diaemus youngi (Jentink, 1893)(Chiroptera: Desmodontinae). *Research, Society and Development*, 10, e213101220411--e213101220411.
 
-Uieda, W. & Araujo, V.F. (1987). Manutenção dos morcegos hematofagos Diaemus youngii e Diphylla ecaudata (Chiroptera, Phyllostomidae), em cativeiro. Em: *Anais do Seminário Ciências Faculdades Integradas de Uberlândia*. FIUBE, p. 30--42.
+Uieda, W. & Araujo, V.F. (1987). Manutenção dos morcegos hematofagos Diaemus youngii e Diphylla ecaudata (Chiroptera, Phyllostomidae), em cativeiro. Em: *Anais do Seminário Ciências Faculdades Integradas de Uberlândia*. FIUBE, Uberaba, p. 30--42.
 
 Urbieta, G.L., Siqueira, T.Y.S. de & Graciolli, G. (2017). [White-winged Vampire Bat, Diaemus youngi (Jentink, 1893) (Mammalia, Chiroptera): Range extension in the Cerrado biome and new locality in Mato Grosso do Sul, southwestern Brazil](https://doi.org/10.15560/13.3.2128). *Check List*, 13.
 

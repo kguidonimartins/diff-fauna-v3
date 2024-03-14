@@ -35,10 +35,9 @@ Não há registros da espécie em unidades de conservação.
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
--   Global: DD (IUCN 2023) -   Nacional: LC (Brasil 2022) -   Minas Gerais: LC (Conselho Estadual de Política Ambiental - COPAM
-    2010)
+-   Global: DD (IUCN 2023) -   Nacional: LC (Brasil 2022) -   Minas Gerais: LC (COPAM 2010)
 
 **PATs/PANs**: PAN Mamíferos da Mata Atlântica Central (Escarlate-Tavares *et al.* 2016).
 
@@ -54,24 +53,24 @@ A ecologia e história natural de *Trinomys paratus* são pouco conhecidas, torn
 
 ## REFERÊNCIAS
 
-Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
+Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) Em: *Diário Oficial da União, Edição 108, Seção 1*. p. 74--103.
 
-Conselho Estadual de Política Ambiental - COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
+COPAM. (2010). Deliberação Normativa no 147, de 30 de abril de 2010: Aprova a Lista de Espécies Ameaçadas de Extinção da Fauna do Estado de Minas Gerais. Diário do Executivo do Estado de Minas Gerais: Diário do Executivo, 04/05/2010.
 
-Dalapicolla, J. & Leite, Y.L.R. (2015). [\<strong\>Taxonomic implications of morphological variation in three species of \<em\>Trinomys\</em\> (Rodentia: Echimyidae) from eastern Brazil\</strong\>](https://doi.org/10.11646/zootaxa.3919.1.3).  *Zootaxa*, 3919, 61--80.
+Dalapicolla, J. & Leite, Y.L.R. (2015). [Taxonomic implications of morphological variation in three species of Trinomys (Rodentia: Echimyidae) from eastern Brazil](https://doi.org/10.11646/zootaxa.3919.1.3). *Zootaxa*, 3919, 61--80.
 
-Escarlate-Tavares, F., Valença-Montenegro, M.M. & Jerusalinsky, L.  (2016). *Plano de Ação Nacional para Conservação dos Mamíferos da Mata Atlântica Central*. Série Espécies Ameaçada. Instituto Chico Mendes de Conservação da Biodiversidade, ICMBio, Brasília.
+Escarlate-Tavares, F., Valença-Montenegro, M.M. & Jerusalinsky, L.  (Orgs.). (2016). *Plano de Ação Nacional para Conservação dos Mamíferos da Mata Atlântica Central*. Série Espécies Ameaçadas Nº 23. ICMBio, Brasília.
 
-Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
-ICMBio. (2023). [Sistema de Avaliação do Risco de Extinção da Biodiversidade - SALVE](https://salve.icmbio.gov.br).
+ICMBio. (2023). *SALVE*. Disponível em: [https://salve.icmbio.gov.br.](https://salve.icmbio.gov.br) Acesso em 11 de abril de 2023.
 
-IUCN. (2023). [The IUCN Red List of Threatened Species. Version 2023-1.](https://www.iucnredlist.org.)
+IUCN. (2023). *The IUCN Red List of Threatened Species. Version 2023-1.* Disponível em: <https://www.iucnredlist.org.> Acesso em 11 de abril de 2023.
 
 Lara, M.C. & Patton, J.L. (2000). [Evolutionary diversification of spiny rats (genus Trinomys, Rodentia: Echimyidae) in the Atlantic Forest of Brazil](https://doi.org/10.1111/j.1096-3642.2000.tb02205.x). *Zoological Journal of the Linnean Society*, 130, 661--686.
 
-Patterson, B. (2016). [Trinomys paratus](https://dx.doi.org/10.2305/IUCN.UK.2016-2.RLTS.T136492A22212105.en).  *The IUCN Red List of Threatened Species 2016: e.T136492A22212105.*
+Patterson, B. (2016). *Trinomys paratus*. *The IUCN Red List of Threatened Species 2016: e.T136492A22212105.* Disponível em: [https://dx.doi.org/10.2305/IUCN.UK.2016-2.RLTS.T136492A22212105.en.](https://dx.doi.org/10.2305/IUCN.UK.2016-2.RLTS.T136492A22212105.en) Acesso em 11 de abril de 2023.
 
-Pessôa, L.M., Tavares, W.C., Oliveira, J.A. & Patton, J.L. (2015). Genus Trinomys Thomas. Em: *In: Patton, J.L., Pardiñas, U.F.J., and D'Elia, G.  (eds), Mammals of South America Volume 2: Rodents*. The University of Chicago Press, Chicago, London, p. pp. 999--1017.
+Pessôa, L.M., Tavares, W.C., Oliveira, J.A. & Patton, J.L. (2015). Genus Trinomys Thomas. Em: *Mammals of South America Volume 2: Rodents* (orgs.  Patton, P., J.L. & D'Elia, G.). The University of Chicago Press, Chicago, London, p. 999--1017.
 
-Tavares, W.C. & Pessôa, L.M. (2010). Variação Morfológica em Populações de Trinomys (Thomas, 1921) de Restingas e Matas de Baixada no Estado do Rio de Janeiro. Em: *in L.M. Pessôa, W.C. Tavares e S. Siciliano.  Mamíferos de Restingas e Manguezais do Brasil.* Sociedade Brasileira de Mastozoologia, p. 128--154.
+Tavares, W.C. & Pessôa, L.M. (2010). Variação Morfológica em Populações de Trinomys (Thomas, 1921) de Restingas e Matas de Baixada no Estado do Rio de Janeiro. Em: *Mamíferos de Restingas e Manguezais do Brasil* (orgs. Pessôa, L.M., Tavares, W.C. & Siciliano, S.). Sociedade Brasileira de Mastozoologia, p. 128--154.

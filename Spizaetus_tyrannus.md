@@ -2,6 +2,10 @@
 
 **Autores(as)**: Monira Bruno Bicalho, Eline Martins, Karlo Guidoni e Vitor Torga
 
+![Fonte: Tom Friedel](media/rId20.jpg){width="6.486111111111111in" height="12.772648731408573in"}
+
+Fonte: *Tom Friedel*
+
 **Nomes populares**: gavião-pega-macaco, cutiú-preto, águia-pega-macaco, caturi
 
 **Filo**: Chordata
@@ -26,7 +30,7 @@ da EOO da espécie convertida em áreas de pastagens, mosaico de usos, café e s
 ## INFORMAÇÕES GERAIS
 
 *Spizaetus tyrannus* é um dos rapinantes mais robustos do Brasil (Pallinger & Menq 2021). Apesar de ser uma espécie estritamente florestal, plana e vocaliza regularmente sobre seu território acima da floresta, tornando-se uma espécie facilmente detectada nos locais onde ocorre (Pallinger & Menq 2021). Necessita de uma extensa área de vida, embora tolere certo grau de fragmentação florestal (Quintero & Jácome 2020; Pallinger & Menq 2021). Ocupa o dossel e sub-dossel de florestas primárias ou secundárias maduras, onde caça mamíferos arborícolas crepusculares ou noturnos de pequeno e médio porte, além de aves (Quintero & Jácome 2020; Pallinger & Menq 2021). A espécie instala seu ninho enorme no dossel da floresta, a uma altura entre 20 e 40 m, produzindo apenas um filhote a cada dois ou três anos (Quintero & Jácome 2020; Pallinger & Menq 2021). O mesmo ninho pode ser reaproveitado por várias temporadas reprodutivas consecutivas (Pallinger & Menq 2021). A necessidade
-de árvores de grande porte e florestas extensas, juntamente com sua baixa taxa reprodutiva e baixa densidade populacional, torna a espécie suscetível à extinção. O tempo de geração é estimado em 8,1 anos. Além disso, é válido ressaltar que em algumas regiões do interior do país, a espécie enfrenta o perigo da caça ilegal, motivada tanto pela alimentação quanto pelo esporte (Soares *et al.* 2008).
+de árvores de grande porte e florestas extensas, juntamente com sua baixa taxa reprodutiva e baixa densidade populacional, torna a espécie suscetível à extinção. O tempo de geração é estimado em 8,1 anos. Além disso, é válido ressaltar que em algumas regiões do interior do país, a espécie enfrenta o perigo da caça ilegal, motivada tanto pela alimentação quanto pelo esporte (Soares *et al.* 2008b).
 
 ## DISTRIBUIÇÃO GEOGRÁFICA
 
@@ -40,7 +44,7 @@ Não há registros da espécie em unidades de conservação.
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**PATs/PANs**: PAN Aves de Rapina (ICMBio 2008).
+**PATs/PANs**: PAN Aves de Rapina (Soares *et al.* 2008a).
 
 **CITES**: Apêndice II
 
@@ -54,12 +58,12 @@ Pesquisas relacionadas a tamanho e tendência populacional, história natural e 
 
 ## REFERÊNCIAS
 
-Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
-ICMBio. (2008). *Plano de ação nacional para a conservação de aves de rapina*. Série Espé. Brasília.
-
-Pallinger, F. & Menq, W. (2021). *Aves de Rapina do Brasil - Diurnos*.  Taxon Brasil, São Paulo/SP.
+Pallinger, F. & Menq, W. (2021). *Aves de Rapina do Brasil - Diurnos*.  TAXON BRASIL, São Paulo/SP.
 
 Quintero, I. & Jácome, A. (2020). [Black Hawk-Eagle (Spizaetus tyrannus)](https://doi.org/10.2173/bow.blheag1.01). Em: *Birds of the World* (org. Schulenberg, T.S.). Cornell Lab of Ornithology.
 
-Soares, E.S., Amaral, F.S.R., Carvalho Filho, E.P.M., Granzinolli, M.A., Albuquerque, J.L.B., Lisboa, J.S., *et al.* (2008). [*Plano de ação nacional para a conservação de Aves de rapina*](https://www.gov.br/icmbio/ptbr/assuntos/biodiversidade/pan/pan-aves-de-rapina).  Série Espécies Ameaçadas. ICMBio; MMA, Brasília.
+Soares, E.S., Amaral, F.S.R. do, Carvalho Filho, E.P.M. de, Granzinolli, M.A., Albuquerque, J.L.B., Lisboa, J.S., *et al.* (2008a). Plano de Ação Nacional para a Conservação de Aves de Rapina. Em:, Série Espécies Ameaçadas Nº5. ICMBio, Brasília, p. 136.
+
+Soares, E.S., Amaral, F.S.R., Carvalho Filho, E.P.M., Granzinolli, M.A., Albuquerque, J.L.B., Lisboa, J.S., *et al.* (Orgs.). (2008b). [*Plano de Ação Nacional para a Conservação de Aves de Rapina*](https://www.gov.br/icmbio/ptbr/assuntos/biodiversidade/pan/pan-aves-de-rapina).  Série Espécies Ameaçadas Nº5. ICMBio; MMA, Brasília.

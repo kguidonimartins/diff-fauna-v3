@@ -2,9 +2,9 @@
 
 **Autores(as)**: Tatianne P. F. Abreu-Jardim, Monira Bruno Bicalho, Karlo Guidoni e Jessica Naiara Reis
 
-![Fonte: Gabriel Bonfa - biodiversity4all](media/rId20.jpg){width="6.486111111111111in" height="4.3261843832021in"}
+![Fonte: Gabriel Bonfa - BioDiversity4All](media/rId20.jpg){width="6.486111111111111in" height="4.3261843832021in"}
 
-Fonte: *Gabriel Bonfa - biodiversity4all*
+Fonte: *Gabriel Bonfa - BioDiversity4All*
 
 **Nomes populares**: bacurauzinho-da-caatinga
 
@@ -56,7 +56,7 @@ Pesquisas relacionadas à história natural e ecologia, ameaças e tamanho e ten
 
 ## REFERÊNCIAS
 
-Araújo, H.F.P., Sousa, A.E.B.A., Santos, C.G.M., Lima, D.M., Nunes, F.P., Aguilar, J.M.R., *et al.* (2023). [Nyctidromus hirundinaceus](https://doi.org/10.37002/salve.ficha.20019). *Sistema de Avaliação do Risco de Extinção da Biodiversidade - SALVE.*
+Araújo, H.F.P., Sousa, A.E.B.A., Santos, C.G.M., Lima, D.M., Nunes, F.P., Aguilar, J.M.R., *et al.* (2023). *Nyctidromus hirundinaceus Spix, 1825*. *SALVE*. Disponível em: [https://doi.org/10.37002/salve.ficha.20019.](https://doi.org/10.37002/salve.ficha.20019) Acesso em 11 de abril de 2023.
 
 Ribon, R. (1995). [Nova subspécie de Caprimulgus (Linnaeus) (Aves, Caprimulgidae) do Espírito Santo, Brasil](https://doi.org/10.1590/S0101-81751995000200011). *Revista Brasileira de Zoologia*, 12, 333--337.
 
@@ -64,4 +64,4 @@ Tracewski, L., Butchart, S.H.M., Di Marco, M., Ficetola, G.F., Rondinini, C., Sy
 
 Vasconcelos, M.F. & Lins, L.V. (1998). First records of Caprimulgus hirundinaceus vielliardi for Minas Gerais State, Brazil. *Revista Brasileira de Ornitologia*, 6, 134--135.
 
-[WikiAves. (2023). *WikiAves, a Enciclopédia das Aves do Brasil*.](https://www.wikiaves.com.br/index.php)
+WikiAves. (2023). *WikiAves, a Enciclopédia das Aves do Brasil*.  Disponível em: [https://www.wikiaves.com.br/index.php.](https://www.wikiaves.com.br/index.php) Acesso em 11 de abril de 2023.

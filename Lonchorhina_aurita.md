@@ -37,11 +37,11 @@ A espécie está presente nas seguintes unidades de conservação: REBIO de Soor
 
 ## ESTRATÉGIAS DE CONSERVAÇÃO
 
-**Presenças em listas vermelhas:**
+**Presença em outras avaliações de risco de extinção:**
 
 -   Global: LC (IUCN 2023) -   Nacional: NT (Brasil 2022) -   Espírito Santo: VU (Espírito Santo 2022)
 
-**PATs/PANs**: Espécie beneficiada nos PATs Espinhaço Mineiro (Instituto Estadual de Florestas 2021) e Cerrado Tocantins (Instituto Natureza do Tocantins - NATURATINS 2020).
+**PATs/PANs**: Espécie beneficiada nos PATs Espinhaço Mineiro (IEF 2021) e Cerrado Tocantins (NATURATINS 2020).
 
 **CITES**: Não consta
 
@@ -56,42 +56,42 @@ As informações disponíveis atualmente sobre *Lonchorhina aurita* são fragmen
 
 ## REFERÊNCIAS
 
-Bernard, E., Gama, A.R. da, Gomes, A.M.E., Santos, C.L.C. dos, Fischer, E.A., Jesus Cordero Schmidt, E. de, *et al.* (2023). [Lonchorhina aurita Tomes, 1863](https://doi.org/10.37002/salve.ficha.20472.2).
+Bernard, E., Gama, A.R., Gomes, A.M.E., Santos, C.L.C., Fischer, E.A., Schmidt, E.J.C., *et al.* (2023). *Lonchorhina aurita Tomes, 1863*.  *SALVE*. Disponível em: [https://doi.org/10.37002/salve.ficha.20472.2.](https://doi.org/10.37002/salve.ficha.20472.2) Acesso em 11 de abril de 2023.
 
-Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) *Diário Oficial da União*.
+Brasil. (2022). [Portaria MMA Nº 148, de 7 de junho de 2022. Altera os Anexos da Portaria no 443, de 17 de dezembro de 2014, da Portaria no 444, de 17 de dezembro de 2014, e da Portaria no 445, de 17 de dezembro de 2014, referentes à atualização da Lista Nacional de Espécies Ameaçadas de Extinção. Ministério do Meio Ambiente.](https://in.gov.br/en/web/dou/-/portaria-mma-n-148-de-7-de-junho-de-2022-406272733) Em: *Diário Oficial da União, Edição 108, Seção 1*. p. 74--103.
 
-Bredt, A., Uieda, W. & Magalhães, E.D. (1999). Morcegos cavernı́colas da região do Distrito Federal, centro-oeste do Brasil (Mammalia, Chiroptera). *Revista Brasileira de Zoologia*, 16, 731--770.
+Bredt, A., Uieda, W. & Magalhães, E.D. (1999). [Morcegos cavernícolas da região do Distrito Federal, centro-oeste do Brasil (Mammalia, Chiroptera)](https://doi.org/10.1590/S0101-81751999000300012). *Revista Brasileira de Zoologia*, 16, 731--770.
 
-Eisenberg, J.F. & Redford, K.H. (1999). *Mammals of the Neotropics (Volume 3 ): The Central Neotropics: Ecuador, Peru, Bolivia, Brazil*.  University of Chicago Press.
+Eisenberg, J.F. & Redford, K.H. (1999). *Mammals of the Neotropics: Volume 3 The Central Neotropics: Ecuador, Peru, Bolivia, Brazil*.  University of Chicago Press, Chicago.
 
-Esbérard, C.E., Motta, J.A. & Perigo, C. (2005). Morcegos cavernı́colas da Área de Proteção Ambiental (APA) Nascentes do Rio vermelho, Goiás.  *Revista brasileira de Zoociências*, 7.
+Esbérard, C.E.L., Martins, L.F.S., Cruz, R.C., Costa, R.C., Nunes, M.S., Luz, E.M., *et al.* (1998). Aspectos da biologia de Lonchorhina aurita no Estado do Rio de Janeiro (Mammalia: Chiroptera: Phyllostomidae).  *Bioikos*, 10, 46--49.
 
-Esbérard, C., Martins, L., Cruz, R., Costa, R., Nunes, M., Luz, E., *et al.* (1998). Aspectos da biologia de Lonchorhina aurita no Estado do Rio de Janeiro (Mammalia: Chiroptera: Phyllostomidae). *Bioikos*, 10, 46--49.
+Esbérard, C.E.L., Motta, J.A. & Perigo, C. (2005). Morcegos cavernı́colas da Área de Proteção Ambiental (APA) Nascentes do Rio vermelho, Goiás.  *Revista brasileira de Zoociências*, 7.
 
 Espírito Santo. (2022). [Decreto Nº 5237-R, de 25 de novembro de 2022.  Declara as espécies de fauna ameaçadas de extinção no Estado do Espírito Santo e dá outras providências](https://iema.es.gov.br/Media/iema/FAUNA/Decreto%205237-R_2022_25-Nov%20-%20Fauna%20(s-peixes)%20-%20Lista%20de%20Esp%C3%A9cies%20Amea%C3%A7adas%20de%20Extin%C3%A7%C3%A3o.pdf).
 
-Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda.
+Golder Associates. (2016). *Avaliação de Impacto Sobre as Espécies Terrestres Ameaçadas de Extinção* (Relatório No.  RT-031_159-515-2282_02-J). Golder Associates Brasil Consultoria e Projetos Ltda; Samarco Mineração S.A./Fundação Renova.
 
-Goodwin, G.G. & Greenhall, A.M. (1961). A review of the bats of Trinidad and Tobago : descriptions, rabies infection, and ecology. Bulletin of the AMNH ; v. 122, article 3.
+Goodwin, G.G. & Greenhall, A.M. (1961). A review of the Bats of Trinidad and Tobago: descriptions, rabies infection, and ecology. *Bulletin of the American Museum of Natural History*, 122.
 
-Instituto Estadual de Florestas. (2021). *Plano de Ação Territorial para Conservação de Espécies Ameaçadas de Extinção do Território Espinhaço Mineiro: sumário executivo*. IEF, Belo Horizonte.
+IEF. (2021). Plano de Ação Territorial para Conservação de Espécies Ameaçadas de Extinção do Território Espinhaço Mineiro. Sumário Executivo. IEF, Belo Horizonte, p. 27.
 
-Instituto Natureza do Tocantins - NATURATINS. (2020). *Plano de Ação Territorial para Conservação de Espécies Ameaçadas de Extinção do Território Cerrado Tocantins (PAT Cerrado Tocantins)- Sumário Executivo*. Palmas/TO.
-
-IUCN. (2023). [The IUCN Red List of Threatened Species. Version 2023-1.](https://www.iucnredlist.org.)
+IUCN. (2023). *The IUCN Red List of Threatened Species. Version 2023-1.* Disponível em: <https://www.iucnredlist.org.> Acesso em 11 de abril de 2023.
 
 Lassieur, S. & Wilson, D.E. (1989). Lonchorhina aurita. *Mammalian species*, 1--4.
 
-Leal, E.S.B., Gomes-Silva, F.F., Queiróz Guerra Filho, D. de, Azevedo Júnior, S.M. de, Lyra-Neves, R.M. de & Telino-Júnior, W.R. (2018).  Update of the distribution of Lonchorhina aurita (Chiroptera), a vulnerable cave-dwelling bat in Brazil. *Neotropical Biology and Conservation*, 13, 254.
+Leal, E.S.B., Gomes-Silva, F.F., De Queiró Guerra Filho, D., De Azevedo Júnior, S.M., Lyra-Neves, R.M. & Telino-Júnior, W.R. (2018). Update of the distribution of Lonchorhina aurita (Chiroptera), a vulnerable cave-dwelling bat in Brazil. *Neotropical Biology and Conservation*, 13, 254.
 
 Luz, J.L., Costa, L. de M., Lourenço, E.C. & Esbérard, C.E.L. (2011).  Morcegos (Mammalia, Chiroptera) da Reserva Rio das Pedras, Rio de Janeiro, Sudeste do Brasil. *Biota Neotropica*, 11, 95--101.
 
-Paglia, A.P., Da Fonseca, G., Rylands, A.B., Herrmann, G., Aguiar, L., Chiarello, A.G., *et al.* (2012). Lista Anotada dos Mamı́feros do Brasil 2 Edição/Annotated Checklist of Brazilian Mammals. *Occasional papers in conservation biology*, 6.
+NATURATINS. (2020). *Plano de Ação Territorial para Conservação de Espécies Ameaçadas de Extinção do Território Cerrado Tocantins (PAT Cerrado Tocantins)- Sumário Executivo*. Palmas/TO.
+
+Paglia, A.P., Fonseca, G.A.B., Rylands, A.B., Herrmann, G., Aguiar, L.M.S., Chiarello, A.G., *et al.* (2012). Lista Anotada dos Mamíferos do Brasil / Annotated Checklist of Brazilian Mammals. Occasional Papers in Conservation Biology, Nº6. Conservation International, Arlington, p.  1--76.
 
 Reid, F. (1997). *A field guide to the mammals of Central America and Southeast Mexico*. Oxford University Press.
 
-Reis, N.R. dos, Peracchi, A.L., Pedro, W.A. & Lima, I.P. de. (2007).  *Morcegos do Brasil*. Universidade Estadual de Londrina.
+Reis, N.R., Peracchi, A.L., Pedro, W.A. & Lima, I.P. (2007). *Morcegos do Brasil*. Universidade Estadual de Londrina, Londrina.
 
-Solari, S. (2015). [Lonchorhina aurita](https://doi.org/10.2305/iucn.uk.2015-4.rlts.t12270a22039503.en).  *IUCN Red List of Threatened Species*.
+Solari, S. (2015). *Lonchorhina aurita*. *The IUCN Red List of Threatened Species 2015: e.T12270A22039503*. Disponível em: [http://dx.doi.org/10.2305/IUCN.UK.2015-4.RLTS.T12270A22039503.en.](http://dx.doi.org/10.2305/IUCN.UK.2015-4.RLTS.T12270A22039503.en) Acesso em 11 de abril de 2023.
 
-Solari, S., Medellı́n, R., Rodrı́guez-Herrera, B., Dumont, E., Burneo, S., Tavares, V. da C., *et al.* (2019). Family Phyllostomidae (new world leaf-nosed bats). *Handbook of the Mammals of the World, Bats*, 9, 444--583.
+Solari, S., Medellı́n, R., Rodrı́guez-Herrera, B., Dumont, E.R., Burneo, S.F., Tavares, V.C., *et al.* (2019). Family Phyllostomidae (new world leaf-nosed bats). *Handbook of the Mammals of the World, Bats*, 9, 444--583.
